@@ -1,0 +1,1057 @@
+## BMW|Serie 1
+116|122|gasolina|automático
+118d|150|diésel|automático
+120|170|microhíbrido|automático
+120d|163|microhíbrido|automático
+M135 xDrive|300|gasolina|automático
+## BMW|Serie 2
+216|122|gasolina|automático
+218d|150|diésel|automático
+220|170|microhíbrido|automático
+220d|163|microhíbrido|automático
+218i|156|gasolina|automático
+220i|184|gasolina|automático
+230i|245|gasolina|automático
+M235 xDrive|300|gasolina|automático
+M240i xDrive|392|microhíbrido|automático
+M2|480|gasolina|automático
+M2 CS|530|gasolina|automático
+## BMW|Serie 2 Active Tourer
+218i|136|gasolina|automático
+218d|150|diésel|automático
+220i|170|microhíbrido|automático
+220d|163|microhíbrido|automático
+225e xDrive|245|híbrido enchufable|automático
+230e xDrive|326|híbrido enchufable|automático
+## BMW|Serie 3
+318d|150|microhíbrido|automático
+320i|184|gasolina|automático
+320d|190|microhíbrido|automático
+330i|245|gasolina|automático
+330e|292|híbrido enchufable|automático
+M3|530|gasolina|automático
+## BMW|Serie 4
+420i|184|gasolina|automático
+420d|190|microhíbrido|automático
+430i xDrive|245|gasolina|automático
+430d xDrive|286|microhíbrido|automático
+M4 Competition|530|gasolina|automático
+## BMW|Serie 5
+520d|197|diésel|automático
+520i|208|gasolina|automático
+530e|299|híbrido enchufable|automático
+540d|303|diésel|automático
+M5|727|híbrido enchufable|automático
+## BMW|X1
+sDrive18i|136|gasolina|?
+sDrive18d|150|diésel|?
+sDrive20i|170|microhíbrido|?
+sDrive20d|163|microhíbrido|?
+xDrive25e|245|híbrido enchufable|?
+xDrive30e|326|híbrido enchufable|?
+M35i xDrive|300|gasolina|?
+## BMW|X3
+20 xDrive|211|microhíbrido|?
+20d xDrive|197|microhíbrido|?
+30e xDrive|299|híbrido enchufable|?
+40d xDrive|303|microhíbrido|?
+M50 xDrive|443|microhíbrido|?
+## BMW|i3
+i3 40 xDrive|374|eléctrico|?
+i3 50 xDrive|469|eléctrico|?
+## BMW|i4
+eDrive35|286|eléctrico|?
+eDrive40|340|eléctrico|?
+M60 xDrive|601|eléctrico|?
+## BMW|i5
+eDrive40|340|eléctrico|?
+xDrive40|394|eléctrico|?
+M60 xDrive|601|eléctrico|?
+## BMW|i7
+eDrive50|455|eléctrico|?
+60 xDrive|544|eléctrico|?
+M70 xDrive|680|eléctrico|?
+## BMW|iX
+xDrive45|408|eléctrico|?
+xDrive60|544|eléctrico|?
+M70 xDrive|660|eléctrico|?
+## BMW|iX1
+eDrive20|204|eléctrico|?
+xDrive30|313|eléctrico|?
+## BMW|iX2
+eDrive20|204|eléctrico|?
+xDrive30|313|eléctrico|?
+## BMW|iX3
+40|320|eléctrico|?
+50 xDrive|469|eléctrico|?
+## BMW|Serie 7
+740d xDrive|299|microhíbrido|?
+750e xDrive|489|híbrido enchufable|?
+M760e xDrive|571|híbrido enchufable|?
+i7 50 xDrive|455|eléctrico|?
+i7 60 xDrive|544|eléctrico|?
+i7 M70 xDrive|680|eléctrico|?
+## BMW|X2
+sDrive18d|150|diésel|automático
+sDrive20i|170|microhíbrido|automático
+sDrive20d|163|microhíbrido|automático
+M35i xDrive|300|gasolina|automático
+## BMW|X4
+xDrive20i|184|microhíbrido|automático
+xDrive20d|190|microhíbrido|automático
+xDrive30d|286|microhíbrido|automático
+M40i|360|microhíbrido|automático
+M40d|340|microhíbrido|automático
+X4 M|480|gasolina|automático
+X4 M Competition|510|gasolina|automático
+## BMW|X5
+Diésel 298 CV|298|diésel|?
+Diésel 313 CV|313|diésel|?
+Gasolina 400 CV|400|gasolina|?
+Híbrido enchufable 489 CV|489|híbrido enchufable|?
+Gasolina 530 CV|530|gasolina|?
+Gasolina 625 CV|625|gasolina|?
+## BMW|X6
+xDrive30d|298|microhíbrido|automático
+xDrive40i|381|microhíbrido|automático
+xDrive40d|352|microhíbrido|automático
+M60i xDrive|530|microhíbrido|automático
+M Competition|625|microhíbrido|automático
+## BMW|X7
+xDrive40i|381|microhíbrido|automático
+xDrive40d|352|microhíbrido|automático
+M60i xDrive|530|microhíbrido|automático
+## BMW|XM
+XM|653|híbrido enchufable|automático
+## Renault|4 E-Tech
+Eléctrico 122 CV|122|eléctrico|?
+Eléctrico 150 CV|150|eléctrico|?
+## Renault|5 E-Tech
+Eléctrico 95 CV|95|eléctrico|?
+Eléctrico 120 CV|120|eléctrico|?
+Eléctrico 150 CV|150|eléctrico|?
+## Renault|Arkana
+TCe 140 mild hybrid EDC|140|microhíbrido|automático
+E-Tech full hybrid 145|145|híbrido|automático
+## Renault|Austral
+Mild hybrid 150|150|microhíbrido|automático
+E-Tech full hybrid 200|200|híbrido|automático
+## Renault|Captur
+TCe 90|90|gasolina|?
+TCe 115|115|gasolina|?
+Eco-G 100|100|GLP|?
+Eco-G 120|120|GLP|?
+TCe 140 mild hybrid EDC|140|microhíbrido|automático
+TCe 160 mild hybrid EDC|160|microhíbrido|automático
+E-Tech full hybrid|145|híbrido|automático
+E-Tech híbrido enchufable|160|híbrido enchufable|automático
+## Renault|Clio
+TCe 90|90|gasolina|?
+TCe 115|115|gasolina|?
+Eco-G 100|100|GLP|?
+Eco-G 120 EDC|120|GLP|automático
+dCi 100|100|diésel|?
+E-Tech full hybrid 145|143|híbrido|automático
+E-Tech full hybrid 160|160|híbrido|automático
+## Renault|Espace
+E-Tech full hybrid 200|200|híbrido|automático
+## Renault|Kangoo Combi
+Blue dCi 95|95|diésel|?
+Blue dCi 115|115|diésel|?
+## Renault|Megane E-Tech
+Eléctrico 218 CV|218|eléctrico|?
+## Renault|Rafale
+E-Tech full hybrid 200|200|híbrido|automático
+E-Tech 4x4 300|300|híbrido enchufable|automático
+## Renault|Scenic E-Tech
+Eléctrico 170 CV|170|eléctrico|?
+Eléctrico 220 CV|220|eléctrico|?
+## Renault|Symbioz
+Eco-G 120|120|GLP|?
+Mild hybrid 140|140|microhíbrido|automático
+E-Tech full hybrid 160|160|híbrido|automático
+## Renault|Trafic
+dCi 110|110|diésel|manual
+dCi 150|150|diésel|?
+dCi 170|170|diésel|automático
+## Renault|Twingo E-Tech
+Eléctrico 82 CV|82|eléctrico|?
+## Dacia|Bigster
+Mild hybrid-G 140 (GLP)|140|GLP|?
+Mild hybrid 140|140|microhíbrido|?
+Hybrid 155|155|híbrido|automático
+Tribrid 150 4x4|150|GLP|?
+## Dacia|Duster
+Eco-G 120|123|GLP|?
+TCe 130 mild hybrid|130|microhíbrido|?
+Mild hybrid 140|140|microhíbrido|?
+Hybrid 155|155|híbrido|automático
+## Dacia|Jogger
+TCe 110|110|gasolina|?
+Eco-G 100|100|GLP|?
+Eco-G 120|120|GLP|?
+Hybrid 155|155|híbrido|automático
+## Dacia|Sandero
+SCe 65|67|gasolina|?
+TCe 90|91|gasolina|?
+TCe 100|100|gasolina|?
+Eco-G 100|101|GLP|?
+Eco-G 120|122|GLP|?
+Hybrid 155|155|híbrido|automático
+## Dacia|Spring
+Eléctrico 70 CV|70|eléctrico|?
+Eléctrico 100 CV|100|eléctrico|?
+## Audi|A1
+30 TFSI 116 CV|116|gasolina|manual/automático
+35 TFSI 150 CV|150|gasolina|automático
+## Audi|A2 e-tron
+Eléctrico 170 CV|170|eléctrico|?
+Eléctrico 190 CV|190|eléctrico|?
+Eléctrico 231 CV|231|eléctrico|?
+Eléctrico 326 CV|326|eléctrico|?
+## Audi|A3
+30 TFSI 116 CV|116|gasolina|manual
+30 TFSI mild hybrid 116 CV|116|microhíbrido|automático
+30 TDI 116 CV|116|diésel|manual
+35 TFSI 150 CV|150|gasolina|automático
+35 TFSI mild hybrid 150 CV|150|microhíbrido|automático
+TFSI e 204 CV|204|híbrido enchufable|automático
+RS 3 400 CV|400|gasolina|automático
+## Audi|A5
+TFSI 150 CV|150|gasolina|automático
+TFSI 204 CV|204|gasolina|automático
+TDI 204 CV|204|microhíbrido|automático
+e-hybrid quattro 299 CV|299|híbrido enchufable|automático
+## Audi|A6
+TDI 204 CV|204|microhíbrido|automático
+e-hybrid quattro 299 CV|299|híbrido enchufable|automático
+e-hybrid quattro 367 CV|367|híbrido enchufable|automático
+## Audi|A6 e-tron
+e-tron 326 CV|326|eléctrico|?
+e-tron Performance 381 CV|381|eléctrico|?
+e-tron quattro 462 CV|462|eléctrico|?
+S6 e-tron 551 CV|551|eléctrico|?
+## Audi|A8
+50 TDI 286 CV|286|microhíbrido|automático
+60 TFSIe 462 CV|462|híbrido enchufable|automático
+S8 571 CV|571|microhíbrido|automático
+## Audi|e-tron GT
+quattro 585 CV|585|eléctrico|?
+S quattro 680 CV|680|eléctrico|?
+RS quattro 857 CV|857|eléctrico|?
+RS performance 925 CV|925|eléctrico|?
+## Audi|Q2
+30 TFSI 116 CV|116|gasolina|manual
+30 TDI 116 CV|116|diésel|manual
+35 TFSI 150 CV|150|gasolina|manual/automático
+35 TDI 150 CV|150|diésel|automático
+SQ2 300 CV|300|gasolina|automático
+## Audi|Q3
+TFSI 150 CV|150|microhíbrido|automático
+TDI 150 CV|150|diésel|automático
+TFSI quattro 204 CV|204|gasolina|automático
+TDI quattro 193 CV|193|diésel|automático
+e-hybrid 272 CV|272|híbrido enchufable|automático
+## Audi|Q3 Sportback
+=Audi|Q3
+## Audi|Q4 e-tron
+Eléctrico 204 CV|204|eléctrico|?
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico quattro 299 CV|299|eléctrico|?
+## Audi|Q4 Sportback e-tron
+=Audi|Q4 e-tron
+## Audi|Q5
+TFSI 204 CV|204|microhíbrido|automático
+TDI 204 CV|204|microhíbrido|automático
+e-hybrid 299 CV|299|híbrido enchufable|automático
+V6 TFSI 367 CV|367|microhíbrido|automático
+## Audi|Q5 Sportback
+=Audi|Q5
+## Audi|Q6 e-tron
+Eléctrico 292 CV|292|eléctrico|?
+Performance 326 CV|326|eléctrico|?
+quattro 462 CV|462|eléctrico|?
+SQ6 e-tron 517 CV|517|eléctrico|?
+## Audi|Q6 Sportback e-tron
+=Audi|Q6 e-tron
+## Audi|Q7
+TDI 245 CV|245|microhíbrido|automático
+TDI 299 CV|299|microhíbrido|automático
+TFSI 340 CV|340|microhíbrido|automático
+TFSI e 394 CV|394|híbrido enchufable|automático
+SQ7 507 CV|507|gasolina|automático
+## Audi|Q8
+TDI 231 CV|231|microhíbrido|automático
+TDI 286 CV|286|microhíbrido|automático
+TFSI 340 CV|340|microhíbrido|automático
+TFSI e 394 CV|394|híbrido enchufable|automático
+TFSI e 490 CV|490|híbrido enchufable|automático
+RS Q8 640 CV|640|gasolina|automático
+## Audi|Q9
+V6 TDI 299 CV|299|microhíbrido|automático
+## Toyota|Aygo X Cross
+1.5 Hybrid 116 CV|116|híbrido|automático
+## Toyota|bZ4X
+250E 227 CV|227|eléctrico|?
+350E AWD-i 348 CV|348|eléctrico|?
+## Toyota|C-HR
+140H|140|híbrido|automático
+200H|197|híbrido|automático
+220PH|223|híbrido enchufable|automático
+## Toyota|C-HR+
+77 kWh FWD 224 CV|224|eléctrico|?
+77 kWh AWD-i 343 CV|343|eléctrico|?
+## Toyota|Corolla
+140H|140|híbrido|automático
+200H|178|híbrido|automático
+## Toyota|Corolla Cross
+Hybrid 140|140|híbrido|automático
+Hybrid 200|180|híbrido|automático
+## Toyota|GR Supra
+3.0T 340 CV|340|gasolina|manual/automático
+3.0T 441 CV|441|gasolina|manual
+## Toyota|GR Yaris
+1.6T 280 CV|280|gasolina|manual
+## Toyota|Land Cruiser
+2.8 diésel mild hybrid 205 CV|205|microhíbrido|automático
+## Toyota|Mirai
+Hidrógeno 182 CV|182|hidrógeno|automático
+## Toyota|Proace City Verso
+1.5D 102 CV|102|diésel|manual
+1.5D 131 CV|131|diésel|manual/automático
+Eléctrico 136 CV|136|eléctrico|?
+## Toyota|Proace Verso
+2.2D 150 CV|150|diésel|manual/automático
+2.2D 180 CV|180|diésel|automático
+Eléctrico 136 CV|136|eléctrico|?
+## Toyota|RAV4
+Híbrido 185 CV|185|híbrido|automático
+Híbrido enchufable 272 CV|272|híbrido enchufable|automático
+Híbrido enchufable AWD-i 309 CV|309|híbrido enchufable|automático
+## Toyota|Yaris
+1.5 gasolina 125 CV|125|gasolina|manual
+1.5 120H|116|híbrido|automático
+1.5 130H|130|híbrido|automático
+## Toyota|Yaris Cross
+1.5 130H|130|híbrido|automático
+## Hyundai|Bayon
+1.2 MPI 79 CV|79|gasolina|?
+1.0T 90 CV|90|gasolina|?
+1.0 TGDI 48V 100 CV|100|microhíbrido|?
+## Hyundai|i10
+1.0 MPI 63 CV|63|gasolina|?
+1.2 MPI 79 CV|79|gasolina|?
+## Hyundai|i20
+1.2 MPI 79 CV|79|gasolina|?
+1.0T 90 CV|90|gasolina|?
+1.0 TGDI 100 CV|100|gasolina|?
+1.0 TGDI 48V 100 CV|100|microhíbrido|?
+## Hyundai|i30
+1.0 TGDI 100 CV|100|gasolina|?
+1.0 TGDI 48V 100 CV|100|microhíbrido|?
+1.0 TGDI 115 CV|115|gasolina|?
+1.6 TGDI 150 CV|150|gasolina|automático
+## Hyundai|Inster
+Eléctrico 97 CV|97|eléctrico|?
+Eléctrico 115 CV|115|eléctrico|?
+## Hyundai|IONIQ 3
+Eléctrico 135 CV|135|eléctrico|?
+Eléctrico 147 CV|147|eléctrico|?
+## Hyundai|IONIQ 5
+63 kWh 170 CV|170|eléctrico|?
+84 kWh 228 CV|228|eléctrico|?
+84 kWh AWD 325 CV|325|eléctrico|?
+N 650 CV|650|eléctrico|?
+## Hyundai|IONIQ 6
+63 kWh 170 CV|170|eléctrico|?
+84 kWh 228 CV|228|eléctrico|?
+84 kWh AWD 325 CV|325|eléctrico|?
+N 650 CV|650|eléctrico|?
+## Hyundai|IONIQ 9
+110 kWh RWD 218 CV|218|eléctrico|?
+110 kWh AWD 313 CV|313|eléctrico|?
+110 kWh AWD 435 CV|435|eléctrico|?
+## Hyundai|Kona
+1.0T 115 CV|115|gasolina|?
+1.6T 150 CV|150|gasolina|?
+1.6 GDI híbrido 138 CV|138|híbrido|automático
+Eléctrico 48 kWh 135 CV|135|eléctrico|?
+Eléctrico 65 kWh 204 CV|204|eléctrico|?
+## Hyundai|Nexo
+Hidrógeno 204 CV|204|hidrógeno|automático
+## Hyundai|Santa Fe
+1.6T HEV 215 CV|215|híbrido|automático
+1.6 TGDI HEV 239 CV|239|híbrido|automático
+1.6 TGDI PHEV 288 CV|288|híbrido enchufable|automático
+## Hyundai|Staria
+1.6 TGDI HEV 225 CV|225|híbrido|automático
+## Hyundai|Tucson
+1.6D 48V 136 CV|136|microhíbrido|?
+1.6T 150 CV|150|gasolina|?
+1.6T HEV 239 CV|239|híbrido|automático
+1.6T PHEV 252 CV|252|híbrido enchufable|automático
+1.6T PHEV 288 CV|288|híbrido enchufable|automático
+## Kia|Ceed
+1.0 T-GDi 100 CV|100|gasolina|?
+1.0 MHEV 100 CV|100|microhíbrido|automático
+1.5 MHEV 140 CV|140|microhíbrido|automático
+## Kia|e-Niro
+Eléctrico 204 CV|204|eléctrico|?
+## Kia|EV2
+Eléctrico 42 kWh 147 CV|147|eléctrico|?
+Eléctrico 61 kWh 135 CV|135|eléctrico|?
+## Kia|EV3
+Eléctrico 204 CV|204|eléctrico|?
+## Kia|EV4
+Eléctrico 204 CV|204|eléctrico|?
+## Kia|EV5
+Eléctrico 218 CV|218|eléctrico|?
+## Kia|EV6
+RWD 170 CV|170|eléctrico|?
+RWD 229 CV|229|eléctrico|?
+AWD 325 CV|325|eléctrico|?
+GT AWD 650 CV|650|eléctrico|?
+## Kia|EV9
+AWD 385 CV|385|eléctrico|?
+## Kia|K4
+1.0 T-GDi MHEV 115 CV|115|microhíbrido|manual/automático
+1.6 T-GDi 150 CV|150|gasolina|automático
+1.6 T-GDi 180 CV|180|gasolina|automático
+## Kia|K4 Sportswagon
+=Kia|K4
+## Kia|Niro
+1.6 GDi HEV 138 CV|138|híbrido|automático
+1.6 GDi PHEV 180 CV|180|híbrido enchufable|automático
+## Kia|Picanto
+1.0 GDi 68 CV|68|gasolina|manual
+## Kia|PV5
+Eléctrico 122 CV|122|eléctrico|?
+Eléctrico 163 CV|163|eléctrico|?
+## Kia|Seltos
+1.6 T-GDi 180 CV|180|gasolina|manual/automático
+## Kia|Sorento
+2.2 CRDi 194 CV|194|diésel|automático
+1.6 T-GDi HEV 239 CV|239|híbrido|automático
+1.6 T-GDi PHEV 288 CV|288|híbrido enchufable|automático
+## Kia|Sportage
+1.6 CRDi MHEV 136 CV|136|microhíbrido|?
+1.6 T-GDi 150 CV|150|gasolina|?
+1.6 T-GDi 180 CV|180|gasolina|automático
+1.6 T-GDi HEV 239 CV|239|híbrido|automático
+1.6 T-GDi PHEV 252 CV|252|híbrido enchufable|automático
+1.6 T-GDi PHEV 288 CV|288|híbrido enchufable|automático
+## Kia|Stonic
+1.0 T-GDi 100 CV|100|gasolina|?
+1.0 T-GDi MHEV 115 CV|115|microhíbrido|?
+## Kia|XCeed
+1.0 T-GDi 115 CV|115|gasolina|?
+1.0 MHEV 115 CV|115|microhíbrido|manual/automático
+1.6 T-GDi 150 CV|150|gasolina|automático
+1.6 T-GDi 180 CV|180|gasolina|automático
+## Volkswagen|Caddy
+2.0 TDI 102 CV|102|diésel|manual
+2.0 TDI 122 CV|122|diésel|automático
+1.5 TSI eHybrid 150 CV|150|híbrido enchufable|automático
+## Volkswagen|California
+2.0 TDI 150 CV|150|diésel|automático
+1.5 eHybrid 245 CV|245|híbrido enchufable|automático
+## Volkswagen|Caravelle
+Eléctrico 218 CV|218|eléctrico|?
+2.5 eHybrid 233 CV|233|híbrido enchufable|automático
+## Volkswagen|Golf
+1.5 TSI 116 CV|116|gasolina|manual
+2.0 TDI 116 CV|116|diésel|manual/automático
+1.5 eTSI 116 CV|116|microhíbrido|automático
+1.5 eTSI 150 CV|150|microhíbrido|automático
+1.5 Hybrid 170 CV|170|híbrido|automático
+2.0 TSI R 333 CV|333|gasolina|automático
+## Volkswagen|ID. Buzz
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico 340 CV|340|eléctrico|?
+## Volkswagen|ID. Cross
+Eléctrico 211 CV|211|eléctrico|?
+## Volkswagen|ID. Polo
+Eléctrico 116 CV|116|eléctrico|automático
+Eléctrico 135 CV|135|eléctrico|automático
+Eléctrico 211 CV|211|eléctrico|automático
+GTI 226 CV|226|eléctrico|automático
+## Volkswagen|ID.3
+Eléctrico 170 CV|170|eléctrico|automático
+Eléctrico 204 CV|204|eléctrico|automático
+GTX 326 CV|326|eléctrico|automático
+## Volkswagen|ID.3 Neo
+=Volkswagen|ID.3
+## Volkswagen|ID.4
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico 340 CV|340|eléctrico|?
+## Volkswagen|ID.5
+Eléctrico 170 CV|170|eléctrico|?
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico 340 CV|340|eléctrico|?
+## Volkswagen|ID.7
+Eléctrico 286 CV|286|eléctrico|automático
+Eléctrico 340 CV|340|eléctrico|automático
+## Volkswagen|Multivan
+2.0 TDI 150 CV|150|diésel|automático
+1.5 eHybrid 245 CV|245|híbrido enchufable|automático
+## Volkswagen|Passat
+2.0 TDI 122 CV|122|diésel|automático
+2.0 TDI 150 CV|150|diésel|automático
+2.0 TDI 193 CV|193|diésel|automático
+1.5 eTSI 150 CV|150|microhíbrido|automático
+eHybrid 204 CV|204|híbrido enchufable|automático
+eHybrid 272 CV|272|híbrido enchufable|automático
+## Volkswagen|Polo
+1.0 MPI 80 CV|80|gasolina|manual
+1.0 TSI 95 CV|95|gasolina|manual/automático
+1.0 TSI 116 CV|116|gasolina|automático
+GTI 2.0 TSI 207 CV|207|gasolina|automático
+## Volkswagen|T-Cross
+1.0 TSI 95 CV|95|gasolina|manual
+1.0 TSI 116 CV|116|gasolina|manual/automático
+1.5 TSI 150 CV|150|gasolina|automático
+## Volkswagen|T-Roc
+1.0 TSI 115 CV|115|gasolina|automático
+2.0 TDI 115 CV|115|diésel|automático
+1.5 eTSI 116 CV|116|microhíbrido|automático
+1.5 TSI Hybrid 136 CV|136|híbrido|automático
+1.5 TSI 150 CV|150|gasolina|automático
+R 2.0 TSI 4Motion 300 CV|300|gasolina|automático
+## Volkswagen|Taigo
+1.0 TSI 95 CV|95|gasolina|manual
+1.0 TSI 116 CV|116|gasolina|manual/automático
+1.5 TSI 150 CV|150|gasolina|automático
+## Volkswagen|Tayron
+1.5 eTSI 150 CV|150|microhíbrido|automático
+2.0 TDI 150 CV|150|diésel|automático
+2.0 TSI 204 CV|204|gasolina|automático
+1.5 eHybrid 204 CV|204|híbrido enchufable|automático
+1.5 eHybrid 272 CV|272|híbrido enchufable|automático
+## Volkswagen|Tiguan
+1.5 eTSI 130 CV|130|microhíbrido|automático
+1.5 eTSI 150 CV|150|microhíbrido|automático
+2.0 TDI 150 CV|150|diésel|automático
+1.5 eHybrid 272 CV|272|híbrido enchufable|automático
+## Volkswagen|Touareg
+3.0 V6 TDI 231 CV|231|diésel|automático
+3.0 V6 TDI 286 CV|286|diésel|automático
+3.0 V6 eHybrid 381 CV|381|híbrido enchufable|automático
+3.0 V6 eHybrid 462 CV|462|híbrido enchufable|automático
+## Volkswagen|Touran
+2.0 TDI 122 CV|122|diésel|manual
+1.5 TSI 150 CV|150|gasolina|manual/automático
+2.0 TDI 150 CV|150|diésel|automático
+## SEAT|Arona
+1.0 TSI 95 CV|95|gasolina|?
+1.0 TSI 115 CV|115|gasolina|manual/automático
+1.5 TSI 150 CV|150|gasolina|automático
+## SEAT|Ateca
+1.0 TSI 115 CV|115|gasolina|?
+1.5 TSI 150 CV|150|gasolina|?
+2.0 TDI 150 CV|150|diésel|automático
+## SEAT|Ibiza
+1.0 MPI 80 CV|80|gasolina|?
+1.0 TSI 95 CV|95|gasolina|?
+1.0 TSI 115 CV|115|gasolina|?
+1.5 TSI 150 CV|150|gasolina|automático
+## SEAT|León
+1.5 TSI 116 CV|116|gasolina|?
+1.5 TSI 150 CV|150|gasolina|?
+1.5 eTSI 116 CV|116|microhíbrido|automático
+1.5 e-Hybrid 204 CV|204|híbrido enchufable|automático
+## Cupra|Ateca
+2.0 TSI 300 CV|300|gasolina|automático
+## Cupra|Born
+Eléctrico 190 CV|190|eléctrico|?
+Eléctrico 231 CV|231|eléctrico|?
+VZ 326 CV|326|eléctrico|?
+## Cupra|Formentor
+1.5 TSI 150 CV|150|gasolina|?
+1.5 eTSI 150 CV|150|microhíbrido|automático
+2.0 TDI 150 CV|150|diésel|automático
+2.0 TSI 204 CV|204|gasolina|automático
+1.5 e-Hybrid 204 CV|204|híbrido enchufable|automático
+1.5 e-Hybrid 272 CV|272|híbrido enchufable|automático
+## Cupra|León
+1.5 TSI 150 CV|150|gasolina|?
+1.5 eTSI 150 CV|150|microhíbrido|automático
+2.0 TDI 150 CV|150|diésel|automático
+e-Hybrid 272 CV|272|híbrido enchufable|automático
+2.0 TSI 333 CV|333|gasolina|automático
+## Cupra|Raval
+Eléctrico 135 CV|135|eléctrico|?
+Eléctrico 211 CV|211|eléctrico|?
+VZ 226 CV|226|eléctrico|?
+## Cupra|Tavascan
+Eléctrico 190 CV|190|eléctrico|?
+Eléctrico 286 CV|286|eléctrico|?
+VZ 340 CV|340|eléctrico|?
+## Cupra|Terramar
+1.5 eTSI 150 CV|150|microhíbrido|automático
+1.5 e-Hybrid 204 CV|204|híbrido enchufable|automático
+2.0 TSI 204 CV|204|gasolina|automático
+2.0 TSI 265 CV|265|gasolina|automático
+1.5 e-Hybrid 272 CV|272|híbrido enchufable|automático
+## Skoda|Elroq
+Eléctrico 170 CV|170|eléctrico|?
+Eléctrico 190 CV|190|eléctrico|?
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico 4x4 299 CV|299|eléctrico|?
+RS 340 CV|340|eléctrico|?
+## Skoda|Enyaq
+Eléctrico 190 CV|190|eléctrico|?
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico 4x4 299 CV|299|eléctrico|?
+RS 340 CV|340|eléctrico|?
+## Skoda|Enyaq Coupé
+=Skoda|Enyaq
+## Skoda|Epiq
+Eléctrico 135 CV|135|eléctrico|?
+Eléctrico 211 CV|211|eléctrico|?
+## Skoda|Fabia
+1.0 MPI 80 CV|80|gasolina|?
+1.0 TSI 95 CV|95|gasolina|?
+1.0 TSI 115 CV|115|gasolina|manual/automático
+1.5 TSI 150 CV|150|gasolina|automático
+## Skoda|Kamiq
+1.0 TSI 95 CV|95|gasolina|manual
+1.0 TSI 115 CV|115|gasolina|?
+1.5 TSI 150 CV|150|gasolina|automático
+## Skoda|Karoq
+1.0 TSI 115 CV|115|gasolina|?
+1.5 TSI 150 CV|150|gasolina|manual/automático
+2.0 TDI 115 CV|115|diésel|?
+2.0 TDI 150 CV|150|diésel|automático
+2.0 TSI 190 CV|190|gasolina|automático
+## Skoda|Kodiaq
+1.5 TSI mild hybrid 150 CV|150|microhíbrido|automático
+2.0 TDI 150 CV|150|diésel|automático
+2.0 TDI 4x4 193 CV|193|diésel|automático
+1.5 TSI PHEV 204 CV|204|híbrido enchufable|automático
+2.0 TSI 4x4 204 CV|204|gasolina|automático
+RS 2.0 TSI 4x4 265 CV|265|gasolina|automático
+## Skoda|Octavia
+1.5 TSI mild hybrid 116 CV|116|microhíbrido|automático
+1.5 TSI mild hybrid 150 CV|150|microhíbrido|automático
+2.0 TDI 116 CV|116|diésel|?
+2.0 TDI 150 CV|150|diésel|automático
+RS 2.0 TSI 265 CV|265|gasolina|automático
+## Skoda|Peaq
+Eléctrico 286 CV|286|eléctrico|?
+Eléctrico 299 CV|299|eléctrico|?
+## Skoda|Scala
+1.0 TSI 95 CV|95|gasolina|manual
+1.0 TSI 115 CV|115|gasolina|manual/automático
+1.5 TSI 150 CV|150|gasolina|automático
+## Skoda|Superb
+1.5 TSI mild hybrid 150 CV|150|microhíbrido|automático
+2.0 TDI 150 CV|150|diésel|automático
+2.0 TSI 204 CV|204|gasolina|automático
+1.5 TSI PHEV 204 CV|204|híbrido enchufable|automático
+1.5 TSI PHEV 272 CV|272|híbrido enchufable|automático
+## Mercedes-Benz|Clase A
+A 180 136 CV|136|microhíbrido|automático
+A 180 d 116 CV|116|diésel|automático
+A 200 163 CV|163|microhíbrido|automático
+A 200 d 150 CV|150|diésel|automático
+A 220 d 190 CV|190|diésel|automático
+A 250 e 218 CV|218|híbrido enchufable|automático
+A 250 4MATIC 224 CV|224|microhíbrido|automático
+AMG A 35 306 CV|306|microhíbrido|automático
+AMG A 45 S 421 CV|421|gasolina|automático
+## Mercedes-Benz|Clase B
+B 180 136 CV|136|microhíbrido|automático
+B 180 d 116 CV|116|diésel|automático
+B 200 d 150 CV|150|diésel|automático
+B 220 d 190 CV|190|diésel|automático
+B 250 e 218 CV|218|híbrido enchufable|automático
+## Mercedes-Benz|Clase C
+C 180 170 CV|170|gasolina|automático
+C 200 204 CV|204|gasolina|automático
+C 200 d 163 CV|163|diésel|automático
+C 220 d 197 CV|197|diésel|automático
+C 250 218 CV|218|gasolina|automático
+C 300 e 326 CV|326|híbrido enchufable|automático
+C 400 4MATIC eléctrico 489 CV|489|eléctrico|automático
+AMG C 63 S E 680 CV|680|híbrido enchufable|automático
+## Mercedes-Benz|Clase E
+E 200 204 CV|204|microhíbrido|automático
+E 220 d 197 CV|197|microhíbrido|automático
+E 300 e 313 CV|313|híbrido enchufable|automático
+E 300 de 313 CV|313|híbrido enchufable|automático
+## Mercedes-Benz|Clase G
+G 450 d 367 CV|367|microhíbrido|automático
+G 500 449 CV|449|microhíbrido|automático
+G 580 eléctrico 587 CV|587|eléctrico|automático
+AMG G 63 585 CV|585|microhíbrido|automático
+## Mercedes-Benz|Clase S
+S 450 d 367 CV|367|microhíbrido|automático
+S 450 e 435 CV|435|híbrido enchufable|automático
+S 580 537 CV|537|microhíbrido|automático
+S 580 e 585 CV|585|híbrido enchufable|automático
+## Mercedes-Benz|Clase T
+Gasolina 102 CV|102|gasolina|manual/automático
+Gasolina 131 CV|131|gasolina|manual/automático
+Diésel 95 CV|95|diésel|manual/automático
+Diésel 116 CV|116|diésel|manual/automático
+## Mercedes-Benz|Clase V
+220 d 163 CV|163|diésel|automático
+250 d 190 CV|190|diésel|automático
+300 d 239 CV|239|diésel|automático
+## Mercedes-Benz|CLA
+CLA 180 136 CV|136|microhíbrido|automático
+CLA 220 190 CV|190|microhíbrido|automático
+CLA 200 eléctrico 224 CV|224|eléctrico|automático
+CLA 250+ eléctrico 272 CV|272|eléctrico|automático
+CLA 350 4MATIC eléctrico 354 CV|354|eléctrico|automático
+AMG CLA 45 eléctrico 680 CV|680|eléctrico|automático
+## Mercedes-Benz|CLE
+CLE 200 204 CV|204|microhíbrido|automático
+CLE 220 d 197 CV|197|microhíbrido|automático
+CLE 300 4MATIC 258 CV|258|microhíbrido|automático
+CLE 300 e 313 CV|313|híbrido enchufable|automático
+AMG CLE 53 449 CV|449|microhíbrido|automático
+## Mercedes-Benz|GLA
+GLA 200 163 CV|163|microhíbrido|automático
+GLA 200 d 150 CV|150|diésel|automático
+GLA 220 d 4MATIC 190 CV|190|diésel|automático
+GLA 250 4MATIC 224 CV|224|microhíbrido|automático
+GLA 250 e 218 CV|218|híbrido enchufable|automático
+GLA 250+ eléctrico 272 CV|272|eléctrico|automático
+GLA 350 4MATIC eléctrico 354 CV|354|eléctrico|automático
+AMG GLA 35 306 CV|306|microhíbrido|automático
+AMG GLA 45 S 421 CV|421|gasolina|automático
+## Mercedes-Benz|GLB
+GLB 200 163 CV|163|microhíbrido|automático
+GLB 220 4MATIC 190 CV|190|microhíbrido|automático
+GLB 250+ eléctrico 272 CV|272|eléctrico|automático
+GLB 350 4MATIC eléctrico 354 CV|354|eléctrico|automático
+## Mercedes-Benz|GLC
+GLC 200 4MATIC 204 CV|204|microhíbrido|automático
+GLC 220 d 4MATIC 197 CV|197|microhíbrido|automático
+GLC 300 4MATIC 258 CV|258|microhíbrido|automático
+GLC 300 d 4MATIC 269 CV|269|microhíbrido|automático
+GLC 300 e 4MATIC 313 CV|313|híbrido enchufable|automático
+GLC 300 de 4MATIC 333 CV|333|híbrido enchufable|automático
+GLC 400 4MATIC eléctrico 489 CV|489|eléctrico|automático
+AMG GLC 53 449 CV|449|microhíbrido|automático
+## Mercedes-Benz|GLC Coupé
+GLC 200 4MATIC 204 CV|204|microhíbrido|automático
+GLC 220 d 4MATIC 197 CV|197|microhíbrido|automático
+GLC 300 4MATIC 258 CV|258|microhíbrido|automático
+GLC 300 d 4MATIC 269 CV|269|microhíbrido|automático
+GLC 300 e 4MATIC 313 CV|313|híbrido enchufable|automático
+GLC 300 de 4MATIC 333 CV|333|híbrido enchufable|automático
+AMG GLC 53 449 CV|449|microhíbrido|automático
+## Mercedes-Benz|GLE
+GLE 300 d 4MATIC 269 CV|269|microhíbrido|automático
+GLE 350 d 4MATIC 286 CV|286|microhíbrido|automático
+GLE 450 d 4MATIC 367 CV|367|microhíbrido|automático
+GLE 450 4MATIC 381 CV|381|microhíbrido|automático
+GLE 350 de 4MATIC 333 CV|333|híbrido enchufable|automático
+GLE 400 e 4MATIC 381 CV|381|híbrido enchufable|automático
+GLE 450 e 4MATIC 435 CV|435|híbrido enchufable|automático
+AMG GLE 53 435 CV|435|microhíbrido|automático
+AMG GLE 53 Hybrid 585 CV|585|híbrido enchufable|automático
+AMG GLE 63 S 612 CV|612|microhíbrido|automático
+## Mercedes-Benz|GLE Coupé
+=Mercedes-Benz|GLE
+## Mercedes-Benz|GLS
+GLS 350 d 4MATIC 313 CV|313|microhíbrido|automático
+GLS 450 d 4MATIC 367 CV|367|microhíbrido|automático
+GLS 450 4MATIC 381 CV|381|microhíbrido|automático
+GLS 580 537 CV|537|microhíbrido|automático
+AMG GLS 63 612 CV|612|microhíbrido|automático
+## Mercedes-Benz|EQA
+EQA 250+ 190 CV|190|eléctrico|automático
+EQA 300 4MATIC 228 CV|228|eléctrico|automático
+EQA 350 4MATIC 292 CV|292|eléctrico|automático
+## Mercedes-Benz|EQB
+EQB 250+ 190 CV|190|eléctrico|automático
+EQB 300 4MATIC 228 CV|228|eléctrico|automático
+EQB 350 4MATIC 292 CV|292|eléctrico|automático
+## Mercedes-Benz|EQE
+EQE 300 265 CV|265|eléctrico|automático
+EQE 350 320 CV|320|eléctrico|automático
+AMG EQE 625 CV|625|eléctrico|automático
+## Mercedes-Benz|EQE SUV
+EQE 300 265 CV|265|eléctrico|automático
+EQE 350 320 CV|320|eléctrico|automático
+EQE 500 449 CV|449|eléctrico|automático
+AMG EQE 53 626 CV|626|eléctrico|automático
+## Mercedes-Benz|EQS
+EQS 400 367 CV|367|eléctrico|automático
+EQS 450+ 408 CV|408|eléctrico|automático
+EQS 580 4MATIC 585 CV|585|eléctrico|automático
+## Mercedes-Benz|EQS SUV
+EQS 450 4MATIC 360 CV|360|eléctrico|automático
+EQS 500 4MATIC 449 CV|449|eléctrico|automático
+EQS 580 4MATIC 544 CV|544|eléctrico|automático
+Maybach EQS 680 658 CV|658|eléctrico|automático
+## Mercedes-Benz|EQV
+Eléctrico 204 CV|204|eléctrico|automático
+## Mercedes-Benz|Vito
+114 CDI 136 CV|136|diésel|automático
+116 CDI 163 CV|163|diésel|automático
+124 CDI 237 CV|237|diésel|automático
+124 231 CV|231|microhíbrido|automático
+eVito 204 CV|204|eléctrico|automático
+## Mercedes-Benz|Citan
+110 95 CV diésel|95|diésel|?
+1.3 102 CV|102|gasolina|?
+112 CDI 116 CV|116|diésel|?
+1.3 131 CV|131|gasolina|?
+eCitan 122 CV|122|eléctrico|automático
+## Mercedes-Benz|AMG GT
+AMG GT 43 421 CV|421|microhíbrido|automático
+AMG GT 55 476 CV|476|gasolina|automático
+AMG GT 63 585 CV|585|gasolina|automático
+AMG GT 63 PRO 612 CV|612|gasolina|automático
+AMG GT 63 S E Performance 816 CV|816|híbrido enchufable|automático
+AMG GT eléctrico 544 CV|544|eléctrico|automático
+AMG GT eléctrico 816 CV|816|eléctrico|automático
+AMG GT eléctrico 1.169 CV|1169|eléctrico|automático
+## Mercedes-Benz|AMG SL
+AMG SL 43 421 CV|421|microhíbrido|automático
+AMG SL 55 476 CV|476|gasolina|automático
+AMG SL 63 585 CV|585|gasolina|automático
+AMG SL 63 S E Performance 816 CV|816|híbrido enchufable|automático
+## BYD|Atto 2
+Eléctrico 177 CV|177|eléctrico|automático
+Eléctrico 204 CV|204|eléctrico|automático
+DM-i 166 CV|166|híbrido enchufable|automático
+DM-i 212 CV|212|híbrido enchufable|automático
+## BYD|Atto 3
+Eléctrico 204 CV|204|eléctrico|automático
+## BYD|Atto 3 Evo
+Eléctrico tracción trasera 313 CV|313|eléctrico|automático
+Eléctrico tracción total 449 CV|449|eléctrico|automático
+## BYD|Dolphin
+Eléctrico 95 CV|95|eléctrico|automático
+Eléctrico 204 CV|204|eléctrico|automático
+## BYD|Dolphin G
+DM-i 175 CV|175|híbrido enchufable|automático
+DM-i 212 CV|212|híbrido enchufable|automático
+## BYD|Dolphin Surf
+Eléctrico 88 CV|88|eléctrico|automático
+Eléctrico 156 CV|156|eléctrico|automático
+## BYD|Seal
+Eléctrico tracción trasera 313 CV|313|eléctrico|automático
+Eléctrico tracción total 530 CV|530|eléctrico|automático
+## BYD|Seal 6 DM-i
+DM-i 184 CV|184|híbrido enchufable|automático
+DM-i 212 CV|212|híbrido enchufable|automático
+## BYD|Seal U
+Eléctrico 218 CV|218|eléctrico|automático
+## BYD|Seal U DM-i
+DM-i 218 CV|218|híbrido enchufable|automático
+DM-i AWD 324 CV|324|híbrido enchufable|automático
+## BYD|Sealion 7
+Eléctrico 313 CV|313|eléctrico|automático
+Eléctrico AWD 530 CV|530|eléctrico|automático
+## BYD|Tang
+Eléctrico AWD 517 CV|517|eléctrico|automático
+## Volvo|EC40
+Eléctrico 238 CV|238|eléctrico|automático
+Eléctrico 252 CV|252|eléctrico|automático
+Eléctrico AWD 408 CV|408|eléctrico|automático
+## Volvo|ES90
+Single 333 CV|333|eléctrico|automático
+Twin 456 CV|456|eléctrico|automático
+Twin Performance 680 CV|680|eléctrico|automático
+## Volvo|EX30
+Single Motor 272 CV|272|eléctrico|automático
+Twin Motor Performance 428 CV|428|eléctrico|automático
+## Volvo|EX40
+Single 238 CV|238|eléctrico|automático
+Single 245 CV|245|eléctrico|automático
+Single 252 CV|252|eléctrico|automático
+Twin AWD 408 CV|408|eléctrico|automático
+## Volvo|EX60
+P6 RWD 374 CV|374|eléctrico|automático
+P10 AWD 510 CV|510|eléctrico|automático
+P12 AWD 680 CV|680|eléctrico|automático
+## Volvo|EX90
+Single 333 CV|333|eléctrico|automático
+Twin 456 CV|456|eléctrico|automático
+Twin Performance 680 CV|680|eléctrico|automático
+## Volvo|V60
+B4 mild hybrid 197 CV|197|microhíbrido|automático
+T6 Recharge 335 CV|335|híbrido enchufable|automático
+## Volvo|XC40
+B3 mild hybrid 163 CV|163|microhíbrido|automático
+B4 mild hybrid 197 CV|197|microhíbrido|automático
+## Volvo|XC60
+B5 mild hybrid 250 CV|250|microhíbrido|automático
+T6 Recharge 335 CV|335|híbrido enchufable|automático
+## Volvo|XC90
+B5 mild hybrid 250 CV|250|microhíbrido|automático
+T8 Recharge 406 CV|406|híbrido enchufable|automático
+## Peugeot|208
+Turbo 100|100|gasolina|manual
+Hybrid 110 eDCS6|110|microhíbrido|automático
+Hybrid 145 eDCS6|145|microhíbrido|automático
+## Peugeot|2008
+Turbo 100|100|gasolina|manual
+Hybrid 110 eDCS6|110|microhíbrido|automático
+Hybrid 145 eDCS6|145|microhíbrido|automático
+## Peugeot|308
+Hybrid 145|145|microhíbrido|automático
+BlueHDi 130|130|diésel|automático
+Plug-in Hybrid 195|195|híbrido enchufable|automático
+## Peugeot|3008 Hybrid
+Hybrid 145|145|microhíbrido|automático
+## Peugeot|3008 Plug-in Hybrid
+Plug-in Hybrid 225|225|híbrido enchufable|automático
+## Peugeot|408
+Hybrid 145|145|microhíbrido|automático
+Plug-in Hybrid 240|240|híbrido enchufable|automático
+## Peugeot|5008 Hybrid
+Hybrid 145|145|microhíbrido|automático
+## Peugeot|5008 Plug-in Hybrid
+Plug-in Hybrid 225|225|híbrido enchufable|automático
+## Peugeot|508 Hybrid
+Plug-in Hybrid 180|180|híbrido enchufable|automático
+## Peugeot|e-208
+Eléctrico 136 CV|136|eléctrico|automático
+Eléctrico 156 CV|156|eléctrico|automático
+GTi 282 CV|282|eléctrico|automático
+## Peugeot|e-2008
+Eléctrico 156 CV|156|eléctrico|automático
+## Peugeot|e-308
+Eléctrico 156 CV|156|eléctrico|automático
+## Peugeot|e-3008
+Eléctrico 214 CV|214|eléctrico|automático
+Eléctrico 231 CV|231|eléctrico|automático
+Dual Motor 325 CV|325|eléctrico|automático
+## Peugeot|e-408
+Eléctrico 214 CV|214|eléctrico|automático
+## Peugeot|e-5008
+Eléctrico 214 CV|214|eléctrico|automático
+Eléctrico 231 CV|231|eléctrico|automático
+Dual Motor 325 CV|325|eléctrico|automático
+## Peugeot|Rifter
+BlueHDi 100|100|diésel|manual
+BlueHDi 130|130|diésel|automático
+## Peugeot|Traveller
+BlueHDi 150|150|diésel|manual
+BlueHDi 180|180|diésel|automático
+## Peugeot|e-Rifter
+Eléctrico 136 CV|136|eléctrico|automático
+## Peugeot|e-Traveller
+Eléctrico 136 CV|136|eléctrico|automático
+## Opel|Astra
+1.2T Hybrid 146 CV|146|microhíbrido|automático
+1.5D 130 CV|130|diésel|automático
+## Opel|Astra Electric
+Eléctrico 156 CV|156|eléctrico|automático
+## Opel|Astra PHEV
+Plug-in Hybrid 196 CV|196|híbrido enchufable|automático
+## Opel|Combo
+1.5D 100 CV|100|diésel|manual
+1.5D 130 CV|130|diésel|automático
+## Opel|Combo Electric
+Eléctrico 136 CV|136|eléctrico|automático
+## Opel|Corsa
+1.2T 100 CV|100|gasolina|manual
+1.2T Hybrid 110 CV|110|microhíbrido|automático
+1.2T Hybrid 146 CV|146|microhíbrido|automático
+## Opel|Corsa Electric
+Eléctrico 136 CV|136|eléctrico|automático
+Eléctrico 156 CV|156|eléctrico|automático
+## Opel|Frontera
+Turbo 100 CV|100|gasolina|manual
+1.2T Hybrid 110 CV|110|microhíbrido|automático
+1.2T Hybrid 146 CV|146|microhíbrido|automático
+## Opel|Frontera Electric
+Eléctrico 113 CV|113|eléctrico|automático
+## Opel|Grandland
+1.2T Hybrid 145 CV|145|microhíbrido|automático
+1.6T Plug-in Hybrid 225 CV|225|híbrido enchufable|automático
+Eléctrico 213 CV|213|eléctrico|automático
+Eléctrico AWD 325 CV|325|eléctrico|automático
+## Opel|Mokka
+1.2T 100 CV|100|gasolina|manual
+1.2T 130 CV|130|gasolina|automático
+1.2T 136 CV|136|gasolina|?
+1.2T Hybrid 146 CV|146|microhíbrido|automático
+Eléctrico 156 CV|156|eléctrico|automático
+GSE eléctrico 281 CV|281|eléctrico|automático
+## Opel|Mokka-e
+Eléctrico 136 CV|136|eléctrico|automático
+Eléctrico 156 CV|156|eléctrico|automático
+## Opel|Zafira
+2.2D 150 CV|150|diésel|manual
+2.2D 180 CV|180|diésel|automático
+## Opel|Zafira Electric
+Eléctrico 136 CV|136|eléctrico|automático
+## Citroën|C3
+1.2 Turbo 100 CV|100|gasolina|manual
+Hybrid 110 e-DCS6|110|microhíbrido|automático
+## Citroën|C3 Aircross
+1.2 Turbo 100 CV|100|gasolina|manual
+Hybrid 110 e-DCS6|110|microhíbrido|automático
+Hybrid 145 e-DCS6|145|microhíbrido|automático
+## Citroën|C4
+1.2 Turbo 130 CV|130|gasolina|automático
+Hybrid 110 CV|110|microhíbrido|automático
+Hybrid 145 CV|145|microhíbrido|automático
+## Citroën|C4 X
+Hybrid 145 CV|145|microhíbrido|automático
+## Citroën|C5 Aircross
+Hybrid 145 CV|145|microhíbrido|automático
+Plug-in Hybrid 225 CV|225|híbrido enchufable|automático
+## Citroën|C5 X
+Hybrid 145 CV|145|microhíbrido|automático
+## Citroën|Berlingo
+BlueHDi 100 CV|100|diésel|manual
+BlueHDi 130 CV|130|diésel|automático
+## Citroën|Spacetourer
+BlueHDi 150 CV|150|diésel|manual
+BlueHDi 180 CV|180|diésel|automático
+## Citroën|ë-Berlingo
+Eléctrico 136 CV|136|eléctrico|automático
+## Citroën|ë-C3
+Eléctrico 113 CV|113|eléctrico|automático
+## Citroën|ë-C3 Aircross
+Eléctrico 113 CV|113|eléctrico|automático
+## Citroën|ë-C4
+Eléctrico 136 CV|136|eléctrico|automático
+Eléctrico 156 CV|156|eléctrico|automático
+## Citroën|ë-C4 X
+=Citroën|ë-C4
+## Citroën|ë-C5 Aircross
+Eléctrico 210 CV|210|eléctrico|automático
+Eléctrico 230 CV|230|eléctrico|automático
+## Citroën|ë-Spacetourer
+Eléctrico 136 CV|136|eléctrico|automático
+## MG|Cyberster
+Single Motor 340 CV|340|eléctrico|automático
+Dual Motor 510 CV|510|eléctrico|automático
+## MG|HS
+1.5 T-GDi 170 CV|170|gasolina|manual/automático
+1.5 Hybrid+ 224 CV|224|híbrido|automático
+1.5T Plug-in Hybrid 272 CV|272|híbrido enchufable|automático
+## MG|MG3
+1.5 116 CV|116|gasolina|manual
+1.5 Hybrid+ 195 CV|195|híbrido|automático
+## MG|MG4
+49 kWh 170 CV|170|eléctrico|automático
+64 kWh 190 CV|190|eléctrico|automático
+64 kWh 204 CV|204|eléctrico|automático
+77 kWh 245 CV|245|eléctrico|automático
+XPower AWD 435 CV|435|eléctrico|automático
+## MG|MG4 Urban
+49 kWh 150 CV|150|eléctrico|automático
+54 kWh 160 CV|160|eléctrico|automático
+## MG|MGS5 EV
+49 kWh 170 CV|170|eléctrico|automático
+64 kWh 231 CV|231|eléctrico|automático
+## MG|MGS6 EV
+Motor trasero 245 CV|245|eléctrico|automático
+Doble motor AWD 362 CV|362|eléctrico|automático
+## MG|MGS9
+1.5T PHEV 299 CV|299|híbrido enchufable|automático
+## MG|ZS
+1.5 116 CV|116|gasolina|?
+Hybrid+ 197 CV|197|híbrido|automático
