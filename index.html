@@ -95,6 +95,7 @@ input,select{font:inherit;font-size:1rem;color:var(--fg);background:var(--bg);bo
 .dep-plot .grid{stroke:var(--line);stroke-width:1}
 .dep-plot .ref{stroke:var(--warn);stroke-width:1.5;stroke-dasharray:5 4}
 .dep-plot .reflbl{font-size:11px;fill:var(--warn);font-family:var(--body);font-weight:600}
+.dep-plot .est{stroke:var(--accent);stroke-width:2.5;fill:none;stroke-dasharray:7 5}
 .dep-plot .trend{stroke:var(--fg);stroke-width:2;fill:none;opacity:.75}
 .dep-plot .pt{fill:var(--accent);stroke:var(--surface);stroke-width:2}
 .dep-plot .pt.on{r:7}
@@ -106,6 +107,7 @@ input,select{font:inherit;font-size:1rem;color:var(--fg);background:var(--bg);bo
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .sw{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--accent)}
 .sw.l{width:16px;height:2px;border-radius:0;background:var(--fg);opacity:.75}
+.sw.e{width:16px;height:0;border-radius:0;border-top:2.5px dashed var(--accent);background:none}
 .sw.d{width:16px;height:0;border-radius:0;border-top:2px dashed var(--warn);background:none}
 .how{font-size:.9rem}
 .how summary{cursor:pointer;font-weight:600;color:var(--accent)}
@@ -287,31 +289,44 @@ function ajuste(xs,ys,log){
   let sxy=0,sxx=0;xs.forEach((x,i)=>{sxy+=(x-mx)*(Y[i]-my);sxx+=(x-mx)**2});
   if(!sxx)return null;const b=sxy/sxx,a=my-b*mx;return log?x=>Math.exp(a+b*x):x=>a+b*x;
 }
-function dibujaDep(sel,nuevo){
+const RET3={"gasolina":.67,"microhíbrido":.67,"GLP":.67,"diésel":.65,"híbrido":.708,"híbrido enchufable":.61,"eléctrico":.5,"hidrógeno":.5};
+const HAC=[[3,67],[4,56],[5,47],[6,39],[7,34],[8,28],[9,24],[10,19]];
+function retencion(t,tipo){const g=RET3[tipo]||.67;if(t<=3)return 1-(1-g)*t/3;for(let i=1;i<HAC.length;i++){if(t<=HAC[i][0]){const[a,va]=HAC[i-1],[b,vb]=HAC[i];return g*(va+(vb-va)*(t-a)/(b-a))/67}}return g*19/67}
+const KM_ANO=20000;
+function dibujaDep(sel,nuevo,tipo){
   const box=$("dep");if(!box)return;
-  const head=`<div class="dep-head"><h3>Pérdida de valor</h3><div class="seg" role="group" aria-label="Eje"><button type="button" data-eje="anos" aria-pressed="${DEP_EJE==="anos"}">Por años</button><button type="button" data-eje="km" aria-pressed="${DEP_EJE==="km"}">Por kilómetros</button></div></div>`;
-  if(sel.length<5){box.innerHTML=head.replace(/<div class="seg"[\s\S]*<\/div><\/div>$/,"</div>")+`<p class="empty-note">${sel.length?"Hay muy pocos coches de ocasión oficial de esta versión para dibujar la curva.":"Aún no tenemos coches de ocasión oficial de este modelo para dibujar la pérdida de valor."}</p>`;return}
   const porKm=DEP_EJE==="km",HOY=2026;
+  const head=`<div class="dep-head"><h3>Pérdida de valor</h3><div class="seg" role="group" aria-label="Eje"><button type="button" data-eje="anos" aria-pressed="${!porKm}">Por años</button><button type="button" data-eje="km" aria-pressed="${porKm}">Por kilómetros</button></div></div>`;
+  if(!nuevo){box.innerHTML=head+`<p class="empty-note">Sin precio de nuevo no podemos estimar la pérdida de valor de este modelo.</p>`;return}
   const pts=sel.map(c=>({x:porKm?c[2]/1000:HOY-c[3],y:c[1],km:c[2],an:c[3]}));
+  const xM=porKm?200:10;
+  const est=x=>nuevo*retencion(porKm?x*1000/KM_ANO:x,tipo);
   const W=600,H=260,L=56,R=14,T=16,B=34;
-  const xmax=Math.max(porKm?20:2,...pts.map(p=>p.x)),xM=porKm?Math.ceil(xmax/25)*25:Math.ceil(xmax)+0.5;
-  const ys=pts.map(p=>p.y).concat(nuevo?[nuevo]:[]),yM=Math.ceil(Math.max(...ys)*1.05/5000)*5000,ym=Math.max(0,Math.floor(Math.min(...ys)*0.9/5000)*5000);
+  const ys=pts.map(p=>p.y).concat([nuevo,est(xM)]);
+  const paso=Math.max(...ys)>60000?10000:5000;
+  const yM=Math.ceil(Math.max(...ys)*1.05/paso)*paso,ym=Math.max(0,Math.floor(Math.min(...ys)*.9/paso)*paso);
   const sx=x=>L+(x/xM)*(W-L-R),sy=y=>T+(1-(y-ym)/(yM-ym))*(H-T-B);
   let g="";
-  for(let v=ym;v<=yM;v+=yM-ym>30000?10000:5000){g+=`<line class="grid" x1="${L}" x2="${W-R}" y1="${sy(v)}" y2="${sy(v)}"/><text class="tick" x="${L-8}" y="${sy(v)+4}" text-anchor="end">${(v/1000).toLocaleString("es-ES")}k €</text>`}
-  const paso=porKm?(xM>100?50:25):1;
-  for(let v=0;v<=xM+0.01;v+=paso){g+=`<text class="tick" x="${sx(v)}" y="${H-B+18}" text-anchor="middle">${porKm?(v?v+"k":"0"):(v===0?"Nuevo":v+(v===1?" año":" años"))}</text>`}
-  g+=`<text class="tick" x="${W-R}" y="${H-2}" text-anchor="end">${porKm?"Kilómetros":"Antigüedad"}</text>`;
-  if(nuevo){g+=`<line class="ref" x1="${L}" x2="${W-R}" y1="${sy(nuevo)}" y2="${sy(nuevo)}"/><text class="reflbl" x="${W-R}" y="${sy(nuevo)-6}" text-anchor="end">Nuevo desde ${eur(nuevo)}</text>`}
-  const f=ajuste(pts.map(p=>p.x),pts.map(p=>p.y),!porKm);let sum="";
-  if(f){let d="";for(let i=0;i<=40;i++){const x=xM*i/40,y=f(x);if(y>ym&&y<yM)d+=(d?"L":"M")+sx(x).toFixed(1)+" "+sy(y).toFixed(1)}g+=`<path class="trend" d="${d}"/>`;
-    if(porKm){const p10=f(0)-f(10);sum=p10>0?`Cada <b>10.000 km</b> más, el precio baja de media unos <b>${eur(p10)}</b>.`:`Con estos coches, los kilómetros apenas cambian el precio.`}
-    else{const r=1-f(1)/f(0);sum=r>0?`Pierde de media un <b>${Math.round(r*100)} %</b> de su valor cada año.`:`Con estos coches, la antigüedad apenas cambia el precio.`}}
+  for(let v=ym;v<=yM;v+=paso){g+=`<line class="grid" x1="${L}" x2="${W-R}" y1="${sy(v)}" y2="${sy(v)}"/><text class="tick" x="${L-8}" y="${sy(v)+4}" text-anchor="end">${(v/1000).toLocaleString("es-ES")}k €</text>`}
+  const px=porKm?50:2;
+  for(let v=0;v<=xM;v+=px){g+=`<text class="tick" x="${sx(v)}" y="${H-B+18}" text-anchor="middle">${porKm?(v?v+"k km":"0"):(v===0?"Nuevo":v+" años")}</text>`}
+  g+=`<line class="ref" x1="${L}" x2="${W-R}" y1="${sy(nuevo)}" y2="${sy(nuevo)}"/><text class="reflbl" x="${W-R}" y="${sy(nuevo)-6}" text-anchor="end">Nuevo desde ${eur(nuevo)}</text>`;
+  let d="";for(let i=0;i<=60;i++){const x=xM*i/60;d+=(i?"L":"M")+sx(x).toFixed(1)+" "+sy(est(x)).toFixed(1)}
+  g+=`<path class="est" d="${d}"/>`;
+  let real="";
+  if(pts.length>=5){const f=ajuste(pts.map(p=>p.x),pts.map(p=>p.y),!porKm);
+    if(f){let dd="";const xr=Math.max(...pts.map(p=>p.x));for(let i=0;i<=30;i++){const x=xr*i/30,y=f(x);if(y>ym&&y<yM)dd+=(dd?"L":"M")+sx(x).toFixed(1)+" "+sy(y).toFixed(1)}g+=`<path class="trend" d="${dd}"/>`;
+      if(porKm){const p10=f(0)-f(10);real=p10>0?` Con los ${pts.length} coches reales de la web oficial, cada 10.000 km bajan el precio unos <b>${eur(p10)}</b>.`:""}
+      else{const r=1-f(1)/f(0);real=r>0?` Con los ${pts.length} coches reales de la web oficial, pierde un <b>${Math.round(r*100)} %</b> al año.`:""}}}
   pts.forEach((p,i)=>{g+=`<circle class="pt" data-i="${i}" cx="${sx(p.x)}" cy="${sy(p.y)}" r="5"/><circle class="hit" data-i="${i}" cx="${sx(p.x)}" cy="${sy(p.y)}" r="12" tabindex="0" aria-label="${p.an}, ${p.km.toLocaleString("es-ES")} km, ${eur(p.y)}"/>`});
-  box.innerHTML=head+`<div class="dep-plot"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Precio de ocasión según ${porKm?"kilómetros":"antigüedad"}">${g}</svg><div class="tip" hidden></div></div>
-   <div class="legend"><span><i class="sw"></i>Cada punto es un coche de la web oficial</span><span><i class="sw l"></i>Tendencia</span>${nuevo?`<span><i class="sw d"></i>Precio de nuevo</span>`:""}</div>
-   <p class="dep-sum">${sum} <span class="src">Calculado con ${pts.length} coches.</span></p>`;
-  const tip=box.querySelector(".tip"),plot=box.querySelector(".dep-plot"),svg=box.querySelector("svg");
+  const v3=est(porKm?60:3),v5=est(porKm?100:5);
+  const sum=porKm?`Estimación: con <b>60.000 km</b> valdría unos <b>${eur(Math.round(v3/100)*100)}</b> y con <b>100.000 km</b>, unos <b>${eur(Math.round(v5/100)*100)}</b>.`
+    :`Estimación: a los <b>3 años</b> valdría unos <b>${eur(Math.round(v3/100)*100)}</b> (${Math.round(v3/nuevo*100)} % del precio nuevo) y a los <b>5 años</b>, unos <b>${eur(Math.round(v5/100)*100)}</b>.`;
+  box.innerHTML=head+`<div class="dep-plot"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Valor estimado según ${porKm?"kilómetros":"antigüedad"}">${g}</svg><div class="tip" hidden></div></div>
+   <div class="legend"><span><i class="sw e"></i>Estimación</span>${pts.length?`<span><i class="sw"></i>Coches reales de la web oficial</span>`:""}${pts.length>=5?`<span><i class="sw l"></i>Tendencia real</span>`:""}<span><i class="sw d"></i>Precio de nuevo</span></div>
+   <p class="dep-sum">${sum}${real}</p>
+   <p class="src" style="margin:0">La estimación parte del valor que conserva un coche a los 3 años según su tipo de motor (Ganvam: ${Math.round((RET3[tipo]||.67)*100)} % para ${tipo||"gasolina"}) y sigue después la tabla de depreciación de Hacienda. ${porKm?"Por kilómetros suponemos 20.000 km al año. ":""}Es orientativa: no tiene en cuenta el estado, el acabado ni la demanda de cada modelo.</p>`;
+  const tip=box.querySelector(".tip"),svg=box.querySelector("svg");
   const show=e=>{const i=e.target.dataset.i;if(i==null)return;const p=pts[i],r=svg.getBoundingClientRect(),k=r.width/W;
     tip.textContent=`${p.an} · ${p.km.toLocaleString("es-ES")} km · ${eur(p.y)}`;tip.style.left=sx(p.x)*k+"px";tip.style.top=sy(p.y)*k+"px";tip.hidden=false;
     box.querySelectorAll(".pt").forEach(c=>c.classList.toggle("on",c.dataset.i===i))};
@@ -384,7 +399,9 @@ function render(){
     }
   }
 
-  dibujaDep(cochesSel(d,motor,cambio),PT);
+  let tipo="gasolina";
+  if(d){const ls=motor!==TODOS&&d.motores[motor]?[d.motores[motor][0]]:Object.values(d.motores).map(v=>v[0]);const cnt={};ls.forEach(l=>{const t=l.split(" · ").pop();cnt[t]=(cnt[t]||0)+1});tipo=Object.entries(cnt).sort((a,b)=>b[1]-a[1])[0][0]}
+  dibujaDep(cochesSel(d,motor,cambio),PT,tipo);
   seguro(d,motor,M,PT);
 
   // Segunda mano

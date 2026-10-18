@@ -3,7 +3,7 @@
 Borrador de una web para quien busca coche. Eliges marca, modelo, motorización y cambio, y la página muestra:
 
 - **Precio de nuevo** de cada motorización (tarifa y precio con descuentos).
-- **Pérdida de valor** con los kilómetros y los años, a partir de coches reales de las webs oficiales de ocasión de las marcas (por ahora, BMW Serie 3 y Renault Captur).
+- **Pérdida de valor** estimada para cada modelo y motorización, a partir del valor que conserva un coche a los 3 años según su tipo de motor (Ganvam) y la tabla de depreciación de Hacienda. En el BMW Serie 3 y el Renault Captur se añaden los coches reales de las webs oficiales de ocasión.
 - **Ocasión oficial de la marca**: precio medio por tramos de kilómetros y enlace a la web oficial.
 - **Seguro estimado** (terceros, terceros ampliado y todo riesgo) según la edad del conductor, los kilómetros al año, la potencia y el precio del coche. Es una estimación orientativa: la página explica qué parte son datos y qué parte son supuestos.
 - **Segunda mano**: enlaces directos a AutoScout24, Wallapop, Coches.net, Milanuncios y otras webs.
