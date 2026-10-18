@@ -112,6 +112,18 @@ input,select{font:inherit;font-size:1rem;color:var(--fg);background:var(--bg);bo
 .how{font-size:.9rem}
 .how summary{cursor:pointer;font-weight:600;color:var(--accent)}
 .how ul{margin:8px 0;padding-left:18px;display:flex;flex-direction:column;gap:6px;color:var(--fg)}
+.box-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.box-wrap svg{display:block;height:auto;min-width:100%}
+.bx rect{fill:var(--bar);stroke:var(--fg);stroke-width:1.2}
+.bx .med{stroke:var(--fg);stroke-width:3}
+.bx .wh{stroke:var(--fg);stroke-width:1.2}
+.bx .dot{fill:var(--accent);stroke:var(--surface);stroke-width:1.5}
+.bx .hit{fill:transparent;cursor:pointer}
+.bx.g1 rect{fill:var(--soft)}
+.gen-chips{display:flex;gap:8px;flex-wrap:wrap}
+.gen-chips span{font-size:.82rem;border:1px solid var(--line);border-radius:999px;padding:3px 10px;display:inline-flex;align-items:center;gap:6px}
+.gen-chips i{width:10px;height:10px;border-radius:2px;display:inline-block;background:var(--bar);border:1px solid var(--fg)}
+.gen-chips i.g1{background:var(--soft)}
 </style>
 
 </head>
@@ -235,10 +247,18 @@ const DETALLE={
   warn:"La próxima generación del Serie 3 no tendrá motores diésel.",
   motores:{"318d":["318d · 150 CV · diésel",["Automático"]],"320d":["320d · 190 CV · diésel",["Automático"]],"320d xDrive":["320d xDrive · 190 CV · diésel 4x4",["Automático"]],"330e":["330e · 292 CV · híbrido enchufable",["Automático"]],"330e xDrive":["330e xDrive · 292 CV · híbrido enchufable 4x4",["Automático"]],"M340d xDrive":["M340d xDrive · 340 CV · diésel 4x4",["Automático"]]},
   ruta:{"318d":"serie-3/318d","320d":"serie-3/320d","320d xDrive":"serie-3/320d","330e":"serie-3/330e","330e xDrive":"serie-3/330e"},
+  gens:[["G20",2019,2026]],
   nota:"Todos los 320d berlina publicados y una muestra de 12 coches del resto del Serie 3.",
   coches:[["320d",42890,12915,2026],["320d",51995,15,2026],["320d",31975,82018,2022],["320d",43900,17983,2026],["320d",40900,13222,2026],["320d",43900,8123,2026],["320d",44900,30166,2026],["320d",50400,15,2026],["320d",50900,10,2026],["320d",49900,100,2026],["320d",41400,79,2025],["320d xDrive",32900,94800,2021],["320d",50900,9000,2026],["320d",33500,96059,2021],["320d",47890,15,2026],["320d",46900,10834,2025],["320d",51490,20000,2026],["320d",44900,20000,2025],["320d",45900,26807,2025],["320d",46990,15346,2025],["320d",42290,23683,2025],["320d",42999,8640,2025],["320d",42900,26143,2025],["320d",45900,30301,2025],["320d",26550,140780,2022],["320d",39900,22216,2025],["320d",43900,16413,2025],["320d",48490,9000,2025],["320d",51995,15,2026],["320d",24700,147871,2021],["M340d xDrive",72900,21634,2026],["330e",49900,20,2026],["318d",46800,20,2026],["318d",39300,10,2026],["320d",48500,10,2026],["320d xDrive",44900,50509,2024],["318d",39890,20188,2026],["330e xDrive",48975,14234,2026],["330e xDrive",47975,13831,2026],["318d",29900,63027,2023],["320d xDrive",55995,15,2026]]},
+ "Kia|Ceed":{
+  gens:[["3.ª generación",2018,2026]],
+  motores:{"1.5 MHEV 160 CV":["1.5 MHEV 160 CV · microhíbrido",["Automático"]]},
+  fuente:"Motor.es (anuncios de concesionarios, no web oficial de Kia)",
+  nota:"Solo motor 1.5: 9 coches encontrados en Motor.es, porque la web oficial de Kia aún no se ha leído.",
+  coches:[["1.5 MHEV 140 CV",28500,10,2026],["1.5 MHEV 140 CV",23615,16122,2025],["1.5 MHEV 140 CV",25115,14799,2025],["1.5 MHEV 160 CV",24800,35900,2024],["1.5 MHEV 160 CV",23990,25511,2022],["1.5 MHEV 160 CV",27580,39461,2024],["1.5 MHEV 160 CV",19990,85675,2021],["1.5 MHEV 160 CV",21490,63839,2022],["1.5 MHEV 160 CV",22350,37850,2023]]},
  "Renault|Captur":{
   motores:{"TCe 90":["TCe 90 · 90 CV · gasolina",["Manual"]],"Eco-G 100":["Eco-G 100 · 100 CV · GLP",["Manual"]],"TCe 140 mild hybrid":["TCe 140 mild hybrid · 140 CV · microhíbrido",["Manual","Automático"]],"E-Tech full hybrid":["E-Tech full hybrid · 145 CV · híbrido",["Automático"]],"E-Tech híbrido enchufable":["E-Tech · 160 CV · híbrido enchufable",["Automático"]]},
+  gens:[["2.ª generación",2020,2026]],
   nota:"Muestra de 23 coches de los 1.085 Captur publicados en Renew.",
   coches:[["E-Tech híbrido enchufable",16014,55855,2021],["E-Tech híbrido enchufable",18202,44666,2023],["Eco-G 100",19600,20110,2025],["Eco-G 100",18978,19,2026],["TCe 90",14687,55290,2022],["Eco-G 100",18600,44558,2025],["TCe 90",15600,21842,2022],["TCe 140 mild hybrid",18400,29526,2022,"Automático"],["Eco-G 100",20019,15174,2025],["Eco-G 100",17115,14695,2025],["E-Tech full hybrid",19520,59022,2023],["Eco-G 100",19200,38915,2025],["Eco-G 100",20600,13266,2025],["TCe 140 mild hybrid",19600,18850,2024,"Manual"],["TCe 140 mild hybrid",18711,24336,2022,"Manual"],["E-Tech full hybrid",19806,37036,2022],["E-Tech full hybrid",19143,51086,2023],["TCe 140 mild hybrid",18053,31938,2023,"Manual"],["Eco-G 100",19200,37079,2025],["E-Tech híbrido enchufable",18390,60944,2022],["Eco-G 100",20600,9396,2025],["E-Tech full hybrid",17905,79179,2022],["TCe 140 mild hybrid",19390,32932,2023,"Manual"]]},
 };
@@ -356,6 +376,44 @@ function seguro(d,motor,M,PT){
   $("seguroBase").textContent=`Para un conductor de ${edad} años, calculado con ${ms.length?fuente+` (${cv} CV${tipo?", "+tipo:""})`:"un coche medio de 130 CV"}${PT?` y un precio de nuevo de ${eur(PT)}`:""}.`;
 }
 
+function cuartil(a,q){const s=[...a].sort((x,y)=>x-y),p=(s.length-1)*q,i=Math.floor(p);return s[i]+(s[Math.min(i+1,s.length-1)]-s[i])*(p-i)}
+function dibujaCajas(sel,d){
+  const box=$("cajas");if(!box)return;
+  if(!sel.length){box.innerHTML="";return}
+  const gens=(d.gens||[["",1900,2100]]);
+  const genDe=a=>{const i=gens.findIndex(g=>a>=g[1]&&a<=g[2]);return i<0?0:i};
+  const kmMax=Math.ceil(Math.max(...sel.map(c=>c[2]))/10000)*10000;
+  const tramos=[];for(let k=0;k<Math.max(kmMax,10000);k+=10000)tramos.push(k);
+  const grupos=[];
+  tramos.forEach((k,ti)=>gens.forEach((g,gi)=>{const v=sel.filter(c=>c[2]>=k&&c[2]<k+10000&&genDe(c[3])===gi).map(c=>c[1]);if(v.length)grupos.push({ti,gi,k,v})}));
+  const usados=[...new Set(grupos.map(g=>g.ti))];
+  const ng=gens.length,col=Math.max(46,ng*30),W=Math.max(560,70+usados.length*col),H=260,L=56,R=10,T=14,B=40;
+  const vals=sel.map(c=>c[1]),paso=Math.max(...vals)-Math.min(...vals)>30000?10000:2000;
+  const yM=Math.ceil(Math.max(...vals)*1.03/paso)*paso,ym=Math.floor(Math.min(...vals)*.97/paso)*paso;
+  const sy=y=>T+(1-(y-ym)/(yM-ym))*(H-T-B);
+  const cx=(ti,gi)=>{const i=usados.indexOf(ti);const w=(W-L-R)/usados.length;return L+w*i+w/2+(gi-(ng-1)/2)*(w/ng)*.9};
+  const bw=Math.min(34,(W-L-R)/usados.length/ng*.7);
+  let g="";
+  for(let v=ym;v<=yM;v+=paso)g+=`<line class="grid" x1="${L}" x2="${W-R}" y1="${sy(v)}" y2="${sy(v)}"/><text class="tick" x="${L-8}" y="${sy(v)+4}" text-anchor="end">${(v/1000).toLocaleString("es-ES")}k €</text>`;
+  usados.forEach(ti=>{const x=cx(ti,(ng-1)/2),k=tramos[ti];g+=`<text class="tick" x="${x}" y="${H-B+16}" text-anchor="middle">${k/1000}–${k/1000+10}k</text>`});
+  g+=`<text class="tick" x="${W-R}" y="${H-4}" text-anchor="end">Kilómetros</text>`;
+  grupos.forEach((G,i)=>{const x=cx(G.ti,G.gi),v=G.v,n=v.length,mn=Math.min(...v),mx=Math.max(...v),md=cuartil(v,.5);
+    let m=`<g class="bx g${G.gi%2}">`;
+    if(n>=4){const q1=cuartil(v,.25),q3=cuartil(v,.75);
+      m+=`<line class="wh" x1="${x}" x2="${x}" y1="${sy(mx)}" y2="${sy(q3)}"/><line class="wh" x1="${x}" x2="${x}" y1="${sy(q1)}" y2="${sy(mn)}"/><line class="wh" x1="${x-bw/4}" x2="${x+bw/4}" y1="${sy(mx)}" y2="${sy(mx)}"/><line class="wh" x1="${x-bw/4}" x2="${x+bw/4}" y1="${sy(mn)}" y2="${sy(mn)}"/><rect x="${x-bw/2}" y="${sy(q3)}" width="${bw}" height="${Math.max(2,sy(q1)-sy(q3))}" rx="2"/><line class="med" x1="${x-bw/2}" x2="${x+bw/2}" y1="${sy(md)}" y2="${sy(md)}"/>`;
+      G.txt=`${n} coches · mediana ${eur(md)} · la mitad entre ${eur(q1)} y ${eur(q3)} · de ${eur(mn)} a ${eur(mx)}`}
+    else{v.forEach(y=>m+=`<circle class="dot" cx="${x}" cy="${sy(y)}" r="5"/>`);G.txt=`${n} ${n===1?"coche":"coches"} · ${v.map(eur).join(", ")}`}
+    m+=`<rect class="hit" data-i="${i}" x="${x-bw/2-6}" y="${T}" width="${bw+12}" height="${H-T-B}" tabindex="0" aria-label="${G.k/1000} a ${G.k/1000+10} mil km: ${G.txt}"/></g>`;g+=m});
+  const genTxt=gens.filter(x=>x[0]).map((x,i)=>`<span><i class="g${i%2}"></i>${x[0]} (${x[1]}–${x[2]===2026?"hoy":x[2]})</span>`).join("");
+  box.innerHTML=`<div class="dep-head"><h3>Precios por tramos de 10.000 km</h3></div>${genTxt?`<div class="gen-chips">${genTxt}</div>`:""}
+   <div class="dep-plot box-wrap"><svg viewBox="0 0 ${W} ${H}" width="${W}" role="img" aria-label="Distribución de precios por tramos de kilómetros">${g}</svg><div class="tip" hidden></div></div>
+   <p class="src" style="margin:0">Cada caja va del 25 % al 75 % de los precios del tramo y la raya gruesa es el precio del medio; las líneas llegan al más barato y al más caro. Con menos de 4 coches se muestran los puntos sueltos.</p>`;
+  const tip=box.querySelector(".tip"),svg=box.querySelector("svg");
+  const show=e=>{const i=e.target.dataset.i;if(i==null)return;const G=grupos[i],r=svg.getBoundingClientRect(),k=r.width/W;tip.textContent=G.txt;tip.style.left=Math.min(Math.max(cx(G.ti,G.gi)*k,120),r.width-120)+"px";tip.style.top=(T+20)*k+"px";tip.hidden=false};
+  const hide=()=>{tip.hidden=true};
+  svg.addEventListener("pointerover",show);svg.addEventListener("pointerout",hide);svg.addEventListener("focusin",show);svg.addEventListener("focusout",hide);
+}
+
 function render(){
   const marca=$("marca").value,modelo=$("modelo").value,motor=$("motor").value,cambio=$("cambio").value;
   const B=MARCAS[marca],M=CAT[marca][modelo],d=det();
@@ -391,8 +449,9 @@ function render(){
         const lbl=`<div class="km">${TRAMOS[i][0]}${TRAMOS[i][1]?`<span>${TRAMOS[i][1]}</span>`:""}</div>`;
         if(!b) return `<div class="band empty">${lbl}<div class="track"></div><div class="val"><b>Sin coches</b></div></div>`;
         return `<div class="band">${lbl}<div class="track"><div class="fill" style="width:${Math.round(b[1]/max*100)}%"></div></div><div class="val"><b>${eur(b[1])}</b><span class="${b[0]<5?"few":""}">${b[0]} ${b[0]===1?"coche":"coches"}${b[0]>1?" · "+eur(b[2])+"–"+eur(b[3]):""}</span></div></div>`;
-      }).join("")}</div><p class="src" style="margin:0">${d.nota}</p>`:`<p class="empty-note">No había coches de esta combinación el día que tomamos los datos.</p>`)+btn;
-      $("offSrc").textContent=sel.length+" coches analizados";
+      }).join("")}</div><p class="src" style="margin:0">${d.nota}</p><div class="dep" id="cajas"></div>`:`<p class="empty-note">No había coches de esta combinación el día que tomamos los datos.</p>`)+btn;
+      $("offSrc").textContent=sel.length+" coches analizados"+(d.fuente?" · "+d.fuente:"");
+      dibujaCajas(sel,d);
     }else{
       $("offBox").innerHTML=`<p class="empty-note">${of.estado==="ok"?"Aún no hemos calculado las medias de este modelo.":ESTADO[of.estado]} Puedes ver los coches directamente en la web oficial.</p>`+btn;
       $("offSrc").textContent=of.prog;
