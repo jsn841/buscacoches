@@ -3,7 +3,7 @@
   "web": "abarth",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "500": {
@@ -42,7 +42,7 @@
   "web": "alfa-romeo",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "Giulia": {
@@ -2893,7 +2893,7 @@
   "web": "citroen",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "AMI": {
@@ -4007,7 +4007,7 @@
   "web": "ds",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "DS 3": {
@@ -4547,7 +4547,7 @@
   "web": "fiat",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "500": {
@@ -6172,7 +6172,7 @@
   "web": "jeep",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "Avenger": {
@@ -7040,7 +7040,7 @@
   "web": "lancia",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "Ypsilon": {
@@ -10620,7 +10620,7 @@
   "web": "opel",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "Astra": {
@@ -11002,7 +11002,7 @@
   "web": "peugeot",
   "oficial": {
    "sitio": "Spoticar",
-   "estado": "ok"
+   "estado": "bloquea"
   },
   "modelos": {
    "208": {
