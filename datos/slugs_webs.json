@@ -1119,6 +1119,10 @@ null,
 "mercedes",
 "amg-sl"
 ],
+"coches.com|Mercedes-Benz|CLA": [
+"mercedes-benz",
+"cla"
+],
 "coches.com|Mercedes-Benz|Citan": [
 "mercedes",
 "citan"
@@ -1374,6 +1378,10 @@ null,
 "coches.com|Renault|Espace": [
 "renault",
 "espace"
+],
+"coches.com|Renault|Grand Scénic": [
+"renault",
+"grand-scenic"
 ],
 "coches.com|Renault|Kadjar": [
 "renault",
