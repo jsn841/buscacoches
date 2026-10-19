@@ -297,7 +297,8 @@ def leer_modelo_en_web(cli, web, cfg, marca, info_marca, modelo, info_modelo, mo
             paginas += 1
             anuncios, via = extraer(html)
             if muestras is not None and p == 1 and len(muestras.get(web, [])) < 2:
-                muestras.setdefault(web, []).append((f"{slug(marca)}--{slug(modelo)}", url, html, len(anuncios), via))
+                ejemplo = [f"{x['titulo'][:50]} | {x['precio']} | {x['km']} | {x['ano']}" for x in anuncios[:3]]
+                muestras.setdefault(web, []).append((f"{slug(marca)}--{slug(modelo)}", url, html, len(anuncios), via, ejemplo))
             nuevos = 0
             otros = sum(1 for a in anuncios if (modelo_del_titulo(a["titulo"], modelos_marca) not in (None, modelo)))
             for a in anuncios:
@@ -476,10 +477,11 @@ def main():
             f.unlink()
         resumen = []
         for web, lista in muestras.items():
-            for nombre, url, html, n, via in lista:
+            for nombre, url, html, n, via, ejemplo in lista:
                 fn = f"{slug(web)}__{nombre}.html"
                 (DEBUG / fn).write_text(html[:1_500_000])
-                resumen.append({"web": web, "url": url, "archivo": fn, "anuncios_extraidos": n, "via": via})
+                resumen.append({"web": web, "url": url, "archivo": fn, "anuncios_extraidos": n, "via": via,
+                                "bytes": len(html), "scripts": html.count("<script"), "ejemplos": ejemplo})
         (DEBUG / "muestras.json").write_text(json.dumps(resumen, ensure_ascii=False, indent=1))
     print(json.dumps(inf, ensure_ascii=False, indent=1))
 
