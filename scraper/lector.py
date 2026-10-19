@@ -97,6 +97,10 @@ WEBS = {
         "tipo": "oficial", "marcas": ["BMW"],
         "url": lambda ma, mo, p: f"https://www.bmwpremiumselection.es/coches-segunda-mano/{mo}/" + (f"?pagina={p}" if p > 1 else ""),
     },
+    "Spoticar": {
+        "tipo": "oficial", "marcas": ["Peugeot", "Citroën", "Opel"],
+        "url": lambda ma, mo, p: f"https://www.spoticar.es/comprar-coches-de-ocasion/{ma}/{mo}" + (f"?page={p}" if p > 1 else ""),
+    },
     "Renew": {
         "tipo": "oficial", "marcas": ["Renault", "Dacia"], "etiqueta": True,
         "url": lambda ma, mo, p: ("https://es.renew.auto/vehiculos.html?"
@@ -276,7 +280,7 @@ def leer_modelo_en_web(cli, web, cfg, marca, info_marca, modelo, info_modelo, mo
     """Devuelve (anuncios, nota)."""
     if cfg.get("etiqueta"):
         combos = [(marca.upper(), info_modelo.get("etiqueta_oficial") or modelo.upper())]
-    elif cfg["tipo"] == "oficial":
+    elif web == "BMW Premium Selection":
         combos = [(None, v) for v in variantes_modelo(modelo)]
     else:
         combos = [(a, b) for a in variantes_marca(marca, info_marca["web"]) for b in variantes_modelo(modelo)]

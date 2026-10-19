@@ -45,7 +45,7 @@ Recogidos a mano en octubre de 2026:
 Cada noche, GitHub Actions (`.github/workflows/nocturno.yml`) ejecuta `scraper/lector.py`, que:
 
 1. Recorre los modelos de `datos/catalogo.json`.
-2. Lee los anuncios de los portales (Motor.es, Coches.com, Coches.net y Flexicar) y de las webs oficiales que se dejan leer (BMW Premium Selection y Renew para Renault y Dacia).
+2. Lee los anuncios de los portales (Motor.es, Coches.com, Coches.net y Flexicar) y de las webs oficiales que se dejan leer (BMW Premium Selection, Renew para Renault y Dacia, y Spoticar para Peugeot, Citroën y Opel).
 3. Asigna cada anuncio a una motorización por potencia, combustible y cilindrada, y quita los coches repetidos entre webs.
 4. Guarda un archivo por modelo en `datos/ocasion/` y un resumen de cada web en `datos/informe.json`.
 
