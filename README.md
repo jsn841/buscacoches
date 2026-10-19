@@ -52,7 +52,8 @@ Cada noche, GitHub Actions (`.github/workflows/nocturno.yml`) ejecuta `scraper/l
 La web carga esos archivos al elegir un modelo. El lector respeta el robots.txt de cada web, espera entre peticiones y deja de leer una web si lo bloquea.
 
 - **Ejecutarlo a mano:** pestaña Actions → «Análisis nocturno de precios de ocasión» → Run workflow (modo `completo` o `prueba`).
-- **Modo prueba:** se lanza solo al cambiar el lector; lee 4 modelos y guarda muestras de las páginas en `debug/` para revisar la extracción.
+- **Lanzarlo al momento:** cualquier cambio en el lector, o en el archivo `.github/lanzar`, ejecuta el análisis completo.
+- **Modo prueba** (desde Run workflow): lee 4 modelos y guarda muestras de las páginas en `debug/` para revisar la extracción.
 - **En local:** `pip install -r scraper/requirements.txt` y `python scraper/lector.py --modelos "Kia|Ceed"`.
 
 ## Pendiente

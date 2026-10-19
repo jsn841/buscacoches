@@ -442,7 +442,7 @@ def main():
     slugs = json.loads(slugs_f.read_text()) if slugs_f.exists() else {}
     resultados = collections.defaultdict(dict)
     informe = {}
-    muestras = {} if args.modo == "prueba" or args.modelos else None
+    muestras = {}  # dos páginas de ejemplo por web, para revisar la extracción
 
     hilos = [threading.Thread(target=hilo_web, args=(w, cfg, tareas, catalogo, max_pag, limite, resultados, informe,
                                                      slugs, muestras, args.pausa), daemon=True)

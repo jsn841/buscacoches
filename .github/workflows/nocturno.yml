@@ -15,6 +15,7 @@ on:
     paths:
       - "scraper/**"
       - ".github/workflows/nocturno.yml"
+      - ".github/lanzar"
 
 permissions:
   contents: write
@@ -46,7 +47,7 @@ jobs:
 
       - name: Leer anuncios
         env:
-          MODO: ${{ github.event_name == 'push' && 'prueba' || inputs.modo || 'completo' }}
+          MODO: ${{ inputs.modo || 'completo' }}
         run: |
           python scraper/lector.py --modo "$MODO" --minutos 300 || echo "::error::El lector terminó con error"
           python - <<'PY'
