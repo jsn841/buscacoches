@@ -210,7 +210,7 @@ def desde_texto(soup):
         t = el.get_text(" ", strip=True)
         if not (25 <= len(t) <= 900):
             continue
-        if not RE_PRECIO.search(t) or not RE_KM.search(t):
+        if not RE_PRECIO.search(t) or not (RE_KM.search(t) or RE_ANO.search(t)):
             continue
         candidatos.append(el)
     ids = {id(c) for c in candidatos}
@@ -228,7 +228,8 @@ def desde_texto(soup):
             continue
         mc = re.search(r"contado[^0-9]{0,40}" + RE_PRECIO.pattern, t, re.I)
         precio = numero(mc.group(1)) if mc else precios[0]
-        km = numero(RE_KM.search(t).group(1))
+        mk = RE_KM.search(t)
+        km = numero(mk.group(1)) if mk else None
         anos = [int(a) for a in RE_ANO.findall(t)]
         enlace = el.get("href") if el.name == "a" else (el.find("a").get("href") if el.find("a") else None)
         titulo_el = el.find(["h2", "h3", "h4"]) or el
