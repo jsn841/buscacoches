@@ -98,7 +98,7 @@ WEBS = {
         "url": lambda ma, mo, p: f"https://www.bmwpremiumselection.es/coches-segunda-mano/{mo}/" + (f"?pagina={p}" if p > 1 else ""),
     },
     "Spoticar": {
-        "tipo": "oficial", "marcas": ["Peugeot", "Citroën", "Opel", "Fiat", "Jeep", "Alfa Romeo", "DS", "Lancia"],
+        "tipo": "oficial", "marcas": ["Peugeot", "Citroën", "Opel", "Fiat", "Jeep", "Alfa Romeo", "DS", "Lancia", "Abarth"],
         "url": lambda ma, mo, p: f"https://www.spoticar.es/comprar-coches-de-ocasion/{ma}/{mo}" + (f"?page={p}" if p > 1 else ""),
     },
     "Renew": {

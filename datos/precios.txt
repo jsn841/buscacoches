@@ -1473,3 +1473,220 @@ None|híbrido enchufable||
 245|eléctrico|45989|40900
 313|eléctrico|49989|44900
 503|eléctrico|55989|54500
+## Abarth|500
+155|eléctrico|35211|28279
+## Abarth|600
+282|eléctrico|44861|39085
+## Alpine|A290
+180|eléctrico|38576|
+220|eléctrico|41776|
+## Alpine|A390
+400|eléctrico|67076|
+470|eléctrico|77576|
+## Alpine|A110
+252|gasolina|69359|
+300|gasolina|82959|
+## Aston Martin|DB12
+680|gasolina||
+700|gasolina||
+## Aston Martin|DBX
+707|gasolina||
+727|gasolina||
+## Aston Martin|Vanquish
+835|gasolina||
+## Aston Martin|Vantage
+665|gasolina||
+680|gasolina||
+## Bentley|Bentayga
+462|híbrido enchufable|221550|204174
+550|gasolina|251878|229063
+650|gasolina|306635|
+## Bentley|Flying Spur
+680|híbrido enchufable|237932|
+782|híbrido enchufable|297314|214533
+## Bentley|Continental GT
+680|híbrido enchufable|286329|
+782|híbrido enchufable|352835|
+## Bestune|T77
+160|gasolina|24867|
+## Bestune|B70
+160|gasolina|26367|
+## Bestune|T90
+252|gasolina|31467|
+## Bestune|Joyee 07
+250|híbrido enchufable|37505|
+## Changan|Deepal S05 PHEV
+258|híbrido enchufable|33385|24550
+## Changan|Deepal S05
+272|eléctrico|36385|26120
+435|eléctrico|42385|33660
+## Changan|Deepal S07
+258|eléctrico|46385|31020
+## Denza|D9
+354|híbrido enchufable|78500|
+## Denza|Z9 GT
+775|híbrido enchufable|101000|
+1156|eléctrico|115000|
+## DFSK|500
+106|gasolina|23107|18995
+## DFSK|600
+177|gasolina|28717|28495
+## DFSK|580
+149|gasolina|29284|
+## DFSK|F5
+137|gasolina|34284|
+## DFSK|E5
+217|híbrido enchufable|36164|
+## Dongfeng|Box
+95|eléctrico|27265|18375
+## Dongfeng|Vigo
+163|eléctrico|31990|
+## Dongfeng|Mage
+299|híbrido enchufable|34990|28529
+## DR|DR 5
+160|gasolina|23900|
+154|GLP|24900|
+## DR|DR 6
+188|gasolina|28900|
+178|GLP|30400|
+## EVO|EVO3
+113|gasolina|16900|
+107|GLP|18400|
+## EVO|EVO4
+115|gasolina|19900|
+106|GLP|20900|
+## EVO|EVO5
+127|gasolina|18900|
+120|GLP|19900|
+## EVO|EVO6
+176|gasolina|30900|
+167|GLP|32399|
+## EVO|EVO7
+174|gasolina|31900|
+162|GLP|32900|
+## EVO|Cuatro
+117|gasolina|19900|
+114|GLP|21400|
+147|gasolina|22400|
+140|GLP|23400|
+## Ferrari|12Cilindri
+830|gasolina||
+## Ferrari|296
+830|híbrido enchufable||
+880|híbrido enchufable||
+## Ferrari|849
+1050|híbrido enchufable||
+## Ferrari|Amalfi
+640|gasolina||
+## Ferrari|Purosangue
+725|gasolina||
+## Ferrari|SF90
+1000|híbrido enchufable||
+## Geely|E2
+82|eléctrico|20990|
+115|eléctrico|24990|
+## Geely|Starray EM-i
+262|híbrido enchufable|33490|28782
+## Geely|E5
+218|eléctrico|37490|31940
+## GWM|Ora 5
+160|gasolina|26296|19950
+223|híbrido|28320|
+204|eléctrico|34320|
+## Ineos|Grenadier
+286|gasolina|93930|84530
+249|diésel|93930|85530
+## Lamborghini|Urus
+800|híbrido enchufable|276333|
+812|híbrido enchufable|301171|
+## Lamborghini|Temerario
+920|híbrido enchufable|350782|
+## Lamborghini|Revuelto
+1015|híbrido enchufable|573326|
+## Lepas|L8
+279|híbrido enchufable|40853|
+## Livan|X3 Pro
+103|gasolina|16406|
+## Livan|X6 Pro
+174|gasolina|26406|
+## Lotus|Eletre
+612|eléctrico|101706|
+918|eléctrico|148406|
+## Lotus|Eletre X
+549|híbrido enchufable|98990|
+952|híbrido enchufable|122990|
+## Lotus|Emeya
+612|eléctrico|109806|
+918|eléctrico|148406|
+## Lotus|Emira
+365|gasolina|111629|
+406|gasolina|125091|
+406|gasolina|134067|
+421|gasolina|148651|
+## Lynk & Co|01
+276|híbrido enchufable|40995|38535
+280|híbrido enchufable|44995|42295
+## Lynk & Co|02
+272|eléctrico|35495|34076
+## Lynk & Co|08
+350|híbrido enchufable|52995|45047
+## Maserati|Grecale
+250|microhíbrido|86687|
+300|microhíbrido|91315|
+330|microhíbrido|102627|
+558|eléctrico|96437|
+390|gasolina|112713|
+530|gasolina|140311|
+## Maserati|GranTurismo
+761|eléctrico|156872|
+490|gasolina|179936|
+590|gasolina|224055|
+## Maserati|GranCabrio
+761|eléctrico|167157|
+490|gasolina|191475|
+590|gasolina|235594|
+## Maserati|MC20
+630|gasolina|245300|
+640|gasolina|343311|
+## McLaren|750S
+750|gasolina||
+## McLaren|Artura
+700|híbrido enchufable||
+## Rolls-Royce|Cullinan
+571|gasolina||
+600|gasolina||
+## Rolls-Royce|Ghost
+570|gasolina||
+612|gasolina||
+## Rolls-Royce|Phantom
+513|gasolina||
+## Rolls-Royce|Spectre
+601|eléctrico||
+680|eléctrico||
+## Seres|3
+163|eléctrico|43451|
+## Seres|5
+299|eléctrico|62955|
+585|eléctrico|69450|
+## Voyah|Free
+489|eléctrico||
+## Voyah|Dream
+435|eléctrico||
+## Zeekr|X
+272|eléctrico|37990|
+340|eléctrico|42990|
+496|eléctrico|47990|
+## Zeekr|7GT
+422|eléctrico|45990|
+646|eléctrico|59990|
+## Zeekr|7X
+422|eléctrico|52990|
+646|eléctrico|62990|
+## Zeekr|001
+272|eléctrico|59990|
+544|eléctrico|65990|
+## ICH-X|K2
+162|diésel|58050|
+## ICH-X|K3
+245|gasolina|47900|
+238|GLP|49900|

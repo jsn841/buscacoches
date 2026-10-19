@@ -1545,3 +1545,220 @@ AWD|575|eléctrico|automático
 RWD Standard Range|245|eléctrico|automático
 RWD Long Range|313|eléctrico|automático
 AWD Performance|503|eléctrico|automático
+## Abarth|500
+500e 42 kWh|155|eléctrico|automático
+## Abarth|600
+600e 54 kWh|282|eléctrico|automático
+## Alpine|A290
+Eléctrico 180 CV|180|eléctrico|automático
+Eléctrico 220 CV|220|eléctrico|automático
+## Alpine|A390
+Eléctrico 89 kWh 400 CV|400|eléctrico|automático
+Eléctrico 89 kWh 470 CV|470|eléctrico|automático
+## Alpine|A110
+1.8 TCe 252 CV|252|gasolina|automático
+1.8 TCe 300 CV|300|gasolina|automático
+## Aston Martin|DB12
+4.0 V8 biturbo|680|gasolina|automático
+4.0 V8 biturbo S|700|gasolina|automático
+## Aston Martin|DBX
+4.0 V8 biturbo|707|gasolina|automático
+4.0 V8 biturbo S|727|gasolina|automático
+## Aston Martin|Vanquish
+5.2 V12 biturbo|835|gasolina|automático
+## Aston Martin|Vantage
+4.0 V8 biturbo 665 CV|665|gasolina|automático
+4.0 V8 biturbo 680 CV|680|gasolina|automático
+## Bentley|Bentayga
+Hybrid|462|híbrido enchufable|automático
+4.0 V8 550 CV|550|gasolina|automático
+4.0 V8 650 CV|650|gasolina|automático
+## Bentley|Flying Spur
+4.0 V8 PHEV 680 CV|680|híbrido enchufable|automático
+4.0 V8 PHEV 782 CV|782|híbrido enchufable|automático
+## Bentley|Continental GT
+4.0 V8 PHEV 680 CV|680|híbrido enchufable|automático
+4.0 V8 PHEV 782 CV|782|híbrido enchufable|automático
+## Bestune|T77
+1.5T|160|gasolina|automático
+## Bestune|B70
+1.5T|160|gasolina|automático
+## Bestune|T90
+2.0T|252|gasolina|automático
+## Bestune|Joyee 07
+1.5T PHEV|250|híbrido enchufable|automático
+## Changan|Deepal S05 PHEV
+1.5 Turbo PHEV|258|híbrido enchufable|automático
+## Changan|Deepal S05
+Eléctrico 200 kW|272|eléctrico|automático
+Eléctrico 320 kW AWD|435|eléctrico|automático
+## Changan|Deepal S07
+Eléctrico 80 kWh|258|eléctrico|automático
+## Denza|D9
+1.5T PHEV|354|híbrido enchufable|automático
+## Denza|Z9 GT
+2.0T PHEV|775|híbrido enchufable|automático
+Eléctrico 122 kWh|1156|eléctrico|automático
+## DFSK|500
+1.5 T|106|gasolina|automático
+## DFSK|600
+1.5 T-GDi|177|gasolina|automático
+## DFSK|580
+1.5 T|149|gasolina|automático
+## DFSK|F5
+1.5T|137|gasolina|automático
+## DFSK|E5
+1.5 PHEV|217|híbrido enchufable|automático
+## Dongfeng|Box
+Eléctrico 70 kW|95|eléctrico|automático
+## Dongfeng|Vigo
+Eléctrico 51,9 kWh|163|eléctrico|automático
+## Dongfeng|Mage
+1.5T PHEV|299|híbrido enchufable|automático
+## DR|DR 5
+1.4 Turbo|160|gasolina|automático
+1.4 Turbo GLP|154|GLP|automático
+## DR|DR 6
+1.5 Turbo|188|gasolina|automático
+1.5 Turbo GLP|178|GLP|automático
+## EVO|EVO3
+1.5|113|gasolina|manual
+1.5 GLP|107|GLP|manual
+## EVO|EVO4
+1.6|115|gasolina|manual
+1.6 GLP|106|GLP|manual
+## EVO|EVO5
+1.5|127|gasolina|manual
+1.5 GLP|120|GLP|manual
+## EVO|EVO6
+1.5 Turbo|176|gasolina|automático
+1.5 Turbo GLP|167|GLP|automático
+## EVO|EVO7
+1.5 Turbo|174|gasolina|automático
+1.5 Turbo GLP|162|GLP|automático
+## EVO|Cuatro
+1.5|117|gasolina|manual
+1.5 GLP|114|GLP|manual
+1.5 Turbo|147|gasolina|automático
+1.5 Turbo GLP|140|GLP|automático
+## Ferrari|12Cilindri
+6.5 V12|830|gasolina|automático
+## Ferrari|296
+3.0 V6 PHEV|830|híbrido enchufable|automático
+3.0 V6 PHEV Speciale|880|híbrido enchufable|automático
+## Ferrari|849
+4.0 V8 PHEV|1050|híbrido enchufable|automático
+## Ferrari|Amalfi
+3.9 V8|640|gasolina|automático
+## Ferrari|Purosangue
+6.5 V12|725|gasolina|automático
+## Ferrari|SF90
+4.0 V8 PHEV|1000|híbrido enchufable|automático
+## Geely|E2
+Eléctrico 60 kW|82|eléctrico|automático
+Eléctrico 85 kW|115|eléctrico|automático
+## Geely|Starray EM-i
+1.5 EM-i PHEV|262|híbrido enchufable|automático
+## Geely|E5
+Eléctrico 160 kW|218|eléctrico|automático
+## GWM|Ora 5
+1.5T|160|gasolina|automático
+1.5T HEV|223|híbrido|automático
+Eléctrico 58,3 kWh|204|eléctrico|automático
+## Ineos|Grenadier
+3.0 Turbo gasolina|286|gasolina|automático
+3.0 Turbo diésel|249|diésel|automático
+## Lamborghini|Urus
+Urus SE|800|híbrido enchufable|automático
+Urus SE Performance|812|híbrido enchufable|automático
+## Lamborghini|Temerario
+4.0 V8 PHEV|920|híbrido enchufable|automático
+## Lamborghini|Revuelto
+6.5 V12 PHEV|1015|híbrido enchufable|automático
+## Lepas|L8
+1.5 TGDI PHEV|279|híbrido enchufable|automático
+## Livan|X3 Pro
+1.5|103|gasolina|manual/automático
+## Livan|X6 Pro
+1.5 Turbo|174|gasolina|automático
+## Lotus|Eletre
+Eléctrico 612 CV|612|eléctrico|automático
+Eléctrico 918 CV|918|eléctrico|automático
+## Lotus|Eletre X
+H550 PHEV|549|híbrido enchufable|automático
+H1000 PHEV|952|híbrido enchufable|automático
+## Lotus|Emeya
+Eléctrico 612 CV|612|eléctrico|automático
+Eléctrico 918 CV|918|eléctrico|automático
+## Lotus|Emira
+2.0 Turbo 365 CV|365|gasolina|automático
+2.0 Turbo 406 CV|406|gasolina|automático
+3.5 V6|406|gasolina|manual/automático
+2.0 Turbo 421 CV|421|gasolina|automático
+## Lynk & Co|01
+1.5 PHEV 276 CV|276|híbrido enchufable|automático
+1.5 PHEV 280 CV|280|híbrido enchufable|automático
+## Lynk & Co|02
+Eléctrico 66 kWh|272|eléctrico|automático
+## Lynk & Co|08
+1.5 PHEV|350|híbrido enchufable|automático
+## Maserati|Grecale
+2.0 MHEV 250 CV|250|microhíbrido|automático
+2.0 MHEV 300 CV|300|microhíbrido|automático
+2.0 MHEV 330 CV|330|microhíbrido|automático
+Folgore|558|eléctrico|automático
+3.0 V6 390 CV|390|gasolina|automático
+3.0 V6 530 CV|530|gasolina|automático
+## Maserati|GranTurismo
+Folgore|761|eléctrico|automático
+3.0 V6 490 CV|490|gasolina|automático
+3.0 V6 Trofeo|590|gasolina|automático
+## Maserati|GranCabrio
+Folgore|761|eléctrico|automático
+3.0 V6 490 CV|490|gasolina|automático
+3.0 V6 Trofeo|590|gasolina|automático
+## Maserati|MC20
+3.0 V6 630 CV|630|gasolina|automático
+3.0 V6 640 CV|640|gasolina|automático
+## McLaren|750S
+4.0 V8 biturbo|750|gasolina|automático
+## McLaren|Artura
+3.0 V6 PHEV|700|híbrido enchufable|automático
+## Rolls-Royce|Cullinan
+6.75 V12 571 CV|571|gasolina|automático
+6.75 V12 600 CV|600|gasolina|automático
+## Rolls-Royce|Ghost
+6.75 V12 570 CV|570|gasolina|automático
+6.75 V12 612 CV|612|gasolina|automático
+## Rolls-Royce|Phantom
+6.75 V12|513|gasolina|automático
+## Rolls-Royce|Spectre
+Eléctrico 601 CV|601|eléctrico|automático
+Eléctrico 680 CV|680|eléctrico|automático
+## Seres|3
+Eléctrico 120 kW|163|eléctrico|automático
+## Seres|5
+Eléctrico 220 kW|299|eléctrico|automático
+Eléctrico 430 kW AWD|585|eléctrico|automático
+## Voyah|Free
+Eléctrico 106 kWh|489|eléctrico|automático
+## Voyah|Dream
+Eléctrico 108,7 kWh|435|eléctrico|automático
+## Zeekr|X
+Core RWD|272|eléctrico|automático
+Long Range RWD|340|eléctrico|automático
+Privilege AWD|496|eléctrico|automático
+## Zeekr|7GT
+RWD|422|eléctrico|automático
+AWD|646|eléctrico|automático
+## Zeekr|7X
+RWD|422|eléctrico|automático
+AWD|646|eléctrico|automático
+## Zeekr|001
+RWD|272|eléctrico|automático
+AWD|544|eléctrico|automático
+## ICH-X|K2
+2.0 diésel|162|diésel|automático
+## ICH-X|K3
+2.0|245|gasolina|automático
+2.0 bifuel GLP|238|GLP|automático

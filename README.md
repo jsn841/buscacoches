@@ -13,7 +13,7 @@ La web es un único archivo, `index.html`. Al abrirla desde GitHub Pages (o cual
 
 ## Datos fijos
 
-Recogidos a mano en octubre de 2026 (43 marcas):
+Recogidos a mano en octubre de 2026 (70 marcas):
 
 - `datos/catalogo.json`: marcas, modelos y motorizaciones que usa el lector.
 - `datos/motores.txt` y `datos/precios.txt`: motorizaciones y precio de nuevo por motorización (fichas de Motor.es).
@@ -24,7 +24,7 @@ Recogidos a mano en octubre de 2026 (43 marcas):
 Cada noche, GitHub Actions (`.github/workflows/nocturno.yml`) ejecuta `scraper/lector.py`, que:
 
 1. Recorre los modelos de `datos/catalogo.json`.
-2. Lee los anuncios de los portales (Motor.es, Coches.com, Coches.net y Flexicar) y de las webs oficiales que se dejan leer (BMW Premium Selection, Renew para Renault y Dacia, y Spoticar para Peugeot, Citroën, Opel, Fiat, Jeep, Alfa Romeo, DS y Lancia).
+2. Lee los anuncios de los portales (Motor.es, Coches.com, Coches.net y Flexicar) y de las webs oficiales que se dejan leer (BMW Premium Selection, Renew para Renault y Dacia, y Spoticar para Peugeot, Citroën, Opel, Fiat, Jeep, Alfa Romeo, DS, Lancia y Abarth).
 3. Asigna cada anuncio a una motorización por potencia, combustible y cilindrada, y quita los coches repetidos entre webs.
 4. Guarda un archivo por modelo en `datos/ocasion/` y un resumen de cada web en `datos/informe.json`.
 

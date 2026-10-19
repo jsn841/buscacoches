@@ -1,4 +1,43 @@
 {
+ "Abarth": {
+  "web": "abarth",
+  "oficial": {
+   "sitio": "Spoticar",
+   "estado": "ok"
+  },
+  "modelos": {
+   "500": {
+    "etiqueta_oficial": null,
+    "tarifa": 35211,
+    "motores": [
+     {
+      "clave": "500e 42 kWh 155 CV",
+      "etiqueta": "500e 42 kWh 155 CV · eléctrico",
+      "cv": 155,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "600": {
+    "etiqueta_oficial": null,
+    "tarifa": 44861,
+    "motores": [
+     {
+      "clave": "600e 54 kWh 282 CV",
+      "etiqueta": "600e 54 kWh 282 CV · eléctrico",
+      "cv": 282,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Alfa Romeo": {
   "web": "alfa-romeo",
   "oficial": {
@@ -165,6 +204,177 @@
       "etiqueta": "1.3 PHEV Q4 270 CV · híbrido enchufable",
       "cv": 270,
       "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Alpine": {
+  "web": "alpine",
+  "oficial": null,
+  "modelos": {
+   "A290": {
+    "etiqueta_oficial": null,
+    "tarifa": 38576,
+    "motores": [
+     {
+      "clave": "Eléctrico 180 CV",
+      "etiqueta": "Eléctrico 180 CV · eléctrico",
+      "cv": 180,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 220 CV",
+      "etiqueta": "Eléctrico 220 CV · eléctrico",
+      "cv": 220,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "A390": {
+    "etiqueta_oficial": null,
+    "tarifa": 67076,
+    "motores": [
+     {
+      "clave": "Eléctrico 89 kWh 400 CV",
+      "etiqueta": "Eléctrico 89 kWh 400 CV · eléctrico",
+      "cv": 400,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 89 kWh 470 CV",
+      "etiqueta": "Eléctrico 89 kWh 470 CV · eléctrico",
+      "cv": 470,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "A110": {
+    "etiqueta_oficial": null,
+    "tarifa": 69359,
+    "motores": [
+     {
+      "clave": "1.8 TCe 252 CV",
+      "etiqueta": "1.8 TCe 252 CV · gasolina",
+      "cv": 252,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.8 TCe 300 CV",
+      "etiqueta": "1.8 TCe 300 CV · gasolina",
+      "cv": 300,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Aston Martin": {
+  "web": "aston-martin",
+  "oficial": null,
+  "modelos": {
+   "DB12": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "4.0 V8 biturbo 680 CV",
+      "etiqueta": "4.0 V8 biturbo 680 CV · gasolina",
+      "cv": 680,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 biturbo S 700 CV",
+      "etiqueta": "4.0 V8 biturbo S 700 CV · gasolina",
+      "cv": 700,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "DBX": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "4.0 V8 biturbo 707 CV",
+      "etiqueta": "4.0 V8 biturbo 707 CV · gasolina",
+      "cv": 707,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 biturbo S 727 CV",
+      "etiqueta": "4.0 V8 biturbo S 727 CV · gasolina",
+      "cv": 727,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Vanquish": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "5.2 V12 biturbo 835 CV",
+      "etiqueta": "5.2 V12 biturbo 835 CV · gasolina",
+      "cv": 835,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Vantage": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "4.0 V8 biturbo 665 CV",
+      "etiqueta": "4.0 V8 biturbo 665 CV · gasolina",
+      "cv": 665,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 biturbo 680 CV",
+      "etiqueta": "4.0 V8 biturbo 680 CV · gasolina",
+      "cv": 680,
+      "combustible": "gasolina",
       "cambios": [
        "Automático"
       ]
@@ -1025,6 +1235,159 @@
       "etiqueta": "V6 TDI 299 CV · microhíbrido",
       "cv": 299,
       "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Bentley": {
+  "web": "bentley",
+  "oficial": null,
+  "modelos": {
+   "Bentayga": {
+    "etiqueta_oficial": null,
+    "tarifa": 221550,
+    "motores": [
+     {
+      "clave": "Hybrid 462 CV",
+      "etiqueta": "Hybrid 462 CV · híbrido enchufable",
+      "cv": 462,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 550 CV",
+      "etiqueta": "4.0 V8 550 CV · gasolina",
+      "cv": 550,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 650 CV",
+      "etiqueta": "4.0 V8 650 CV · gasolina",
+      "cv": 650,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Flying Spur": {
+    "etiqueta_oficial": null,
+    "tarifa": 237932,
+    "motores": [
+     {
+      "clave": "4.0 V8 PHEV 680 CV",
+      "etiqueta": "4.0 V8 PHEV 680 CV · híbrido enchufable",
+      "cv": 680,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 PHEV 782 CV",
+      "etiqueta": "4.0 V8 PHEV 782 CV · híbrido enchufable",
+      "cv": 782,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Continental GT": {
+    "etiqueta_oficial": null,
+    "tarifa": 286329,
+    "motores": [
+     {
+      "clave": "4.0 V8 PHEV 680 CV",
+      "etiqueta": "4.0 V8 PHEV 680 CV · híbrido enchufable",
+      "cv": 680,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "4.0 V8 PHEV 782 CV",
+      "etiqueta": "4.0 V8 PHEV 782 CV · híbrido enchufable",
+      "cv": 782,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Bestune": {
+  "web": "bestune",
+  "oficial": null,
+  "modelos": {
+   "T77": {
+    "etiqueta_oficial": null,
+    "tarifa": 24867,
+    "motores": [
+     {
+      "clave": "1.5T 160 CV",
+      "etiqueta": "1.5T 160 CV · gasolina",
+      "cv": 160,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "B70": {
+    "etiqueta_oficial": null,
+    "tarifa": 26367,
+    "motores": [
+     {
+      "clave": "1.5T 160 CV",
+      "etiqueta": "1.5T 160 CV · gasolina",
+      "cv": 160,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "T90": {
+    "etiqueta_oficial": null,
+    "tarifa": 31467,
+    "motores": [
+     {
+      "clave": "2.0T 252 CV",
+      "etiqueta": "2.0T 252 CV · gasolina",
+      "cv": 252,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Joyee 07": {
+    "etiqueta_oficial": null,
+    "tarifa": 37505,
+    "motores": [
+     {
+      "clave": "1.5T PHEV 250 CV",
+      "etiqueta": "1.5T PHEV 250 CV · híbrido enchufable",
+      "cv": 250,
+      "combustible": "híbrido enchufable",
       "cambios": [
        "Automático"
       ]
@@ -2466,6 +2829,66 @@
    }
   }
  },
+ "Changan": {
+  "web": "changan",
+  "oficial": null,
+  "modelos": {
+   "Deepal S05 PHEV": {
+    "etiqueta_oficial": null,
+    "tarifa": 33385,
+    "motores": [
+     {
+      "clave": "1.5 Turbo PHEV 258 CV",
+      "etiqueta": "1.5 Turbo PHEV 258 CV · híbrido enchufable",
+      "cv": 258,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Deepal S05": {
+    "etiqueta_oficial": null,
+    "tarifa": 36385,
+    "motores": [
+     {
+      "clave": "Eléctrico 200 kW 272 CV",
+      "etiqueta": "Eléctrico 200 kW 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 320 kW AWD 435 CV",
+      "etiqueta": "Eléctrico 320 kW AWD 435 CV · eléctrico",
+      "cv": 435,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Deepal S07": {
+    "etiqueta_oficial": null,
+    "tarifa": 46385,
+    "motores": [
+     {
+      "clave": "Eléctrico 80 kWh 258 CV",
+      "etiqueta": "Eléctrico 80 kWh 258 CV · eléctrico",
+      "cv": 258,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Citroën": {
   "web": "citroen",
   "oficial": {
@@ -3349,6 +3772,237 @@
    }
   }
  },
+ "Denza": {
+  "web": "denza",
+  "oficial": null,
+  "modelos": {
+   "D9": {
+    "etiqueta_oficial": null,
+    "tarifa": 78500,
+    "motores": [
+     {
+      "clave": "1.5T PHEV 354 CV",
+      "etiqueta": "1.5T PHEV 354 CV · híbrido enchufable",
+      "cv": 354,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Z9 GT": {
+    "etiqueta_oficial": null,
+    "tarifa": 101000,
+    "motores": [
+     {
+      "clave": "2.0T PHEV 775 CV",
+      "etiqueta": "2.0T PHEV 775 CV · híbrido enchufable",
+      "cv": 775,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 122 kWh 1156 CV",
+      "etiqueta": "Eléctrico 122 kWh 1156 CV · eléctrico",
+      "cv": 1156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "DFSK": {
+  "web": "dfsk",
+  "oficial": null,
+  "modelos": {
+   "500": {
+    "etiqueta_oficial": null,
+    "tarifa": 23107,
+    "motores": [
+     {
+      "clave": "1.5 T 106 CV",
+      "etiqueta": "1.5 T 106 CV · gasolina",
+      "cv": 106,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "600": {
+    "etiqueta_oficial": null,
+    "tarifa": 28717,
+    "motores": [
+     {
+      "clave": "1.5 T-GDi 177 CV",
+      "etiqueta": "1.5 T-GDi 177 CV · gasolina",
+      "cv": 177,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "580": {
+    "etiqueta_oficial": null,
+    "tarifa": 29284,
+    "motores": [
+     {
+      "clave": "1.5 T 149 CV",
+      "etiqueta": "1.5 T 149 CV · gasolina",
+      "cv": 149,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "F5": {
+    "etiqueta_oficial": null,
+    "tarifa": 34284,
+    "motores": [
+     {
+      "clave": "1.5T 137 CV",
+      "etiqueta": "1.5T 137 CV · gasolina",
+      "cv": 137,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "E5": {
+    "etiqueta_oficial": null,
+    "tarifa": 36164,
+    "motores": [
+     {
+      "clave": "1.5 PHEV 217 CV",
+      "etiqueta": "1.5 PHEV 217 CV · híbrido enchufable",
+      "cv": 217,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Dongfeng": {
+  "web": "dongfeng",
+  "oficial": null,
+  "modelos": {
+   "Box": {
+    "etiqueta_oficial": null,
+    "tarifa": 27265,
+    "motores": [
+     {
+      "clave": "Eléctrico 70 kW 95 CV",
+      "etiqueta": "Eléctrico 70 kW 95 CV · eléctrico",
+      "cv": 95,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Vigo": {
+    "etiqueta_oficial": null,
+    "tarifa": 31990,
+    "motores": [
+     {
+      "clave": "Eléctrico 51,9 kWh 163 CV",
+      "etiqueta": "Eléctrico 51,9 kWh 163 CV · eléctrico",
+      "cv": 163,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Mage": {
+    "etiqueta_oficial": null,
+    "tarifa": 34990,
+    "motores": [
+     {
+      "clave": "1.5T PHEV 299 CV",
+      "etiqueta": "1.5T PHEV 299 CV · híbrido enchufable",
+      "cv": 299,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "DR": {
+  "web": "dr",
+  "oficial": null,
+  "modelos": {
+   "DR 5": {
+    "etiqueta_oficial": null,
+    "tarifa": 23900,
+    "motores": [
+     {
+      "clave": "1.4 Turbo 160 CV",
+      "etiqueta": "1.4 Turbo 160 CV · gasolina",
+      "cv": 160,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.4 Turbo GLP 154 CV",
+      "etiqueta": "1.4 Turbo GLP 154 CV · GLP",
+      "cv": 154,
+      "combustible": "GLP",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "DR 6": {
+    "etiqueta_oficial": null,
+    "tarifa": 28900,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 188 CV",
+      "etiqueta": "1.5 Turbo 188 CV · gasolina",
+      "cv": 188,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo GLP 178 CV",
+      "etiqueta": "1.5 Turbo GLP 178 CV · GLP",
+      "cv": 178,
+      "combustible": "GLP",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "DS": {
   "web": "ds",
   "oficial": {
@@ -3607,6 +4261,279 @@
       "clave": "1.5 TGDI PHEV 425 CV",
       "etiqueta": "1.5 TGDI PHEV 425 CV · híbrido enchufable",
       "cv": 425,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "EVO": {
+  "web": "evo",
+  "oficial": null,
+  "modelos": {
+   "EVO3": {
+    "etiqueta_oficial": null,
+    "tarifa": 16900,
+    "motores": [
+     {
+      "clave": "1.5 113 CV",
+      "etiqueta": "1.5 113 CV · gasolina",
+      "cv": 113,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 GLP 107 CV",
+      "etiqueta": "1.5 GLP 107 CV · GLP",
+      "cv": 107,
+      "combustible": "GLP",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "EVO4": {
+    "etiqueta_oficial": null,
+    "tarifa": 19900,
+    "motores": [
+     {
+      "clave": "1.6 115 CV",
+      "etiqueta": "1.6 115 CV · gasolina",
+      "cv": 115,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.6 GLP 106 CV",
+      "etiqueta": "1.6 GLP 106 CV · GLP",
+      "cv": 106,
+      "combustible": "GLP",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "EVO5": {
+    "etiqueta_oficial": null,
+    "tarifa": 18900,
+    "motores": [
+     {
+      "clave": "1.5 127 CV",
+      "etiqueta": "1.5 127 CV · gasolina",
+      "cv": 127,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 GLP 120 CV",
+      "etiqueta": "1.5 GLP 120 CV · GLP",
+      "cv": 120,
+      "combustible": "GLP",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "EVO6": {
+    "etiqueta_oficial": null,
+    "tarifa": 30900,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 176 CV",
+      "etiqueta": "1.5 Turbo 176 CV · gasolina",
+      "cv": 176,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo GLP 167 CV",
+      "etiqueta": "1.5 Turbo GLP 167 CV · GLP",
+      "cv": 167,
+      "combustible": "GLP",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "EVO7": {
+    "etiqueta_oficial": null,
+    "tarifa": 31900,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 174 CV",
+      "etiqueta": "1.5 Turbo 174 CV · gasolina",
+      "cv": 174,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo GLP 162 CV",
+      "etiqueta": "1.5 Turbo GLP 162 CV · GLP",
+      "cv": 162,
+      "combustible": "GLP",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Cuatro": {
+    "etiqueta_oficial": null,
+    "tarifa": 19900,
+    "motores": [
+     {
+      "clave": "1.5 117 CV",
+      "etiqueta": "1.5 117 CV · gasolina",
+      "cv": 117,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 GLP 114 CV",
+      "etiqueta": "1.5 GLP 114 CV · GLP",
+      "cv": 114,
+      "combustible": "GLP",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo 147 CV",
+      "etiqueta": "1.5 Turbo 147 CV · gasolina",
+      "cv": 147,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo GLP 140 CV",
+      "etiqueta": "1.5 Turbo GLP 140 CV · GLP",
+      "cv": 140,
+      "combustible": "GLP",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Ferrari": {
+  "web": "ferrari",
+  "oficial": null,
+  "modelos": {
+   "12Cilindri": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "6.5 V12 830 CV",
+      "etiqueta": "6.5 V12 830 CV · gasolina",
+      "cv": 830,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "296": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "3.0 V6 PHEV 830 CV",
+      "etiqueta": "3.0 V6 PHEV 830 CV · híbrido enchufable",
+      "cv": 830,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 PHEV Speciale 880 CV",
+      "etiqueta": "3.0 V6 PHEV Speciale 880 CV · híbrido enchufable",
+      "cv": 880,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "849": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "4.0 V8 PHEV 1050 CV",
+      "etiqueta": "4.0 V8 PHEV 1050 CV · híbrido enchufable",
+      "cv": 1050,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Amalfi": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "3.9 V8 640 CV",
+      "etiqueta": "3.9 V8 640 CV · gasolina",
+      "cv": 640,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Purosangue": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "6.5 V12 725 CV",
+      "etiqueta": "6.5 V12 725 CV · gasolina",
+      "cv": 725,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "SF90": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "4.0 V8 PHEV 1000 CV",
+      "etiqueta": "4.0 V8 PHEV 1000 CV · híbrido enchufable",
+      "cv": 1000,
       "combustible": "híbrido enchufable",
       "cambios": [
        "Automático"
@@ -4370,6 +5297,105 @@
    }
   }
  },
+ "Geely": {
+  "web": "geely",
+  "oficial": null,
+  "modelos": {
+   "E2": {
+    "etiqueta_oficial": null,
+    "tarifa": 20990,
+    "motores": [
+     {
+      "clave": "Eléctrico 60 kW 82 CV",
+      "etiqueta": "Eléctrico 60 kW 82 CV · eléctrico",
+      "cv": 82,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 85 kW 115 CV",
+      "etiqueta": "Eléctrico 85 kW 115 CV · eléctrico",
+      "cv": 115,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Starray EM-i": {
+    "etiqueta_oficial": null,
+    "tarifa": 33490,
+    "motores": [
+     {
+      "clave": "1.5 EM-i PHEV 262 CV",
+      "etiqueta": "1.5 EM-i PHEV 262 CV · híbrido enchufable",
+      "cv": 262,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "E5": {
+    "etiqueta_oficial": null,
+    "tarifa": 37490,
+    "motores": [
+     {
+      "clave": "Eléctrico 160 kW 218 CV",
+      "etiqueta": "Eléctrico 160 kW 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "GWM": {
+  "web": "gwm",
+  "oficial": null,
+  "modelos": {
+   "Ora 5": {
+    "etiqueta_oficial": null,
+    "tarifa": 26296,
+    "motores": [
+     {
+      "clave": "1.5T 160 CV",
+      "etiqueta": "1.5T 160 CV · gasolina",
+      "cv": 160,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5T HEV 223 CV",
+      "etiqueta": "1.5T HEV 223 CV · híbrido",
+      "cv": 223,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 58,3 kWh 204 CV",
+      "etiqueta": "Eléctrico 58,3 kWh 204 CV · eléctrico",
+      "cv": 204,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Honda": {
   "web": "honda",
   "oficial": null,
@@ -4963,6 +5989,81 @@
       "etiqueta": "1.6T PHEV 288 CV · híbrido enchufable",
       "cv": 288,
       "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "ICH-X": {
+  "web": "ich-x",
+  "oficial": null,
+  "modelos": {
+   "K2": {
+    "etiqueta_oficial": null,
+    "tarifa": 58050,
+    "motores": [
+     {
+      "clave": "2.0 diésel 162 CV",
+      "etiqueta": "2.0 diésel 162 CV · diésel",
+      "cv": 162,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "K3": {
+    "etiqueta_oficial": null,
+    "tarifa": 47900,
+    "motores": [
+     {
+      "clave": "2.0 245 CV",
+      "etiqueta": "2.0 245 CV · gasolina",
+      "cv": 245,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 bifuel GLP 238 CV",
+      "etiqueta": "2.0 bifuel GLP 238 CV · GLP",
+      "cv": 238,
+      "combustible": "GLP",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Ineos": {
+  "web": "ineos",
+  "oficial": null,
+  "modelos": {
+   "Grenadier": {
+    "etiqueta_oficial": null,
+    "tarifa": 93930,
+    "motores": [
+     {
+      "clave": "3.0 Turbo gasolina 286 CV",
+      "etiqueta": "3.0 Turbo gasolina 286 CV · gasolina",
+      "cv": 286,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 Turbo diésel 249 CV",
+      "etiqueta": "3.0 Turbo diésel 249 CV · diésel",
+      "cv": 249,
+      "combustible": "diésel",
       "cambios": [
        "Automático"
       ]
@@ -5875,6 +6976,66 @@
    }
   }
  },
+ "Lamborghini": {
+  "web": "lamborghini",
+  "oficial": null,
+  "modelos": {
+   "Urus": {
+    "etiqueta_oficial": null,
+    "tarifa": 276333,
+    "motores": [
+     {
+      "clave": "Urus SE 800 CV",
+      "etiqueta": "Urus SE 800 CV · híbrido enchufable",
+      "cv": 800,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Urus SE Performance 812 CV",
+      "etiqueta": "Urus SE Performance 812 CV · híbrido enchufable",
+      "cv": 812,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Temerario": {
+    "etiqueta_oficial": null,
+    "tarifa": 350782,
+    "motores": [
+     {
+      "clave": "4.0 V8 PHEV 920 CV",
+      "etiqueta": "4.0 V8 PHEV 920 CV · híbrido enchufable",
+      "cv": 920,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Revuelto": {
+    "etiqueta_oficial": null,
+    "tarifa": 573326,
+    "motores": [
+     {
+      "clave": "6.5 V12 PHEV 1015 CV",
+      "etiqueta": "6.5 V12 PHEV 1015 CV · híbrido enchufable",
+      "cv": 1015,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Lancia": {
   "web": "lancia",
   "oficial": {
@@ -6319,6 +7480,27 @@
    }
   }
  },
+ "Lepas": {
+  "web": "lepas",
+  "oficial": null,
+  "modelos": {
+   "L8": {
+    "etiqueta_oficial": null,
+    "tarifa": 40853,
+    "motores": [
+     {
+      "clave": "1.5 TGDI PHEV 279 CV",
+      "etiqueta": "1.5 TGDI PHEV 279 CV · híbrido enchufable",
+      "cv": 279,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Lexus": {
   "web": "lexus",
   "oficial": null,
@@ -6517,6 +7699,380 @@
    }
   }
  },
+ "Livan": {
+  "web": "livan",
+  "oficial": null,
+  "modelos": {
+   "X3 Pro": {
+    "etiqueta_oficial": null,
+    "tarifa": 16406,
+    "motores": [
+     {
+      "clave": "1.5 103 CV",
+      "etiqueta": "1.5 103 CV · gasolina",
+      "cv": 103,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "X6 Pro": {
+    "etiqueta_oficial": null,
+    "tarifa": 26406,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 174 CV",
+      "etiqueta": "1.5 Turbo 174 CV · gasolina",
+      "cv": 174,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Lotus": {
+  "web": "lotus",
+  "oficial": null,
+  "modelos": {
+   "Eletre": {
+    "etiqueta_oficial": null,
+    "tarifa": 101706,
+    "motores": [
+     {
+      "clave": "Eléctrico 612 CV",
+      "etiqueta": "Eléctrico 612 CV · eléctrico",
+      "cv": 612,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 918 CV",
+      "etiqueta": "Eléctrico 918 CV · eléctrico",
+      "cv": 918,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Eletre X": {
+    "etiqueta_oficial": null,
+    "tarifa": 98990,
+    "motores": [
+     {
+      "clave": "H550 PHEV 549 CV",
+      "etiqueta": "H550 PHEV 549 CV · híbrido enchufable",
+      "cv": 549,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "H1000 PHEV 952 CV",
+      "etiqueta": "H1000 PHEV 952 CV · híbrido enchufable",
+      "cv": 952,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Emeya": {
+    "etiqueta_oficial": null,
+    "tarifa": 109806,
+    "motores": [
+     {
+      "clave": "Eléctrico 612 CV",
+      "etiqueta": "Eléctrico 612 CV · eléctrico",
+      "cv": 612,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 918 CV",
+      "etiqueta": "Eléctrico 918 CV · eléctrico",
+      "cv": 918,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Emira": {
+    "etiqueta_oficial": null,
+    "tarifa": 111629,
+    "motores": [
+     {
+      "clave": "2.0 Turbo 365 CV",
+      "etiqueta": "2.0 Turbo 365 CV · gasolina",
+      "cv": 365,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 Turbo 406 CV",
+      "etiqueta": "2.0 Turbo 406 CV · gasolina",
+      "cv": 406,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.5 V6 406 CV",
+      "etiqueta": "3.5 V6 406 CV · gasolina",
+      "cv": 406,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 Turbo 421 CV",
+      "etiqueta": "2.0 Turbo 421 CV · gasolina",
+      "cv": 421,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Lynk & Co": {
+  "web": "lynk-co",
+  "oficial": null,
+  "modelos": {
+   "01": {
+    "etiqueta_oficial": null,
+    "tarifa": 40995,
+    "motores": [
+     {
+      "clave": "1.5 PHEV 276 CV",
+      "etiqueta": "1.5 PHEV 276 CV · híbrido enchufable",
+      "cv": 276,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 PHEV 280 CV",
+      "etiqueta": "1.5 PHEV 280 CV · híbrido enchufable",
+      "cv": 280,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "02": {
+    "etiqueta_oficial": null,
+    "tarifa": 35495,
+    "motores": [
+     {
+      "clave": "Eléctrico 66 kWh 272 CV",
+      "etiqueta": "Eléctrico 66 kWh 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "08": {
+    "etiqueta_oficial": null,
+    "tarifa": 52995,
+    "motores": [
+     {
+      "clave": "1.5 PHEV 350 CV",
+      "etiqueta": "1.5 PHEV 350 CV · híbrido enchufable",
+      "cv": 350,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Maserati": {
+  "web": "maserati",
+  "oficial": null,
+  "modelos": {
+   "Grecale": {
+    "etiqueta_oficial": null,
+    "tarifa": 86687,
+    "motores": [
+     {
+      "clave": "2.0 MHEV 250 CV",
+      "etiqueta": "2.0 MHEV 250 CV · microhíbrido",
+      "cv": 250,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 MHEV 300 CV",
+      "etiqueta": "2.0 MHEV 300 CV · microhíbrido",
+      "cv": 300,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 MHEV 330 CV",
+      "etiqueta": "2.0 MHEV 330 CV · microhíbrido",
+      "cv": 330,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Folgore 558 CV",
+      "etiqueta": "Folgore 558 CV · eléctrico",
+      "cv": 558,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 390 CV",
+      "etiqueta": "3.0 V6 390 CV · gasolina",
+      "cv": 390,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 530 CV",
+      "etiqueta": "3.0 V6 530 CV · gasolina",
+      "cv": 530,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "GranTurismo": {
+    "etiqueta_oficial": null,
+    "tarifa": 156872,
+    "motores": [
+     {
+      "clave": "Folgore 761 CV",
+      "etiqueta": "Folgore 761 CV · eléctrico",
+      "cv": 761,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 490 CV",
+      "etiqueta": "3.0 V6 490 CV · gasolina",
+      "cv": 490,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 Trofeo 590 CV",
+      "etiqueta": "3.0 V6 Trofeo 590 CV · gasolina",
+      "cv": 590,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "GranCabrio": {
+    "etiqueta_oficial": null,
+    "tarifa": 167157,
+    "motores": [
+     {
+      "clave": "Folgore 761 CV",
+      "etiqueta": "Folgore 761 CV · eléctrico",
+      "cv": 761,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 490 CV",
+      "etiqueta": "3.0 V6 490 CV · gasolina",
+      "cv": 490,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 Trofeo 590 CV",
+      "etiqueta": "3.0 V6 Trofeo 590 CV · gasolina",
+      "cv": 590,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "MC20": {
+    "etiqueta_oficial": null,
+    "tarifa": 245300,
+    "motores": [
+     {
+      "clave": "3.0 V6 630 CV",
+      "etiqueta": "3.0 V6 630 CV · gasolina",
+      "cv": 630,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "3.0 V6 640 CV",
+      "etiqueta": "3.0 V6 640 CV · gasolina",
+      "cv": 640,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Mazda": {
   "web": "mazda",
   "oficial": null,
@@ -6701,6 +8257,42 @@
       "combustible": "gasolina",
       "cambios": [
        "Manual"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "McLaren": {
+  "web": "mclaren",
+  "oficial": null,
+  "modelos": {
+   "750S": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "4.0 V8 biturbo 750 CV",
+      "etiqueta": "4.0 V8 biturbo 750 CV · gasolina",
+      "cv": 750,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Artura": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "3.0 V6 PHEV 700 CV",
+      "etiqueta": "3.0 V6 PHEV 700 CV · híbrido enchufable",
+      "cv": 700,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
       ]
      }
     ]
@@ -10868,6 +12460,99 @@
    }
   }
  },
+ "Rolls-Royce": {
+  "web": "rolls-royce",
+  "oficial": null,
+  "modelos": {
+   "Cullinan": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "6.75 V12 571 CV",
+      "etiqueta": "6.75 V12 571 CV · gasolina",
+      "cv": 571,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "6.75 V12 600 CV",
+      "etiqueta": "6.75 V12 600 CV · gasolina",
+      "cv": 600,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Ghost": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "6.75 V12 570 CV",
+      "etiqueta": "6.75 V12 570 CV · gasolina",
+      "cv": 570,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "6.75 V12 612 CV",
+      "etiqueta": "6.75 V12 612 CV · gasolina",
+      "cv": 612,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Phantom": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "6.75 V12 513 CV",
+      "etiqueta": "6.75 V12 513 CV · gasolina",
+      "cv": 513,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Spectre": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "Eléctrico 601 CV",
+      "etiqueta": "Eléctrico 601 CV · eléctrico",
+      "cv": 601,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 680 CV",
+      "etiqueta": "Eléctrico 680 CV · eléctrico",
+      "cv": 680,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "SEAT": {
   "web": "seat",
   "oficial": {
@@ -11028,6 +12713,51 @@
       "etiqueta": "1.5 e-Hybrid 204 CV · híbrido enchufable",
       "cv": 204,
       "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Seres": {
+  "web": "seres",
+  "oficial": null,
+  "modelos": {
+   "3": {
+    "etiqueta_oficial": null,
+    "tarifa": 43451,
+    "motores": [
+     {
+      "clave": "Eléctrico 120 kW 163 CV",
+      "etiqueta": "Eléctrico 120 kW 163 CV · eléctrico",
+      "cv": 163,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "5": {
+    "etiqueta_oficial": null,
+    "tarifa": 62955,
+    "motores": [
+     {
+      "clave": "Eléctrico 220 kW 299 CV",
+      "etiqueta": "Eléctrico 220 kW 299 CV · eléctrico",
+      "cv": 299,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 430 kW AWD 585 CV",
+      "etiqueta": "Eléctrico 430 kW AWD 585 CV · eléctrico",
+      "cv": 585,
+      "combustible": "eléctrico",
       "cambios": [
        "Automático"
       ]
@@ -13530,6 +15260,42 @@
    }
   }
  },
+ "Voyah": {
+  "web": "voyah",
+  "oficial": null,
+  "modelos": {
+   "Free": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "Eléctrico 106 kWh 489 CV",
+      "etiqueta": "Eléctrico 106 kWh 489 CV · eléctrico",
+      "cv": 489,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Dream": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "Eléctrico 108,7 kWh 435 CV",
+      "etiqueta": "Eléctrico 108,7 kWh 435 CV · eléctrico",
+      "cv": 435,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Xpeng": {
   "web": "xpeng",
   "oficial": null,
@@ -13617,6 +15383,117 @@
       "clave": "AWD Performance 503 CV",
       "etiqueta": "AWD Performance 503 CV · eléctrico",
       "cv": 503,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Zeekr": {
+  "web": "zeekr",
+  "oficial": null,
+  "modelos": {
+   "X": {
+    "etiqueta_oficial": null,
+    "tarifa": 37990,
+    "motores": [
+     {
+      "clave": "Core RWD 272 CV",
+      "etiqueta": "Core RWD 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Long Range RWD 340 CV",
+      "etiqueta": "Long Range RWD 340 CV · eléctrico",
+      "cv": 340,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Privilege AWD 496 CV",
+      "etiqueta": "Privilege AWD 496 CV · eléctrico",
+      "cv": 496,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "7GT": {
+    "etiqueta_oficial": null,
+    "tarifa": 45990,
+    "motores": [
+     {
+      "clave": "RWD 422 CV",
+      "etiqueta": "RWD 422 CV · eléctrico",
+      "cv": 422,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "AWD 646 CV",
+      "etiqueta": "AWD 646 CV · eléctrico",
+      "cv": 646,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "7X": {
+    "etiqueta_oficial": null,
+    "tarifa": 52990,
+    "motores": [
+     {
+      "clave": "RWD 422 CV",
+      "etiqueta": "RWD 422 CV · eléctrico",
+      "cv": 422,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "AWD 646 CV",
+      "etiqueta": "AWD 646 CV · eléctrico",
+      "cv": 646,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "001": {
+    "etiqueta_oficial": null,
+    "tarifa": 59990,
+    "motores": [
+     {
+      "clave": "RWD 272 CV",
+      "etiqueta": "RWD 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "AWD 544 CV",
+      "etiqueta": "AWD 544 CV · eléctrico",
+      "cv": 544,
       "combustible": "eléctrico",
       "cambios": [
        "Automático"
