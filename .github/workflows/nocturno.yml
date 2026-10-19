@@ -28,9 +28,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -42,21 +42,34 @@ jobs:
       - name: Leer anuncios
         env:
           MODO: ${{ github.event_name == 'push' && 'prueba' || inputs.modo || 'completo' }}
-        run: python scraper/lector.py --modo "$MODO" --minutos 300
+        run: |
+          python scraper/lector.py --modo "$MODO" --minutos 300 || echo "::error::El lector terminó con error"
+          python - <<'PY'
+          import json
+          d = json.load(open("datos/informe.json"))
+          print(f"::notice title=Resumen::{d['modelos_con_datos']} de {d['modelos_pedidos']} modelos con datos en {d['minutos']} min")
+          for w, i in d["webs"].items():
+              print(f"::notice title={w}::{i['anuncios']} anuncios en {i['modelos_con_anuncios']} modelos, {i['peticiones']} peticiones, errores {i['errores_http']}, {i['resumen']}, bloqueada={i['bloqueada']}")
+          PY
 
       - name: Guardar resultados en el repositorio
         run: |
+          set -x
           git config user.name "buscacoches-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add datos/ocasion datos/informe.json datos/slugs_webs.json
-          [ -d debug ] && git add -A debug || true
+          mkdir -p datos/ocasion
+          git add -A datos debug 2>&1 || echo "::warning::git add falló"
           if git diff --cached --quiet; then
-            echo "Sin cambios"
+            echo "::notice::Sin cambios que guardar"
             exit 0
           fi
-          git commit -m "Datos de ocasión $(date -u +%F) (${{ github.event_name }})"
+          git commit -q -m "Datos de ocasión $(date -u +%F) (${{ github.event_name }})"
           for i in 1 2 3; do
-            git pull --rebase origin main && git push && exit 0
+            if OUT=$(git pull --rebase origin main 2>&1 && git push origin HEAD:main 2>&1); then
+              echo "::notice::Resultados guardados"
+              exit 0
+            fi
+            echo "::warning title=Intento $i::$(echo "$OUT" | tail -5 | tr '\n' ' ')"
             sleep 10
           done
           exit 1
