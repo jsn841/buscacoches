@@ -1055,3 +1055,493 @@ Doble motor AWD 362 CV|362|eléctrico|automático
 ## MG|ZS
 1.5 116 CV|116|gasolina|?
 Hybrid+ 197 CV|197|híbrido|automático
+## Fiat|500
+1.0 Hybrid|65|microhíbrido|manual
+Eléctrico 95 CV|95|eléctrico|automático
+Eléctrico 118 CV|118|eléctrico|automático
+## Fiat|600
+1.2 Turbo|100|gasolina|manual
+1.2 MHEV|110|microhíbrido|automático
+1.2 MHEV|145|microhíbrido|automático
+Eléctrico 156 CV|156|eléctrico|automático
+## Fiat|Doblò
+1.5 diésel|100|diésel|manual
+1.5 diésel|130|diésel|automático
+## Fiat|E-Doblò
+Eléctrico 136 CV|136|eléctrico|automático
+## Fiat|E-Ulysse
+Eléctrico 136 CV|136|eléctrico|automático
+## Fiat|Grande Panda
+1.2 Turbo|100|gasolina|manual
+1.2 Turbo MHEV|110|microhíbrido|automático
+Eléctrico 113 CV|113|eléctrico|automático
+## Fiat|Pandina
+1.0 Firefly Hybrid|65|microhíbrido|manual
+## Fiat|Qubo L
+1.5 diésel|100|diésel|manual
+1.5 diésel|130|diésel|automático
+Eléctrico 136 CV|136|eléctrico|automático
+## Fiat|Tipo
+1.6 diésel|130|diésel|manual
+## Fiat|Topolino
+Eléctrico 8 CV|8|eléctrico|automático
+## Fiat|Ulysse
+Diésel|150|diésel|manual
+Diésel|180|diésel|automático
+## Jeep|Avenger
+1.2 Turbo|100|gasolina|manual
+1.2 eHybrid|110|microhíbrido|automático
+1.2 eHybrid 4xe|145|microhíbrido|automático
+Eléctrico 156 CV|156|eléctrico|automático
+## Jeep|Compass
+1.5 eHybrid MHEV|130|microhíbrido|automático
+eHybrid MHEV|145|microhíbrido|automático
+Eléctrico 213 CV|213|eléctrico|automático
+1.6 PHEV|225|híbrido enchufable|automático
+1.3 PHEV 4xe|240|híbrido enchufable|automático
+Eléctrico 4xe 375 CV|375|eléctrico|automático
+## Jeep|Grand Cherokee
+2.0 4xe PHEV|381|híbrido enchufable|automático
+## Jeep|Renegade
+1.5 MHEV|130|microhíbrido|automático
+PHEV 4xe|190|híbrido enchufable|automático
+PHEV 4xe|240|híbrido enchufable|automático
+## Jeep|Wrangler
+2.0T|272|gasolina|automático
+2.0 4xe PHEV|381|híbrido enchufable|automático
+## Ford|Bronco
+2.7 EcoBoost V6|335|gasolina|automático
+## Ford|Capri
+Eléctrico 58 kWh|190|eléctrico|automático
+Eléctrico 79 kWh|286|eléctrico|automático
+Eléctrico AWD 77 kWh|340|eléctrico|automático
+## Ford|Explorer EV
+Eléctrico 58 kWh|190|eléctrico|automático
+Eléctrico 79 kWh|286|eléctrico|automático
+Eléctrico AWD 77 kWh|340|eléctrico|automático
+## Ford|Focus
+1.0 EcoBoost mHEV|125|microhíbrido|manual/automático
+1.5 EcoBlue|115|diésel|automático
+1.0 EcoBoost mHEV|155|microhíbrido|automático
+ST 2.3 EcoBoost|280|gasolina|manual/automático
+## Ford|Grand Tourneo Connect
+2.0 EcoBlue|102|diésel|manual
+1.5 EcoBoost|114|gasolina|manual/automático
+2.0 EcoBlue|122|diésel|automático
+1.5 EcoBoost PHEV|150|híbrido enchufable|automático
+## Ford|Grand Tourneo Custom
+2.0 EcoBlue|136|diésel|manual/automático
+2.0 EcoBlue|150|diésel|automático
+2.0 EcoBlue|170|diésel|automático
+Eléctrico 218 CV|218|eléctrico|automático
+2.5 PHEV|232|híbrido enchufable|automático
+## Ford|Kuga
+1.5 EcoBoost|150|gasolina|manual
+2.5 FHEV|180|híbrido|automático
+2.5 FHEV AWD|183|híbrido|automático
+2.5 PHEV|242|híbrido enchufable|automático
+## Ford|Mustang
+5.0 V8 GT|446|gasolina|manual/automático
+5.0 V8 Dark Horse|454|gasolina|manual/automático
+## Ford|Mustang Mach-E
+Eléctrico RWD 268 CV|268|eléctrico|automático
+Eléctrico RWD 276 CV|276|eléctrico|automático
+Eléctrico AWD 375 CV|375|eléctrico|automático
+GT AWD 487 CV|487|eléctrico|automático
+## Ford|Puma
+1.0 EcoBoost mHEV|125|microhíbrido|manual/automático
+1.0 EcoBoost mHEV|155|microhíbrido|automático
+Gen-E eléctrico|168|eléctrico|automático
+## Ford|Tourneo Connect
+2.0 EcoBlue|102|diésel|manual
+1.5 EcoBoost|114|gasolina|manual/automático
+1.5 EcoBoost PHEV|150|híbrido enchufable|automático
+## Ford|Tourneo Courier
+1.0 EcoBoost|125|gasolina|manual/automático
+Eléctrico 136 CV|136|eléctrico|automático
+## Ford|Tourneo Custom
+2.0 EcoBlue|136|diésel|manual/automático
+2.0 EcoBlue|150|diésel|automático
+2.0 EcoBlue|170|diésel|automático
+2.5 PHEV|232|híbrido enchufable|automático
+Eléctrico 286 CV|286|eléctrico|automático
+## Nissan|Ariya
+Eléctrico 63 kWh|218|eléctrico|automático
+Eléctrico 87 kWh|242|eléctrico|automático
+e-4ORCE 87 kWh|306|eléctrico|automático
+NISMO e-4ORCE|435|eléctrico|automático
+## Nissan|Juke
+1.0 DIG-T|114|gasolina|manual/automático
+1.6 Hybrid|143|híbrido|automático
+## Nissan|Leaf
+Eléctrico 52 kWh|177|eléctrico|automático
+Eléctrico 75 kWh|217|eléctrico|automático
+## Nissan|Micra
+Eléctrico Standard Range|122|eléctrico|automático
+Eléctrico Long Range|150|eléctrico|automático
+## Nissan|Primastar
+2.0 Blue dCi|110|diésel|manual
+2.0 Blue dCi|150|diésel|manual
+## Nissan|Qashqai
+1.3 DIG-T mHEV|158|microhíbrido|manual/automático
+e-POWER|205|híbrido|automático
+## Nissan|Townstar
+1.3 DIG-T|130|gasolina|manual/automático
+Eléctrico 122 CV|122|eléctrico|automático
+## Nissan|X-Trail
+1.5 VC-T mHEV|163|microhíbrido|automático
+1.5 e-POWER|204|híbrido|automático
+1.5 e-4ORCE|213|híbrido|automático
+## Mazda|CX-30
+2.5 e-Skyactiv G mHEV|140|microhíbrido|manual/automático
+e-Skyactiv X mHEV|186|microhíbrido|manual/automático
+## Mazda|CX-5
+2.5 e-Skyactiv G|141|microhíbrido|automático
+## Mazda|CX-60
+e-Skyactiv D mHEV|200|microhíbrido|automático
+e-Skyactiv D mHEV|254|microhíbrido|automático
+e-Skyactiv PHEV|327|híbrido enchufable|automático
+## Mazda|CX-6e
+Eléctrico 258 CV|258|eléctrico|automático
+## Mazda|CX-80
+e-Skyactiv D mHEV|254|microhíbrido|automático
+e-Skyactiv PHEV|327|híbrido enchufable|automático
+## Mazda|Mazda2
+1.5 Hybrid|116|híbrido|automático
+## Mazda|Mazda3
+2.5 e-Skyactiv G mHEV|140|microhíbrido|manual/automático
+2.0 e-Skyactiv X mHEV|186|microhíbrido|manual/automático
+## Mazda|Mazda6e
+Eléctrico 258 CV|258|eléctrico|automático
+## Mazda|MX-5
+1.5 Skyactiv-G|136|gasolina|manual
+## Honda|Civic
+2.0 i-MMD|184|híbrido|automático
+## Honda|CR-V
+2.0 i-MMD HEV|184|híbrido|automático
+2.0 i-MMD PHEV|184|híbrido enchufable|automático
+## Honda|HR-V
+1.5 i-MMD|131|híbrido|automático
+## Honda|Jazz
+1.5 i-MMD|122|híbrido|automático
+## Honda|Prelude
+2.0 i-MMD|184|híbrido|automático
+## Honda|ZR-V
+2.0 i-MMD|184|híbrido|automático
+## Suzuki|Across
+2.5 PHEV|309|híbrido enchufable|automático
+## Suzuki|e Vitara
+Eléctrico 49 kWh|144|eléctrico|automático
+Eléctrico 61 kWh|174|eléctrico|automático
+Eléctrico 61 kWh AllGrip|184|eléctrico|automático
+## Suzuki|S-Cross
+1.4T Mild Hybrid|110|microhíbrido|manual/automático
+## Suzuki|Swace
+1.8 Hybrid|140|híbrido|automático
+## Suzuki|Swift
+1.2 Mild Hybrid|81|microhíbrido|manual/automático
+## Suzuki|Vitara
+1.4T Mild Hybrid|110|microhíbrido|manual/automático
+## Mitsubishi|ASX
+1.0 Turbo|115|gasolina|manual
+1.3 Turbo mHEV|140|microhíbrido|automático
+1.6 HEV|158|híbrido|automático
+## Mitsubishi|Colt
+1.0 Turbo|90|gasolina|manual
+1.0 Turbo GLP|100|GLP|manual
+1.6 HEV|143|híbrido|automático
+## Mitsubishi|Eclipse Cross
+Eléctrico 87 kWh|220|eléctrico|automático
+## Mitsubishi|Grandis
+1.3 Turbo mHEV|140|microhíbrido|manual/automático
+1.6 HEV|158|híbrido|automático
+## Mitsubishi|Outlander
+2.4 PHEV|306|híbrido enchufable|automático
+## Lexus|ES
+300h|196|híbrido|automático
+2.5 300h|218|híbrido|automático
+350e|224|eléctrico|automático
+500e|343|eléctrico|automático
+## Lexus|LBX
+1.5 HEV|136|híbrido|automático
+## Lexus|LM
+350h|203|híbrido|automático
+## Lexus|LS
+500h V6|359|híbrido|automático
+## Lexus|NX
+350h|197|híbrido|automático
+450h+|292|híbrido enchufable|automático
+## Lexus|RX
+450h+|292|híbrido enchufable|automático
+500h|371|híbrido|automático
+## Lexus|RZ
+350e|224|eléctrico|automático
+500e|380|eléctrico|automático
+550e|408|eléctrico|automático
+## Lexus|UX
+300h|199|híbrido|automático
+300e|204|eléctrico|automático
+## Land Rover|Defender
+D250 3.0 mHEV|249|microhíbrido|automático
+P300e PHEV|300|híbrido enchufable|automático
+P400 3.0 mHEV|380|microhíbrido|automático
+V8 mHEV|537|microhíbrido|automático
+## Land Rover|Discovery
+D250 3.0 mHEV|249|microhíbrido|automático
+D350 3.0 mHEV|350|microhíbrido|automático
+## Land Rover|Discovery Sport
+D165 2.0 mHEV|163|microhíbrido|automático
+D200 2.0 mHEV|204|microhíbrido|automático
+P270e PHEV|269|híbrido enchufable|automático
+## Land Rover|Range Rover
+D300 3.0 mHEV|300|microhíbrido|automático
+D350 3.0 mHEV|350|microhíbrido|automático
+Eléctrico|450|eléctrico|automático
+P460e PHEV|460|híbrido enchufable|automático
+P550e PHEV|550|híbrido enchufable|automático
+## Land Rover|Range Rover Evoque
+D165 2.0 mHEV|163|microhíbrido|automático
+D200 2.0 mHEV|204|microhíbrido|automático
+P270e PHEV|269|híbrido enchufable|automático
+## Land Rover|Range Rover Sport
+D250 3.0|249|microhíbrido|automático
+D300 3.0|300|microhíbrido|automático
+P400 3.0|380|microhíbrido|automático
+Eléctrico|450|eléctrico|automático
+P460e PHEV|460|híbrido enchufable|automático
+V8 SV|635|gasolina|automático
+## Land Rover|Range Rover Velar
+D200 2.0 mHEV|204|microhíbrido|automático
+D300 3.0 mHEV|300|microhíbrido|automático
+P400e PHEV|404|híbrido enchufable|automático
+## Mini|Aceman
+E|184|eléctrico|automático
+SE|218|eléctrico|automático
+JCW|258|eléctrico|automático
+## Mini|Cooper
+C (gasolina)|156|gasolina|automático
+ONE (gasolina)|122|gasolina|automático
+SE eléctrico|218|eléctrico|automático
+JCW E eléctrico|258|eléctrico|automático
+## Mini|Countryman
+C mHEV gasolina|170|microhíbrido|automático
+D mHEV diésel|163|microhíbrido|automático
+E eléctrico|204|eléctrico|automático
+SE ALL4 eléctrico|313|eléctrico|automático
+## Porsche|718
+718|300|gasolina|manual/automático
+GT4 RS / Spyder RS|500|gasolina|automático
+## Porsche|911
+Carrera|394|gasolina|automático
+Carrera S|480|gasolina|automático
+Carrera GTS T-Hybrid|541|microhíbrido|automático
+Turbo S|711|gasolina|automático
+## Porsche|Cayenne
+Cayenne|353|gasolina|automático
+Cayenne Electric|442|eléctrico|automático
+Cayenne E-Hybrid|470|híbrido enchufable|automático
+Cayenne S|474|gasolina|automático
+Cayenne GTS|500|gasolina|automático
+Cayenne S E-Hybrid|519|híbrido enchufable|automático
+Cayenne S Electric|666|eléctrico|automático
+Cayenne Turbo Electric|1156|eléctrico|automático
+## Porsche|Cayenne Coupé
+Cayenne Coupé|353|gasolina|automático
+Cayenne Coupé Electric|442|eléctrico|automático
+Cayenne Coupé E-Hybrid|470|híbrido enchufable|automático
+Cayenne Coupé S|474|gasolina|automático
+Cayenne Coupé GTS|500|gasolina|automático
+Cayenne Coupé S E-Hybrid|519|híbrido enchufable|automático
+Cayenne Coupé S Electric|666|eléctrico|automático
+Cayenne Coupé Turbo Electric|1156|eléctrico|automático
+## Porsche|Macan
+Macan|360|eléctrico|automático
+Macan 4|408|eléctrico|automático
+Macan 4S|516|eléctrico|automático
+Macan GTS|571|eléctrico|automático
+Macan Turbo|639|eléctrico|automático
+## Porsche|Panamera
+Panamera|353|gasolina|automático
+Panamera 4 E-Hybrid|470|híbrido enchufable|automático
+Panamera GTS|500|gasolina|automático
+Panamera 4S E-Hybrid|544|híbrido enchufable|automático
+Panamera Turbo E-Hybrid|680|híbrido enchufable|automático
+Panamera Turbo S E-Hybrid|782|híbrido enchufable|automático
+## Porsche|Taycan
+Taycan|408|eléctrico|automático
+Taycan 4|435|eléctrico|automático
+Taycan 4S|544|eléctrico|automático
+Taycan GTS|598|eléctrico|automático
+Taycan Turbo GT|1034|eléctrico|automático
+## Tesla|Model 3
+Tracción trasera|279|eléctrico|automático
+Gran Autonomía tracción trasera|304|eléctrico|automático
+Gran Autonomía tracción integral|392|eléctrico|automático
+Performance|464|eléctrico|automático
+## Tesla|Model S
+Tracción integral|670|eléctrico|automático
+Plaid|1020|eléctrico|automático
+## Tesla|Model X
+Tracción integral|670|eléctrico|automático
+Plaid|1020|eléctrico|automático
+## Tesla|Model Y
+Tracción trasera|256|eléctrico|automático
+Tracción integral|372|eléctrico|automático
+Performance|460|eléctrico|automático
+## Alfa Romeo|Giulia
+2.2 Diésel|160|diésel|automático
+2.2 Diésel|210|diésel|automático
+2.0 Turbo|280|gasolina|automático
+Quadrifoglio 2.9 V6|520|gasolina|automático
+## Alfa Romeo|Junior
+1.2 Turbo mHEV|145|microhíbrido|automático
+Elettrica|156|eléctrico|automático
+Elettrica Veloce|280|eléctrico|automático
+## Alfa Romeo|Milano
+1.2 Turbo mHEV|136|microhíbrido|automático
+Elettrica|156|eléctrico|automático
+## Alfa Romeo|Stelvio
+2.2 Diésel|160|diésel|automático
+2.2 Diésel|210|diésel|automático
+Quadrifoglio 2.9 V6|520|gasolina|automático
+## Alfa Romeo|Tonale
+1.6 Diésel|130|diésel|automático
+1.5 Hybrid|174|microhíbrido|automático
+1.3 PHEV Q4|270|híbrido enchufable|automático
+## DS|DS 3
+Hybrid 145|145|microhíbrido|automático
+E-Tense|156|eléctrico|automático
+## DS|DS 7
+Diésel|None|diésel|automático
+Híbrido enchufable|None|híbrido enchufable|automático
+## DS|Nº4
+BlueHDi 130|130|diésel|automático
+Hybrid 145|145|microhíbrido|automático
+E-Tense 215|213|eléctrico|automático
+Plug-in Hybrid 240|240|híbrido enchufable|automático
+## DS|Nº7
+Hybrid 145|145|microhíbrido|automático
+E-Tense|230|eléctrico|automático
+E-Tense Long Range|245|eléctrico|automático
+E-Tense AWD|350|eléctrico|automático
+## DS|Nº8
+Eléctrico FWD|230|eléctrico|automático
+Eléctrico FWD Long Range|245|eléctrico|automático
+Eléctrico AWD Long Range|350|eléctrico|automático
+## Lancia|Ypsilon
+1.2 Turbo|100|gasolina|manual
+1.2 Ibrida|110|microhíbrido|automático
+Elettrica|156|eléctrico|automático
+HF Elettrica|282|eléctrico|automático
+## Smart|#1
+Eléctrico|272|eléctrico|automático
+Brabus doble motor|428|eléctrico|automático
+## Smart|#3
+Eléctrico|272|eléctrico|automático
+Brabus doble motor|428|eléctrico|automático
+## Smart|#5
+Eléctrico|363|eléctrico|automático
+Eléctrico AWD|588|eléctrico|automático
+Brabus|646|eléctrico|automático
+## Subaru|BRZ
+2.4 Bóxer|234|gasolina|manual
+## Subaru|Crosstrek
+2.0i e-Boxer|153|microhíbrido|automático
+## Subaru|E-Outback
+Eléctrico AWD|381|eléctrico|automático
+## Subaru|Forester
+2.0i e-Boxer|153|microhíbrido|automático
+## Subaru|Outback
+2.5 Bóxer|169|gasolina|automático
+## Subaru|Solterra
+Eléctrico|218|eléctrico|automático
+Eléctrico AWD 73 kWh|343|eléctrico|automático
+## Subaru|Uncharted
+Eléctrico 58 kWh|168|eléctrico|automático
+Eléctrico 77 kWh|227|eléctrico|automático
+Eléctrico 77 kWh AWD|343|eléctrico|automático
+## KGM|Korando
+1.5 Turbo|149|gasolina|manual
+1.5 Turbo|163|gasolina|automático
+## KGM|Rexton
+2.2 Diésel|202|diésel|automático
+## KGM|Tivoli
+1.5 Turbo|135|gasolina|manual
+1.5 Turbo|163|gasolina|manual/automático
+## KGM|Torres
+1.5 Turbo|163|gasolina|manual/automático
+HEV|204|híbrido|automático
+EVX eléctrico|207|eléctrico|automático
+## KGM|Torres Actyon
+1.5 Turbo|163|gasolina|manual/automático
+HEV|204|híbrido|automático
+## Omoda|5
+1.6 TGDI|145|gasolina|automático
+1.5 TGDI HEV|224|híbrido|automático
+## Omoda|5 EV
+Eléctrico 61 kWh|211|eléctrico|automático
+## Omoda|7
+SHS-P 1.5 TGDI|279|híbrido enchufable|automático
+## Omoda|9
+SHS 1.5 TGDI AWD|537|híbrido enchufable|automático
+## Jaecoo|5
+1.6 TGDI|147|gasolina|automático
+1.5 TGDI HEV|224|híbrido|automático
+Eléctrico 61 kWh|211|eléctrico|automático
+## Jaecoo|7
+1.6 TGDI|147|gasolina|automático
+1.5 TGDI HEV|224|híbrido|automático
+1.5 SHS PHEV|279|híbrido enchufable|automático
+1.5 SHS PHEV AWD|347|híbrido enchufable|automático
+## Jaecoo|8
+SHS 1.5 TGDI AWD|428|híbrido enchufable|automático
+## Leapmotor|B03X
+Eléctrico 39,8 kWh|176|eléctrico|automático
+Eléctrico 53 kWh|197|eléctrico|automático
+## Leapmotor|B05
+Eléctrico 160 kW|218|eléctrico|automático
+## Leapmotor|B10
+Eléctrico 160 kW|218|eléctrico|automático
+REEV 18,8 kWh|218|híbrido enchufable|automático
+## Leapmotor|C10
+Eléctrico 69,9 kWh|218|eléctrico|automático
+REEV 28,4 kWh|215|híbrido enchufable|automático
+## Leapmotor|T03
+Eléctrico 37,3 kWh|95|eléctrico|automático
+## Polestar|2
+Single Motor 70 kWh|272|eléctrico|automático
+Single Motor 82 kWh|299|eléctrico|automático
+Dual Motor 82 kWh|421|eléctrico|automático
+Dual Motor Performance|476|eléctrico|automático
+## Polestar|3
+Single Motor|333|eléctrico|automático
+Dual Motor|544|eléctrico|automático
+Dual Motor Performance|680|eléctrico|automático
+## Polestar|4
+Single Motor|272|eléctrico|automático
+Dual Motor|544|eléctrico|automático
+## Polestar|5
+Dual Motor|748|eléctrico|automático
+Performance|884|eléctrico|automático
+## Ebro|S400
+1.5 HEV|211|híbrido|automático
+## Ebro|S700
+1.6 TGDI|147|gasolina|automático
+1.5 TGDI HEV|224|híbrido|automático
+1.5 TGDI PHEV|279|híbrido enchufable|automático
+## Ebro|S800
+1.6 TGDI|147|gasolina|automático
+1.5 TGDI PHEV|279|híbrido enchufable|automático
+## Ebro|S900
+1.5 TGDI PHEV|425|híbrido enchufable|automático
+## Xpeng|G6
+Standard Range RWD|252|eléctrico|automático
+Long Range RWD|296|eléctrico|automático
+Performance AWD|487|eléctrico|automático
+## Xpeng|G9
+RWD|351|eléctrico|automático
+AWD|575|eléctrico|automático
+## Xpeng|P7+
+RWD Standard Range|245|eléctrico|automático
+RWD Long Range|313|eléctrico|automático
+AWD Performance|503|eléctrico|automático

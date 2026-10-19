@@ -1,4 +1,178 @@
 {
+ "Alfa Romeo": {
+  "web": "alfa-romeo",
+  "oficial": {
+   "sitio": "Spoticar",
+   "estado": "ok"
+  },
+  "modelos": {
+   "Giulia": {
+    "etiqueta_oficial": null,
+    "tarifa": 48996,
+    "motores": [
+     {
+      "clave": "2.2 Diésel 160 CV",
+      "etiqueta": "2.2 Diésel 160 CV · diésel",
+      "cv": 160,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.2 Diésel 210 CV",
+      "etiqueta": "2.2 Diésel 210 CV · diésel",
+      "cv": 210,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 Turbo 280 CV",
+      "etiqueta": "2.0 Turbo 280 CV · gasolina",
+      "cv": 280,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Quadrifoglio 2.9 V6 520 CV",
+      "etiqueta": "Quadrifoglio 2.9 V6 520 CV · gasolina",
+      "cv": 520,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Junior": {
+    "etiqueta_oficial": null,
+    "tarifa": 29769,
+    "motores": [
+     {
+      "clave": "1.2 Turbo mHEV 145 CV",
+      "etiqueta": "1.2 Turbo mHEV 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Elettrica 156 CV",
+      "etiqueta": "Elettrica 156 CV · eléctrico",
+      "cv": 156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Elettrica Veloce 280 CV",
+      "etiqueta": "Elettrica Veloce 280 CV · eléctrico",
+      "cv": 280,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Milano": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "1.2 Turbo mHEV 136 CV",
+      "etiqueta": "1.2 Turbo mHEV 136 CV · microhíbrido",
+      "cv": 136,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Elettrica 156 CV",
+      "etiqueta": "Elettrica 156 CV · eléctrico",
+      "cv": 156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Stelvio": {
+    "etiqueta_oficial": null,
+    "tarifa": 56146,
+    "motores": [
+     {
+      "clave": "2.2 Diésel 160 CV",
+      "etiqueta": "2.2 Diésel 160 CV · diésel",
+      "cv": 160,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.2 Diésel 210 CV",
+      "etiqueta": "2.2 Diésel 210 CV · diésel",
+      "cv": 210,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Quadrifoglio 2.9 V6 520 CV",
+      "etiqueta": "Quadrifoglio 2.9 V6 520 CV · gasolina",
+      "cv": 520,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Tonale": {
+    "etiqueta_oficial": null,
+    "tarifa": 39546,
+    "motores": [
+     {
+      "clave": "1.6 Diésel 130 CV",
+      "etiqueta": "1.6 Diésel 130 CV · diésel",
+      "cv": 130,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 Hybrid 174 CV",
+      "etiqueta": "1.5 Hybrid 174 CV · microhíbrido",
+      "cv": 174,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.3 PHEV Q4 270 CV",
+      "etiqueta": "1.3 PHEV Q4 270 CV · híbrido enchufable",
+      "cv": 270,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Audi": {
   "web": "audi",
   "oficial": {
@@ -3175,6 +3349,1132 @@
    }
   }
  },
+ "DS": {
+  "web": "ds",
+  "oficial": {
+   "sitio": "Spoticar",
+   "estado": "ok"
+  },
+  "modelos": {
+   "DS 3": {
+    "etiqueta_oficial": null,
+    "tarifa": 34741,
+    "motores": [
+     {
+      "clave": "Hybrid 145 145 CV",
+      "etiqueta": "Hybrid 145 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "E-Tense 156 CV",
+      "etiqueta": "E-Tense 156 CV · eléctrico",
+      "cv": 156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "DS 7": {
+    "etiqueta_oficial": null,
+    "tarifa": 47869,
+    "motores": [
+     {
+      "clave": "Diésel None CV",
+      "etiqueta": "Diésel None CV · diésel",
+      "cv": null,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Híbrido enchufable None CV",
+      "etiqueta": "Híbrido enchufable None CV · híbrido enchufable",
+      "cv": null,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Nº4": {
+    "etiqueta_oficial": null,
+    "tarifa": 38641,
+    "motores": [
+     {
+      "clave": "BlueHDi 130 130 CV",
+      "etiqueta": "BlueHDi 130 130 CV · diésel",
+      "cv": 130,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Hybrid 145 145 CV",
+      "etiqueta": "Hybrid 145 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "E-Tense 215 213 CV",
+      "etiqueta": "E-Tense 215 213 CV · eléctrico",
+      "cv": 213,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Plug-in Hybrid 240 240 CV",
+      "etiqueta": "Plug-in Hybrid 240 240 CV · híbrido enchufable",
+      "cv": 240,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Nº7": {
+    "etiqueta_oficial": null,
+    "tarifa": 45441,
+    "motores": [
+     {
+      "clave": "Hybrid 145 145 CV",
+      "etiqueta": "Hybrid 145 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "E-Tense 230 CV",
+      "etiqueta": "E-Tense 230 CV · eléctrico",
+      "cv": 230,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "E-Tense Long Range 245 CV",
+      "etiqueta": "E-Tense Long Range 245 CV · eléctrico",
+      "cv": 245,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "E-Tense AWD 350 CV",
+      "etiqueta": "E-Tense AWD 350 CV · eléctrico",
+      "cv": 350,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Nº8": {
+    "etiqueta_oficial": null,
+    "tarifa": 56860,
+    "motores": [
+     {
+      "clave": "Eléctrico FWD 230 CV",
+      "etiqueta": "Eléctrico FWD 230 CV · eléctrico",
+      "cv": 230,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico FWD Long Range 245 CV",
+      "etiqueta": "Eléctrico FWD Long Range 245 CV · eléctrico",
+      "cv": 245,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico AWD Long Range 350 CV",
+      "etiqueta": "Eléctrico AWD Long Range 350 CV · eléctrico",
+      "cv": 350,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Ebro": {
+  "web": "ebro",
+  "oficial": null,
+  "modelos": {
+   "S400": {
+    "etiqueta_oficial": null,
+    "tarifa": 26885,
+    "motores": [
+     {
+      "clave": "1.5 HEV 211 CV",
+      "etiqueta": "1.5 HEV 211 CV · híbrido",
+      "cv": 211,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "S700": {
+    "etiqueta_oficial": null,
+    "tarifa": 29961,
+    "motores": [
+     {
+      "clave": "1.6 TGDI 147 CV",
+      "etiqueta": "1.6 TGDI 147 CV · gasolina",
+      "cv": 147,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 TGDI HEV 224 CV",
+      "etiqueta": "1.5 TGDI HEV 224 CV · híbrido",
+      "cv": 224,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 TGDI PHEV 279 CV",
+      "etiqueta": "1.5 TGDI PHEV 279 CV · híbrido enchufable",
+      "cv": 279,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "S800": {
+    "etiqueta_oficial": null,
+    "tarifa": 36891,
+    "motores": [
+     {
+      "clave": "1.6 TGDI 147 CV",
+      "etiqueta": "1.6 TGDI 147 CV · gasolina",
+      "cv": 147,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 TGDI PHEV 279 CV",
+      "etiqueta": "1.5 TGDI PHEV 279 CV · híbrido enchufable",
+      "cv": 279,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "S900": {
+    "etiqueta_oficial": null,
+    "tarifa": 53384,
+    "motores": [
+     {
+      "clave": "1.5 TGDI PHEV 425 CV",
+      "etiqueta": "1.5 TGDI PHEV 425 CV · híbrido enchufable",
+      "cv": 425,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Fiat": {
+  "web": "fiat",
+  "oficial": {
+   "sitio": "Spoticar",
+   "estado": "ok"
+  },
+  "modelos": {
+   "500": {
+    "etiqueta_oficial": null,
+    "tarifa": 20111,
+    "motores": [
+     {
+      "clave": "1.0 Hybrid 65 CV",
+      "etiqueta": "1.0 Hybrid 65 CV · microhíbrido",
+      "cv": 65,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "Eléctrico 95 CV",
+      "etiqueta": "Eléctrico 95 CV · eléctrico",
+      "cv": 95,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 118 CV",
+      "etiqueta": "Eléctrico 118 CV · eléctrico",
+      "cv": 118,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "600": {
+    "etiqueta_oficial": null,
+    "tarifa": 23632,
+    "motores": [
+     {
+      "clave": "1.2 Turbo 100 CV",
+      "etiqueta": "1.2 Turbo 100 CV · gasolina",
+      "cv": 100,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.2 MHEV 110 CV",
+      "etiqueta": "1.2 MHEV 110 CV · microhíbrido",
+      "cv": 110,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.2 MHEV 145 CV",
+      "etiqueta": "1.2 MHEV 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 156 CV",
+      "etiqueta": "Eléctrico 156 CV · eléctrico",
+      "cv": 156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Doblò": {
+    "etiqueta_oficial": null,
+    "tarifa": 30182,
+    "motores": [
+     {
+      "clave": "1.5 diésel 100 CV",
+      "etiqueta": "1.5 diésel 100 CV · diésel",
+      "cv": 100,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 diésel 130 CV",
+      "etiqueta": "1.5 diésel 130 CV · diésel",
+      "cv": 130,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "E-Doblò": {
+    "etiqueta_oficial": null,
+    "tarifa": 36261,
+    "motores": [
+     {
+      "clave": "Eléctrico 136 CV",
+      "etiqueta": "Eléctrico 136 CV · eléctrico",
+      "cv": 136,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "E-Ulysse": {
+    "etiqueta_oficial": null,
+    "tarifa": 50511,
+    "motores": [
+     {
+      "clave": "Eléctrico 136 CV",
+      "etiqueta": "Eléctrico 136 CV · eléctrico",
+      "cv": 136,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Grande Panda": {
+    "etiqueta_oficial": null,
+    "tarifa": 17382,
+    "motores": [
+     {
+      "clave": "1.2 Turbo 100 CV",
+      "etiqueta": "1.2 Turbo 100 CV · gasolina",
+      "cv": 100,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.2 Turbo MHEV 110 CV",
+      "etiqueta": "1.2 Turbo MHEV 110 CV · microhíbrido",
+      "cv": 110,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 113 CV",
+      "etiqueta": "Eléctrico 113 CV · eléctrico",
+      "cv": 113,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Pandina": {
+    "etiqueta_oficial": null,
+    "tarifa": 16861,
+    "motores": [
+     {
+      "clave": "1.0 Firefly Hybrid 65 CV",
+      "etiqueta": "1.0 Firefly Hybrid 65 CV · microhíbrido",
+      "cv": 65,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "Qubo L": {
+    "etiqueta_oficial": null,
+    "tarifa": 30782,
+    "motores": [
+     {
+      "clave": "1.5 diésel 100 CV",
+      "etiqueta": "1.5 diésel 100 CV · diésel",
+      "cv": 100,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 diésel 130 CV",
+      "etiqueta": "1.5 diésel 130 CV · diésel",
+      "cv": 130,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 136 CV",
+      "etiqueta": "Eléctrico 136 CV · eléctrico",
+      "cv": 136,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Tipo": {
+    "etiqueta_oficial": null,
+    "tarifa": 19361,
+    "motores": [
+     {
+      "clave": "1.6 diésel 130 CV",
+      "etiqueta": "1.6 diésel 130 CV · diésel",
+      "cv": 130,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "Topolino": {
+    "etiqueta_oficial": null,
+    "tarifa": 9251,
+    "motores": [
+     {
+      "clave": "Eléctrico 8 CV",
+      "etiqueta": "Eléctrico 8 CV · eléctrico",
+      "cv": 8,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Ulysse": {
+    "etiqueta_oficial": null,
+    "tarifa": 45721,
+    "motores": [
+     {
+      "clave": "Diésel 150 CV",
+      "etiqueta": "Diésel 150 CV · diésel",
+      "cv": 150,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "Diésel 180 CV",
+      "etiqueta": "Diésel 180 CV · diésel",
+      "cv": 180,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Ford": {
+  "web": "ford",
+  "oficial": null,
+  "modelos": {
+   "Bronco": {
+    "etiqueta_oficial": null,
+    "tarifa": 72867,
+    "motores": [
+     {
+      "clave": "2.7 EcoBoost V6 335 CV",
+      "etiqueta": "2.7 EcoBoost V6 335 CV · gasolina",
+      "cv": 335,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Capri": {
+    "etiqueta_oficial": null,
+    "tarifa": 48210,
+    "motores": [
+     {
+      "clave": "Eléctrico 58 kWh 190 CV",
+      "etiqueta": "Eléctrico 58 kWh 190 CV · eléctrico",
+      "cv": 190,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 79 kWh 286 CV",
+      "etiqueta": "Eléctrico 79 kWh 286 CV · eléctrico",
+      "cv": 286,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico AWD 77 kWh 340 CV",
+      "etiqueta": "Eléctrico AWD 77 kWh 340 CV · eléctrico",
+      "cv": 340,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Explorer EV": {
+    "etiqueta_oficial": null,
+    "tarifa": 45710,
+    "motores": [
+     {
+      "clave": "Eléctrico 58 kWh 190 CV",
+      "etiqueta": "Eléctrico 58 kWh 190 CV · eléctrico",
+      "cv": 190,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 79 kWh 286 CV",
+      "etiqueta": "Eléctrico 79 kWh 286 CV · eléctrico",
+      "cv": 286,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico AWD 77 kWh 340 CV",
+      "etiqueta": "Eléctrico AWD 77 kWh 340 CV · eléctrico",
+      "cv": 340,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Focus": {
+    "etiqueta_oficial": null,
+    "tarifa": 30453,
+    "motores": [
+     {
+      "clave": "1.0 EcoBoost mHEV 125 CV",
+      "etiqueta": "1.0 EcoBoost mHEV 125 CV · microhíbrido",
+      "cv": 125,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 EcoBlue 115 CV",
+      "etiqueta": "1.5 EcoBlue 115 CV · diésel",
+      "cv": 115,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.0 EcoBoost mHEV 155 CV",
+      "etiqueta": "1.0 EcoBoost mHEV 155 CV · microhíbrido",
+      "cv": 155,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "ST 2.3 EcoBoost 280 CV",
+      "etiqueta": "ST 2.3 EcoBoost 280 CV · gasolina",
+      "cv": 280,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Grand Tourneo Connect": {
+    "etiqueta_oficial": null,
+    "tarifa": 33420,
+    "motores": [
+     {
+      "clave": "2.0 EcoBlue 102 CV",
+      "etiqueta": "2.0 EcoBlue 102 CV · diésel",
+      "cv": 102,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 EcoBoost 114 CV",
+      "etiqueta": "1.5 EcoBoost 114 CV · gasolina",
+      "cv": 114,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 EcoBlue 122 CV",
+      "etiqueta": "2.0 EcoBlue 122 CV · diésel",
+      "cv": 122,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 EcoBoost PHEV 150 CV",
+      "etiqueta": "1.5 EcoBoost PHEV 150 CV · híbrido enchufable",
+      "cv": 150,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Grand Tourneo Custom": {
+    "etiqueta_oficial": null,
+    "tarifa": 56801,
+    "motores": [
+     {
+      "clave": "2.0 EcoBlue 136 CV",
+      "etiqueta": "2.0 EcoBlue 136 CV · diésel",
+      "cv": 136,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 EcoBlue 150 CV",
+      "etiqueta": "2.0 EcoBlue 150 CV · diésel",
+      "cv": 150,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 EcoBlue 170 CV",
+      "etiqueta": "2.0 EcoBlue 170 CV · diésel",
+      "cv": 170,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 218 CV",
+      "etiqueta": "Eléctrico 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.5 PHEV 232 CV",
+      "etiqueta": "2.5 PHEV 232 CV · híbrido enchufable",
+      "cv": 232,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Kuga": {
+    "etiqueta_oficial": null,
+    "tarifa": 37020,
+    "motores": [
+     {
+      "clave": "1.5 EcoBoost 150 CV",
+      "etiqueta": "1.5 EcoBoost 150 CV · gasolina",
+      "cv": 150,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "2.5 FHEV 180 CV",
+      "etiqueta": "2.5 FHEV 180 CV · híbrido",
+      "cv": 180,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.5 FHEV AWD 183 CV",
+      "etiqueta": "2.5 FHEV AWD 183 CV · híbrido",
+      "cv": 183,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.5 PHEV 242 CV",
+      "etiqueta": "2.5 PHEV 242 CV · híbrido enchufable",
+      "cv": 242,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Mustang": {
+    "etiqueta_oficial": null,
+    "tarifa": 63925,
+    "motores": [
+     {
+      "clave": "5.0 V8 GT 446 CV",
+      "etiqueta": "5.0 V8 GT 446 CV · gasolina",
+      "cv": 446,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "5.0 V8 Dark Horse 454 CV",
+      "etiqueta": "5.0 V8 Dark Horse 454 CV · gasolina",
+      "cv": 454,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Mustang Mach-E": {
+    "etiqueta_oficial": null,
+    "tarifa": 53616,
+    "motores": [
+     {
+      "clave": "Eléctrico RWD 268 CV",
+      "etiqueta": "Eléctrico RWD 268 CV · eléctrico",
+      "cv": 268,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico RWD 276 CV",
+      "etiqueta": "Eléctrico RWD 276 CV · eléctrico",
+      "cv": 276,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico AWD 375 CV",
+      "etiqueta": "Eléctrico AWD 375 CV · eléctrico",
+      "cv": 375,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "GT AWD 487 CV",
+      "etiqueta": "GT AWD 487 CV · eléctrico",
+      "cv": 487,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Puma": {
+    "etiqueta_oficial": null,
+    "tarifa": 28150,
+    "motores": [
+     {
+      "clave": "1.0 EcoBoost mHEV 125 CV",
+      "etiqueta": "1.0 EcoBoost mHEV 125 CV · microhíbrido",
+      "cv": 125,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.0 EcoBoost mHEV 155 CV",
+      "etiqueta": "1.0 EcoBoost mHEV 155 CV · microhíbrido",
+      "cv": 155,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Gen-E eléctrico 168 CV",
+      "etiqueta": "Gen-E eléctrico 168 CV · eléctrico",
+      "cv": 168,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Tourneo Connect": {
+    "etiqueta_oficial": null,
+    "tarifa": 31653,
+    "motores": [
+     {
+      "clave": "2.0 EcoBlue 102 CV",
+      "etiqueta": "2.0 EcoBlue 102 CV · diésel",
+      "cv": 102,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 EcoBoost 114 CV",
+      "etiqueta": "1.5 EcoBoost 114 CV · gasolina",
+      "cv": 114,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 EcoBoost PHEV 150 CV",
+      "etiqueta": "1.5 EcoBoost PHEV 150 CV · híbrido enchufable",
+      "cv": 150,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Tourneo Courier": {
+    "etiqueta_oficial": null,
+    "tarifa": 27267,
+    "motores": [
+     {
+      "clave": "1.0 EcoBoost 125 CV",
+      "etiqueta": "1.0 EcoBoost 125 CV · gasolina",
+      "cv": 125,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 136 CV",
+      "etiqueta": "Eléctrico 136 CV · eléctrico",
+      "cv": 136,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Tourneo Custom": {
+    "etiqueta_oficial": null,
+    "tarifa": 56261,
+    "motores": [
+     {
+      "clave": "2.0 EcoBlue 136 CV",
+      "etiqueta": "2.0 EcoBlue 136 CV · diésel",
+      "cv": 136,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 EcoBlue 150 CV",
+      "etiqueta": "2.0 EcoBlue 150 CV · diésel",
+      "cv": 150,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 EcoBlue 170 CV",
+      "etiqueta": "2.0 EcoBlue 170 CV · diésel",
+      "cv": 170,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.5 PHEV 232 CV",
+      "etiqueta": "2.5 PHEV 232 CV · híbrido enchufable",
+      "cv": 232,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 286 CV",
+      "etiqueta": "Eléctrico 286 CV · eléctrico",
+      "cv": 286,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Honda": {
+  "web": "honda",
+  "oficial": null,
+  "modelos": {
+   "Civic": {
+    "etiqueta_oficial": null,
+    "tarifa": 36399,
+    "motores": [
+     {
+      "clave": "2.0 i-MMD 184 CV",
+      "etiqueta": "2.0 i-MMD 184 CV · híbrido",
+      "cv": 184,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "CR-V": {
+    "etiqueta_oficial": null,
+    "tarifa": 51545,
+    "motores": [
+     {
+      "clave": "2.0 i-MMD HEV 184 CV",
+      "etiqueta": "2.0 i-MMD HEV 184 CV · híbrido",
+      "cv": 184,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 i-MMD PHEV 184 CV",
+      "etiqueta": "2.0 i-MMD PHEV 184 CV · híbrido enchufable",
+      "cv": 184,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "HR-V": {
+    "etiqueta_oficial": null,
+    "tarifa": 35359,
+    "motores": [
+     {
+      "clave": "1.5 i-MMD 131 CV",
+      "etiqueta": "1.5 i-MMD 131 CV · híbrido",
+      "cv": 131,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Jazz": {
+    "etiqueta_oficial": null,
+    "tarifa": 28800,
+    "motores": [
+     {
+      "clave": "1.5 i-MMD 122 CV",
+      "etiqueta": "1.5 i-MMD 122 CV · híbrido",
+      "cv": 122,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Prelude": {
+    "etiqueta_oficial": null,
+    "tarifa": 49600,
+    "motores": [
+     {
+      "clave": "2.0 i-MMD 184 CV",
+      "etiqueta": "2.0 i-MMD 184 CV · híbrido",
+      "cv": 184,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "ZR-V": {
+    "etiqueta_oficial": null,
+    "tarifa": 45050,
+    "motores": [
+     {
+      "clave": "2.0 i-MMD 184 CV",
+      "etiqueta": "2.0 i-MMD 184 CV · híbrido",
+      "cv": 184,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Hyundai": {
   "web": "hyundai",
   "oficial": {
@@ -3663,6 +4963,414 @@
       "etiqueta": "1.6T PHEV 288 CV · híbrido enchufable",
       "cv": 288,
       "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Jaecoo": {
+  "web": "jaecoo",
+  "oficial": null,
+  "modelos": {
+   "5": {
+    "etiqueta_oficial": null,
+    "tarifa": 26871,
+    "motores": [
+     {
+      "clave": "1.6 TGDI 147 CV",
+      "etiqueta": "1.6 TGDI 147 CV · gasolina",
+      "cv": 147,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 TGDI HEV 224 CV",
+      "etiqueta": "1.5 TGDI HEV 224 CV · híbrido",
+      "cv": 224,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 61 kWh 211 CV",
+      "etiqueta": "Eléctrico 61 kWh 211 CV · eléctrico",
+      "cv": 211,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "7": {
+    "etiqueta_oficial": null,
+    "tarifa": 32271,
+    "motores": [
+     {
+      "clave": "1.6 TGDI 147 CV",
+      "etiqueta": "1.6 TGDI 147 CV · gasolina",
+      "cv": 147,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 TGDI HEV 224 CV",
+      "etiqueta": "1.5 TGDI HEV 224 CV · híbrido",
+      "cv": 224,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 SHS PHEV 279 CV",
+      "etiqueta": "1.5 SHS PHEV 279 CV · híbrido enchufable",
+      "cv": 279,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 SHS PHEV AWD 347 CV",
+      "etiqueta": "1.5 SHS PHEV AWD 347 CV · híbrido enchufable",
+      "cv": 347,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "8": {
+    "etiqueta_oficial": null,
+    "tarifa": 54053,
+    "motores": [
+     {
+      "clave": "SHS 1.5 TGDI AWD 428 CV",
+      "etiqueta": "SHS 1.5 TGDI AWD 428 CV · híbrido enchufable",
+      "cv": 428,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Jeep": {
+  "web": "jeep",
+  "oficial": {
+   "sitio": "Spoticar",
+   "estado": "ok"
+  },
+  "modelos": {
+   "Avenger": {
+    "etiqueta_oficial": null,
+    "tarifa": 25075,
+    "motores": [
+     {
+      "clave": "1.2 Turbo 100 CV",
+      "etiqueta": "1.2 Turbo 100 CV · gasolina",
+      "cv": 100,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.2 eHybrid 110 CV",
+      "etiqueta": "1.2 eHybrid 110 CV · microhíbrido",
+      "cv": 110,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.2 eHybrid 4xe 145 CV",
+      "etiqueta": "1.2 eHybrid 4xe 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 156 CV",
+      "etiqueta": "Eléctrico 156 CV · eléctrico",
+      "cv": 156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Compass": {
+    "etiqueta_oficial": null,
+    "tarifa": 40925,
+    "motores": [
+     {
+      "clave": "1.5 eHybrid MHEV 130 CV",
+      "etiqueta": "1.5 eHybrid MHEV 130 CV · microhíbrido",
+      "cv": 130,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "eHybrid MHEV 145 CV",
+      "etiqueta": "eHybrid MHEV 145 CV · microhíbrido",
+      "cv": 145,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 213 CV",
+      "etiqueta": "Eléctrico 213 CV · eléctrico",
+      "cv": 213,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.6 PHEV 225 CV",
+      "etiqueta": "1.6 PHEV 225 CV · híbrido enchufable",
+      "cv": 225,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.3 PHEV 4xe 240 CV",
+      "etiqueta": "1.3 PHEV 4xe 240 CV · híbrido enchufable",
+      "cv": 240,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 4xe 375 CV",
+      "etiqueta": "Eléctrico 4xe 375 CV · eléctrico",
+      "cv": 375,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Grand Cherokee": {
+    "etiqueta_oficial": null,
+    "tarifa": 101360,
+    "motores": [
+     {
+      "clave": "2.0 4xe PHEV 381 CV",
+      "etiqueta": "2.0 4xe PHEV 381 CV · híbrido enchufable",
+      "cv": 381,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Renegade": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "1.5 MHEV 130 CV",
+      "etiqueta": "1.5 MHEV 130 CV · microhíbrido",
+      "cv": 130,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "PHEV 4xe 190 CV",
+      "etiqueta": "PHEV 4xe 190 CV · híbrido enchufable",
+      "cv": 190,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "PHEV 4xe 240 CV",
+      "etiqueta": "PHEV 4xe 240 CV · híbrido enchufable",
+      "cv": 240,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Wrangler": {
+    "etiqueta_oficial": null,
+    "tarifa": 80852,
+    "motores": [
+     {
+      "clave": "2.0T 272 CV",
+      "etiqueta": "2.0T 272 CV · gasolina",
+      "cv": 272,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 4xe PHEV 381 CV",
+      "etiqueta": "2.0 4xe PHEV 381 CV · híbrido enchufable",
+      "cv": 381,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "KGM": {
+  "web": "kgm",
+  "oficial": null,
+  "modelos": {
+   "Korando": {
+    "etiqueta_oficial": null,
+    "tarifa": 26822,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 149 CV",
+      "etiqueta": "1.5 Turbo 149 CV · gasolina",
+      "cv": 149,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo 163 CV",
+      "etiqueta": "1.5 Turbo 163 CV · gasolina",
+      "cv": 163,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Rexton": {
+    "etiqueta_oficial": null,
+    "tarifa": 46748,
+    "motores": [
+     {
+      "clave": "2.2 Diésel 202 CV",
+      "etiqueta": "2.2 Diésel 202 CV · diésel",
+      "cv": 202,
+      "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Tivoli": {
+    "etiqueta_oficial": null,
+    "tarifa": 21046,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 135 CV",
+      "etiqueta": "1.5 Turbo 135 CV · gasolina",
+      "cv": 135,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.5 Turbo 163 CV",
+      "etiqueta": "1.5 Turbo 163 CV · gasolina",
+      "cv": 163,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Torres": {
+    "etiqueta_oficial": null,
+    "tarifa": 33372,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 163 CV",
+      "etiqueta": "1.5 Turbo 163 CV · gasolina",
+      "cv": 163,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "HEV 204 CV",
+      "etiqueta": "HEV 204 CV · híbrido",
+      "cv": 204,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "EVX eléctrico 207 CV",
+      "etiqueta": "EVX eléctrico 207 CV · eléctrico",
+      "cv": 207,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Torres Actyon": {
+    "etiqueta_oficial": null,
+    "tarifa": 39372,
+    "motores": [
+     {
+      "clave": "1.5 Turbo 163 CV",
+      "etiqueta": "1.5 Turbo 163 CV · gasolina",
+      "cv": 163,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "HEV 204 CV",
+      "etiqueta": "HEV 204 CV · híbrido",
+      "cv": 204,
+      "combustible": "híbrido",
       "cambios": [
        "Automático"
       ]
@@ -4161,6 +5869,838 @@
       "combustible": "gasolina",
       "cambios": [
        "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Lancia": {
+  "web": "lancia",
+  "oficial": {
+   "sitio": "Spoticar",
+   "estado": "ok"
+  },
+  "modelos": {
+   "Ypsilon": {
+    "etiqueta_oficial": null,
+    "tarifa": 20619,
+    "motores": [
+     {
+      "clave": "1.2 Turbo 100 CV",
+      "etiqueta": "1.2 Turbo 100 CV · gasolina",
+      "cv": 100,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.2 Ibrida 110 CV",
+      "etiqueta": "1.2 Ibrida 110 CV · microhíbrido",
+      "cv": 110,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Elettrica 156 CV",
+      "etiqueta": "Elettrica 156 CV · eléctrico",
+      "cv": 156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "HF Elettrica 282 CV",
+      "etiqueta": "HF Elettrica 282 CV · eléctrico",
+      "cv": 282,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Land Rover": {
+  "web": "land-rover",
+  "oficial": {
+   "sitio": "Land Rover Approved",
+   "estado": "falta"
+  },
+  "modelos": {
+   "Defender": {
+    "etiqueta_oficial": null,
+    "tarifa": 81570,
+    "motores": [
+     {
+      "clave": "D250 3.0 mHEV 249 CV",
+      "etiqueta": "D250 3.0 mHEV 249 CV · microhíbrido",
+      "cv": 249,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P300e PHEV 300 CV",
+      "etiqueta": "P300e PHEV 300 CV · híbrido enchufable",
+      "cv": 300,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P400 3.0 mHEV 380 CV",
+      "etiqueta": "P400 3.0 mHEV 380 CV · microhíbrido",
+      "cv": 380,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "V8 mHEV 537 CV",
+      "etiqueta": "V8 mHEV 537 CV · microhíbrido",
+      "cv": 537,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Discovery": {
+    "etiqueta_oficial": null,
+    "tarifa": 87620,
+    "motores": [
+     {
+      "clave": "D250 3.0 mHEV 249 CV",
+      "etiqueta": "D250 3.0 mHEV 249 CV · microhíbrido",
+      "cv": 249,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D350 3.0 mHEV 350 CV",
+      "etiqueta": "D350 3.0 mHEV 350 CV · microhíbrido",
+      "cv": 350,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Discovery Sport": {
+    "etiqueta_oficial": null,
+    "tarifa": 58179,
+    "motores": [
+     {
+      "clave": "D165 2.0 mHEV 163 CV",
+      "etiqueta": "D165 2.0 mHEV 163 CV · microhíbrido",
+      "cv": 163,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D200 2.0 mHEV 204 CV",
+      "etiqueta": "D200 2.0 mHEV 204 CV · microhíbrido",
+      "cv": 204,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P270e PHEV 269 CV",
+      "etiqueta": "P270e PHEV 269 CV · híbrido enchufable",
+      "cv": 269,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Range Rover": {
+    "etiqueta_oficial": null,
+    "tarifa": 151439,
+    "motores": [
+     {
+      "clave": "D300 3.0 mHEV 300 CV",
+      "etiqueta": "D300 3.0 mHEV 300 CV · microhíbrido",
+      "cv": 300,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D350 3.0 mHEV 350 CV",
+      "etiqueta": "D350 3.0 mHEV 350 CV · microhíbrido",
+      "cv": 350,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 450 CV",
+      "etiqueta": "Eléctrico 450 CV · eléctrico",
+      "cv": 450,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P460e PHEV 460 CV",
+      "etiqueta": "P460e PHEV 460 CV · híbrido enchufable",
+      "cv": 460,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P550e PHEV 550 CV",
+      "etiqueta": "P550e PHEV 550 CV · híbrido enchufable",
+      "cv": 550,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Range Rover Evoque": {
+    "etiqueta_oficial": null,
+    "tarifa": 59379,
+    "motores": [
+     {
+      "clave": "D165 2.0 mHEV 163 CV",
+      "etiqueta": "D165 2.0 mHEV 163 CV · microhíbrido",
+      "cv": 163,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D200 2.0 mHEV 204 CV",
+      "etiqueta": "D200 2.0 mHEV 204 CV · microhíbrido",
+      "cv": 204,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P270e PHEV 269 CV",
+      "etiqueta": "P270e PHEV 269 CV · híbrido enchufable",
+      "cv": 269,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Range Rover Sport": {
+    "etiqueta_oficial": null,
+    "tarifa": 100373,
+    "motores": [
+     {
+      "clave": "D250 3.0 249 CV",
+      "etiqueta": "D250 3.0 249 CV · microhíbrido",
+      "cv": 249,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D300 3.0 300 CV",
+      "etiqueta": "D300 3.0 300 CV · microhíbrido",
+      "cv": 300,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P400 3.0 380 CV",
+      "etiqueta": "P400 3.0 380 CV · microhíbrido",
+      "cv": 380,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 450 CV",
+      "etiqueta": "Eléctrico 450 CV · eléctrico",
+      "cv": 450,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P460e PHEV 460 CV",
+      "etiqueta": "P460e PHEV 460 CV · híbrido enchufable",
+      "cv": 460,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "V8 SV 635 CV",
+      "etiqueta": "V8 SV 635 CV · gasolina",
+      "cv": 635,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Range Rover Velar": {
+    "etiqueta_oficial": null,
+    "tarifa": 78152,
+    "motores": [
+     {
+      "clave": "D200 2.0 mHEV 204 CV",
+      "etiqueta": "D200 2.0 mHEV 204 CV · microhíbrido",
+      "cv": 204,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D300 3.0 mHEV 300 CV",
+      "etiqueta": "D300 3.0 mHEV 300 CV · microhíbrido",
+      "cv": 300,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "P400e PHEV 404 CV",
+      "etiqueta": "P400e PHEV 404 CV · híbrido enchufable",
+      "cv": 404,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Leapmotor": {
+  "web": "leapmotor",
+  "oficial": null,
+  "modelos": {
+   "B03X": {
+    "etiqueta_oficial": null,
+    "tarifa": 24764,
+    "motores": [
+     {
+      "clave": "Eléctrico 39,8 kWh 176 CV",
+      "etiqueta": "Eléctrico 39,8 kWh 176 CV · eléctrico",
+      "cv": 176,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 53 kWh 197 CV",
+      "etiqueta": "Eléctrico 53 kWh 197 CV · eléctrico",
+      "cv": 197,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "B05": {
+    "etiqueta_oficial": null,
+    "tarifa": 26764,
+    "motores": [
+     {
+      "clave": "Eléctrico 160 kW 218 CV",
+      "etiqueta": "Eléctrico 160 kW 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "B10": {
+    "etiqueta_oficial": null,
+    "tarifa": 29764,
+    "motores": [
+     {
+      "clave": "Eléctrico 160 kW 218 CV",
+      "etiqueta": "Eléctrico 160 kW 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "REEV 18,8 kWh 218 CV",
+      "etiqueta": "REEV 18,8 kWh 218 CV · híbrido enchufable",
+      "cv": 218,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "C10": {
+    "etiqueta_oficial": null,
+    "tarifa": 37764,
+    "motores": [
+     {
+      "clave": "Eléctrico 69,9 kWh 218 CV",
+      "etiqueta": "Eléctrico 69,9 kWh 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "REEV 28,4 kWh 215 CV",
+      "etiqueta": "REEV 28,4 kWh 215 CV · híbrido enchufable",
+      "cv": 215,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "T03": {
+    "etiqueta_oficial": null,
+    "tarifa": 19774,
+    "motores": [
+     {
+      "clave": "Eléctrico 37,3 kWh 95 CV",
+      "etiqueta": "Eléctrico 37,3 kWh 95 CV · eléctrico",
+      "cv": 95,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Lexus": {
+  "web": "lexus",
+  "oficial": null,
+  "modelos": {
+   "ES": {
+    "etiqueta_oficial": null,
+    "tarifa": 57636,
+    "motores": [
+     {
+      "clave": "300h 196 CV",
+      "etiqueta": "300h 196 CV · híbrido",
+      "cv": 196,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.5 300h 218 CV",
+      "etiqueta": "2.5 300h 218 CV · híbrido",
+      "cv": 218,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "350e 224 CV",
+      "etiqueta": "350e 224 CV · eléctrico",
+      "cv": 224,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "500e 343 CV",
+      "etiqueta": "500e 343 CV · eléctrico",
+      "cv": 343,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "LBX": {
+    "etiqueta_oficial": null,
+    "tarifa": 34937,
+    "motores": [
+     {
+      "clave": "1.5 HEV 136 CV",
+      "etiqueta": "1.5 HEV 136 CV · híbrido",
+      "cv": 136,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "LM": {
+    "etiqueta_oficial": null,
+    "tarifa": 130607,
+    "motores": [
+     {
+      "clave": "350h 203 CV",
+      "etiqueta": "350h 203 CV · híbrido",
+      "cv": 203,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "LS": {
+    "etiqueta_oficial": null,
+    "tarifa": 138592,
+    "motores": [
+     {
+      "clave": "500h V6 359 CV",
+      "etiqueta": "500h V6 359 CV · híbrido",
+      "cv": 359,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "NX": {
+    "etiqueta_oficial": null,
+    "tarifa": 57922,
+    "motores": [
+     {
+      "clave": "350h 197 CV",
+      "etiqueta": "350h 197 CV · híbrido",
+      "cv": 197,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "450h+ 292 CV",
+      "etiqueta": "450h+ 292 CV · híbrido enchufable",
+      "cv": 292,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "RX": {
+    "etiqueta_oficial": null,
+    "tarifa": 83537,
+    "motores": [
+     {
+      "clave": "450h+ 292 CV",
+      "etiqueta": "450h+ 292 CV · híbrido enchufable",
+      "cv": 292,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "500h 371 CV",
+      "etiqueta": "500h 371 CV · híbrido",
+      "cv": 371,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "RZ": {
+    "etiqueta_oficial": null,
+    "tarifa": 51637,
+    "motores": [
+     {
+      "clave": "350e 224 CV",
+      "etiqueta": "350e 224 CV · eléctrico",
+      "cv": 224,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "500e 380 CV",
+      "etiqueta": "500e 380 CV · eléctrico",
+      "cv": 380,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "550e 408 CV",
+      "etiqueta": "550e 408 CV · eléctrico",
+      "cv": 408,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "UX": {
+    "etiqueta_oficial": null,
+    "tarifa": 39737,
+    "motores": [
+     {
+      "clave": "300h 199 CV",
+      "etiqueta": "300h 199 CV · híbrido",
+      "cv": 199,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "300e 204 CV",
+      "etiqueta": "300e 204 CV · eléctrico",
+      "cv": 204,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Mazda": {
+  "web": "mazda",
+  "oficial": null,
+  "modelos": {
+   "CX-30": {
+    "etiqueta_oficial": null,
+    "tarifa": 31492,
+    "motores": [
+     {
+      "clave": "2.5 e-Skyactiv G mHEV 140 CV",
+      "etiqueta": "2.5 e-Skyactiv G mHEV 140 CV · microhíbrido",
+      "cv": 140,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "e-Skyactiv X mHEV 186 CV",
+      "etiqueta": "e-Skyactiv X mHEV 186 CV · microhíbrido",
+      "cv": 186,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "CX-5": {
+    "etiqueta_oficial": null,
+    "tarifa": 35612,
+    "motores": [
+     {
+      "clave": "2.5 e-Skyactiv G 141 CV",
+      "etiqueta": "2.5 e-Skyactiv G 141 CV · microhíbrido",
+      "cv": 141,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "CX-60": {
+    "etiqueta_oficial": null,
+    "tarifa": 53842,
+    "motores": [
+     {
+      "clave": "e-Skyactiv D mHEV 200 CV",
+      "etiqueta": "e-Skyactiv D mHEV 200 CV · microhíbrido",
+      "cv": 200,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "e-Skyactiv D mHEV 254 CV",
+      "etiqueta": "e-Skyactiv D mHEV 254 CV · microhíbrido",
+      "cv": 254,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "e-Skyactiv PHEV 327 CV",
+      "etiqueta": "e-Skyactiv PHEV 327 CV · híbrido enchufable",
+      "cv": 327,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "CX-6e": {
+    "etiqueta_oficial": null,
+    "tarifa": 45837,
+    "motores": [
+     {
+      "clave": "Eléctrico 258 CV",
+      "etiqueta": "Eléctrico 258 CV · eléctrico",
+      "cv": 258,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "CX-80": {
+    "etiqueta_oficial": null,
+    "tarifa": 62208,
+    "motores": [
+     {
+      "clave": "e-Skyactiv D mHEV 254 CV",
+      "etiqueta": "e-Skyactiv D mHEV 254 CV · microhíbrido",
+      "cv": 254,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "e-Skyactiv PHEV 327 CV",
+      "etiqueta": "e-Skyactiv PHEV 327 CV · híbrido enchufable",
+      "cv": 327,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Mazda2": {
+    "etiqueta_oficial": null,
+    "tarifa": 26487,
+    "motores": [
+     {
+      "clave": "1.5 Hybrid 116 CV",
+      "etiqueta": "1.5 Hybrid 116 CV · híbrido",
+      "cv": 116,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Mazda3": {
+    "etiqueta_oficial": null,
+    "tarifa": 27887,
+    "motores": [
+     {
+      "clave": "2.5 e-Skyactiv G mHEV 140 CV",
+      "etiqueta": "2.5 e-Skyactiv G mHEV 140 CV · microhíbrido",
+      "cv": 140,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "2.0 e-Skyactiv X mHEV 186 CV",
+      "etiqueta": "2.0 e-Skyactiv X mHEV 186 CV · microhíbrido",
+      "cv": 186,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Mazda6e": {
+    "etiqueta_oficial": null,
+    "tarifa": 43362,
+    "motores": [
+     {
+      "clave": "Eléctrico 258 CV",
+      "etiqueta": "Eléctrico 258 CV · eléctrico",
+      "cv": 258,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "MX-5": {
+    "etiqueta_oficial": null,
+    "tarifa": 33122,
+    "motores": [
+     {
+      "clave": "1.5 Skyactiv-G 136 CV",
+      "etiqueta": "1.5 Skyactiv-G 136 CV · gasolina",
+      "cv": 136,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
       ]
      }
     ]
@@ -5931,6 +8471,559 @@
    }
   }
  },
+ "Mini": {
+  "web": "mini",
+  "oficial": null,
+  "modelos": {
+   "Aceman": {
+    "etiqueta_oficial": null,
+    "tarifa": 31865,
+    "motores": [
+     {
+      "clave": "E 184 CV",
+      "etiqueta": "E 184 CV · eléctrico",
+      "cv": 184,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "SE 218 CV",
+      "etiqueta": "SE 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "JCW 258 CV",
+      "etiqueta": "JCW 258 CV · eléctrico",
+      "cv": 258,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Cooper": {
+    "etiqueta_oficial": null,
+    "tarifa": 24840,
+    "motores": [
+     {
+      "clave": "C (gasolina) 156 CV",
+      "etiqueta": "C (gasolina) 156 CV · gasolina",
+      "cv": 156,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "ONE (gasolina) 122 CV",
+      "etiqueta": "ONE (gasolina) 122 CV · gasolina",
+      "cv": 122,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "SE eléctrico 218 CV",
+      "etiqueta": "SE eléctrico 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "JCW E eléctrico 258 CV",
+      "etiqueta": "JCW E eléctrico 258 CV · eléctrico",
+      "cv": 258,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Countryman": {
+    "etiqueta_oficial": null,
+    "tarifa": 34840,
+    "motores": [
+     {
+      "clave": "C mHEV gasolina 170 CV",
+      "etiqueta": "C mHEV gasolina 170 CV · microhíbrido",
+      "cv": 170,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "D mHEV diésel 163 CV",
+      "etiqueta": "D mHEV diésel 163 CV · microhíbrido",
+      "cv": 163,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "E eléctrico 204 CV",
+      "etiqueta": "E eléctrico 204 CV · eléctrico",
+      "cv": 204,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "SE ALL4 eléctrico 313 CV",
+      "etiqueta": "SE ALL4 eléctrico 313 CV · eléctrico",
+      "cv": 313,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Mitsubishi": {
+  "web": "mitsubishi",
+  "oficial": null,
+  "modelos": {
+   "ASX": {
+    "etiqueta_oficial": null,
+    "tarifa": 25172,
+    "motores": [
+     {
+      "clave": "1.0 Turbo 115 CV",
+      "etiqueta": "1.0 Turbo 115 CV · gasolina",
+      "cv": 115,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.3 Turbo mHEV 140 CV",
+      "etiqueta": "1.3 Turbo mHEV 140 CV · microhíbrido",
+      "cv": 140,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.6 HEV 158 CV",
+      "etiqueta": "1.6 HEV 158 CV · híbrido",
+      "cv": 158,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Colt": {
+    "etiqueta_oficial": null,
+    "tarifa": 18938,
+    "motores": [
+     {
+      "clave": "1.0 Turbo 90 CV",
+      "etiqueta": "1.0 Turbo 90 CV · gasolina",
+      "cv": 90,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.0 Turbo GLP 100 CV",
+      "etiqueta": "1.0 Turbo GLP 100 CV · GLP",
+      "cv": 100,
+      "combustible": "GLP",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "1.6 HEV 143 CV",
+      "etiqueta": "1.6 HEV 143 CV · híbrido",
+      "cv": 143,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Eclipse Cross": {
+    "etiqueta_oficial": null,
+    "tarifa": 49090,
+    "motores": [
+     {
+      "clave": "Eléctrico 87 kWh 220 CV",
+      "etiqueta": "Eléctrico 87 kWh 220 CV · eléctrico",
+      "cv": 220,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Grandis": {
+    "etiqueta_oficial": null,
+    "tarifa": 29622,
+    "motores": [
+     {
+      "clave": "1.3 Turbo mHEV 140 CV",
+      "etiqueta": "1.3 Turbo mHEV 140 CV · microhíbrido",
+      "cv": 140,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.6 HEV 158 CV",
+      "etiqueta": "1.6 HEV 158 CV · híbrido",
+      "cv": 158,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Outlander": {
+    "etiqueta_oficial": null,
+    "tarifa": 45169,
+    "motores": [
+     {
+      "clave": "2.4 PHEV 306 CV",
+      "etiqueta": "2.4 PHEV 306 CV · híbrido enchufable",
+      "cv": 306,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Nissan": {
+  "web": "nissan",
+  "oficial": null,
+  "modelos": {
+   "Ariya": {
+    "etiqueta_oficial": null,
+    "tarifa": 48415,
+    "motores": [
+     {
+      "clave": "Eléctrico 63 kWh 218 CV",
+      "etiqueta": "Eléctrico 63 kWh 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 87 kWh 242 CV",
+      "etiqueta": "Eléctrico 87 kWh 242 CV · eléctrico",
+      "cv": 242,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "e-4ORCE 87 kWh 306 CV",
+      "etiqueta": "e-4ORCE 87 kWh 306 CV · eléctrico",
+      "cv": 306,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "NISMO e-4ORCE 435 CV",
+      "etiqueta": "NISMO e-4ORCE 435 CV · eléctrico",
+      "cv": 435,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Juke": {
+    "etiqueta_oficial": null,
+    "tarifa": 26128,
+    "motores": [
+     {
+      "clave": "1.0 DIG-T 114 CV",
+      "etiqueta": "1.0 DIG-T 114 CV · gasolina",
+      "cv": 114,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.6 Hybrid 143 CV",
+      "etiqueta": "1.6 Hybrid 143 CV · híbrido",
+      "cv": 143,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Leaf": {
+    "etiqueta_oficial": null,
+    "tarifa": 36695,
+    "motores": [
+     {
+      "clave": "Eléctrico 52 kWh 177 CV",
+      "etiqueta": "Eléctrico 52 kWh 177 CV · eléctrico",
+      "cv": 177,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 75 kWh 217 CV",
+      "etiqueta": "Eléctrico 75 kWh 217 CV · eléctrico",
+      "cv": 217,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Micra": {
+    "etiqueta_oficial": null,
+    "tarifa": 28515,
+    "motores": [
+     {
+      "clave": "Eléctrico Standard Range 122 CV",
+      "etiqueta": "Eléctrico Standard Range 122 CV · eléctrico",
+      "cv": 122,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico Long Range 150 CV",
+      "etiqueta": "Eléctrico Long Range 150 CV · eléctrico",
+      "cv": 150,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Primastar": {
+    "etiqueta_oficial": null,
+    "tarifa": 45958,
+    "motores": [
+     {
+      "clave": "2.0 Blue dCi 110 CV",
+      "etiqueta": "2.0 Blue dCi 110 CV · diésel",
+      "cv": 110,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     },
+     {
+      "clave": "2.0 Blue dCi 150 CV",
+      "etiqueta": "2.0 Blue dCi 150 CV · diésel",
+      "cv": 150,
+      "combustible": "diésel",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "Qashqai": {
+    "etiqueta_oficial": null,
+    "tarifa": 32722,
+    "motores": [
+     {
+      "clave": "1.3 DIG-T mHEV 158 CV",
+      "etiqueta": "1.3 DIG-T mHEV 158 CV · microhíbrido",
+      "cv": 158,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "e-POWER 205 CV",
+      "etiqueta": "e-POWER 205 CV · híbrido",
+      "cv": 205,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Townstar": {
+    "etiqueta_oficial": null,
+    "tarifa": 31927,
+    "motores": [
+     {
+      "clave": "1.3 DIG-T 130 CV",
+      "etiqueta": "1.3 DIG-T 130 CV · gasolina",
+      "cv": 130,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 122 CV",
+      "etiqueta": "Eléctrico 122 CV · eléctrico",
+      "cv": 122,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "X-Trail": {
+    "etiqueta_oficial": null,
+    "tarifa": 40516,
+    "motores": [
+     {
+      "clave": "1.5 VC-T mHEV 163 CV",
+      "etiqueta": "1.5 VC-T mHEV 163 CV · microhíbrido",
+      "cv": 163,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 e-POWER 204 CV",
+      "etiqueta": "1.5 e-POWER 204 CV · híbrido",
+      "cv": 204,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 e-4ORCE 213 CV",
+      "etiqueta": "1.5 e-4ORCE 213 CV · híbrido",
+      "cv": 213,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Omoda": {
+  "web": "omoda",
+  "oficial": null,
+  "modelos": {
+   "5": {
+    "etiqueta_oficial": null,
+    "tarifa": 27271,
+    "motores": [
+     {
+      "clave": "1.6 TGDI 145 CV",
+      "etiqueta": "1.6 TGDI 145 CV · gasolina",
+      "cv": 145,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "1.5 TGDI HEV 224 CV",
+      "etiqueta": "1.5 TGDI HEV 224 CV · híbrido",
+      "cv": 224,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "5 EV": {
+    "etiqueta_oficial": null,
+    "tarifa": 34295,
+    "motores": [
+     {
+      "clave": "Eléctrico 61 kWh 211 CV",
+      "etiqueta": "Eléctrico 61 kWh 211 CV · eléctrico",
+      "cv": 211,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "7": {
+    "etiqueta_oficial": null,
+    "tarifa": 42053,
+    "motores": [
+     {
+      "clave": "SHS-P 1.5 TGDI 279 CV",
+      "etiqueta": "SHS-P 1.5 TGDI 279 CV · híbrido enchufable",
+      "cv": 279,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "9": {
+    "etiqueta_oficial": null,
+    "tarifa": 52053,
+    "motores": [
+     {
+      "clave": "SHS 1.5 TGDI AWD 537 CV",
+      "etiqueta": "SHS 1.5 TGDI AWD 537 CV · híbrido enchufable",
+      "cv": 537,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
  "Opel": {
   "web": "opel",
   "oficial": {
@@ -6734,6 +9827,532 @@
       "etiqueta": "BlueHDi 180 · 180 CV · diésel",
       "cv": 180,
       "combustible": "diésel",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Polestar": {
+  "web": "polestar",
+  "oficial": {
+   "sitio": "Polestar Pre-owned",
+   "estado": "falta"
+  },
+  "modelos": {
+   "2": {
+    "etiqueta_oficial": null,
+    "tarifa": 48200,
+    "motores": [
+     {
+      "clave": "Single Motor 70 kWh 272 CV",
+      "etiqueta": "Single Motor 70 kWh 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Single Motor 82 kWh 299 CV",
+      "etiqueta": "Single Motor 82 kWh 299 CV · eléctrico",
+      "cv": 299,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Dual Motor 82 kWh 421 CV",
+      "etiqueta": "Dual Motor 82 kWh 421 CV · eléctrico",
+      "cv": 421,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Dual Motor Performance 476 CV",
+      "etiqueta": "Dual Motor Performance 476 CV · eléctrico",
+      "cv": 476,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "3": {
+    "etiqueta_oficial": null,
+    "tarifa": 81900,
+    "motores": [
+     {
+      "clave": "Single Motor 333 CV",
+      "etiqueta": "Single Motor 333 CV · eléctrico",
+      "cv": 333,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Dual Motor 544 CV",
+      "etiqueta": "Dual Motor 544 CV · eléctrico",
+      "cv": 544,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Dual Motor Performance 680 CV",
+      "etiqueta": "Dual Motor Performance 680 CV · eléctrico",
+      "cv": 680,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "4": {
+    "etiqueta_oficial": null,
+    "tarifa": 65900,
+    "motores": [
+     {
+      "clave": "Single Motor 272 CV",
+      "etiqueta": "Single Motor 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Dual Motor 544 CV",
+      "etiqueta": "Dual Motor 544 CV · eléctrico",
+      "cv": 544,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "5": {
+    "etiqueta_oficial": null,
+    "tarifa": 121900,
+    "motores": [
+     {
+      "clave": "Dual Motor 748 CV",
+      "etiqueta": "Dual Motor 748 CV · eléctrico",
+      "cv": 748,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Performance 884 CV",
+      "etiqueta": "Performance 884 CV · eléctrico",
+      "cv": 884,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Porsche": {
+  "web": "porsche",
+  "oficial": {
+   "sitio": "Porsche Approved",
+   "estado": "falta"
+  },
+  "modelos": {
+   "718": {
+    "etiqueta_oficial": null,
+    "tarifa": 178827,
+    "motores": [
+     {
+      "clave": "718 300 CV",
+      "etiqueta": "718 300 CV · gasolina",
+      "cv": 300,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     },
+     {
+      "clave": "GT4 RS / Spyder RS 500 CV",
+      "etiqueta": "GT4 RS / Spyder RS 500 CV · gasolina",
+      "cv": 500,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "911": {
+    "etiqueta_oficial": null,
+    "tarifa": 157586,
+    "motores": [
+     {
+      "clave": "Carrera 394 CV",
+      "etiqueta": "Carrera 394 CV · gasolina",
+      "cv": 394,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Carrera S 480 CV",
+      "etiqueta": "Carrera S 480 CV · gasolina",
+      "cv": 480,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Carrera GTS T-Hybrid 541 CV",
+      "etiqueta": "Carrera GTS T-Hybrid 541 CV · microhíbrido",
+      "cv": 541,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Turbo S 711 CV",
+      "etiqueta": "Turbo S 711 CV · gasolina",
+      "cv": 711,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Cayenne": {
+    "etiqueta_oficial": null,
+    "tarifa": 105433,
+    "motores": [
+     {
+      "clave": "Cayenne 353 CV",
+      "etiqueta": "Cayenne 353 CV · gasolina",
+      "cv": 353,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Electric 442 CV",
+      "etiqueta": "Cayenne Electric 442 CV · eléctrico",
+      "cv": 442,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne E-Hybrid 470 CV",
+      "etiqueta": "Cayenne E-Hybrid 470 CV · híbrido enchufable",
+      "cv": 470,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne S 474 CV",
+      "etiqueta": "Cayenne S 474 CV · gasolina",
+      "cv": 474,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne GTS 500 CV",
+      "etiqueta": "Cayenne GTS 500 CV · gasolina",
+      "cv": 500,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne S E-Hybrid 519 CV",
+      "etiqueta": "Cayenne S E-Hybrid 519 CV · híbrido enchufable",
+      "cv": 519,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne S Electric 666 CV",
+      "etiqueta": "Cayenne S Electric 666 CV · eléctrico",
+      "cv": 666,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Turbo Electric 1156 CV",
+      "etiqueta": "Cayenne Turbo Electric 1156 CV · eléctrico",
+      "cv": 1156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Cayenne Coupé": {
+    "etiqueta_oficial": null,
+    "tarifa": 109496,
+    "motores": [
+     {
+      "clave": "Cayenne Coupé 353 CV",
+      "etiqueta": "Cayenne Coupé 353 CV · gasolina",
+      "cv": 353,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé Electric 442 CV",
+      "etiqueta": "Cayenne Coupé Electric 442 CV · eléctrico",
+      "cv": 442,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé E-Hybrid 470 CV",
+      "etiqueta": "Cayenne Coupé E-Hybrid 470 CV · híbrido enchufable",
+      "cv": 470,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé S 474 CV",
+      "etiqueta": "Cayenne Coupé S 474 CV · gasolina",
+      "cv": 474,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé GTS 500 CV",
+      "etiqueta": "Cayenne Coupé GTS 500 CV · gasolina",
+      "cv": 500,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé S E-Hybrid 519 CV",
+      "etiqueta": "Cayenne Coupé S E-Hybrid 519 CV · híbrido enchufable",
+      "cv": 519,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé S Electric 666 CV",
+      "etiqueta": "Cayenne Coupé S Electric 666 CV · eléctrico",
+      "cv": 666,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Cayenne Coupé Turbo Electric 1156 CV",
+      "etiqueta": "Cayenne Coupé Turbo Electric 1156 CV · eléctrico",
+      "cv": 1156,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Macan": {
+    "etiqueta_oficial": null,
+    "tarifa": 80577,
+    "motores": [
+     {
+      "clave": "Macan 360 CV",
+      "etiqueta": "Macan 360 CV · eléctrico",
+      "cv": 360,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Macan 4 408 CV",
+      "etiqueta": "Macan 4 408 CV · eléctrico",
+      "cv": 408,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Macan 4S 516 CV",
+      "etiqueta": "Macan 4S 516 CV · eléctrico",
+      "cv": 516,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Macan GTS 571 CV",
+      "etiqueta": "Macan GTS 571 CV · eléctrico",
+      "cv": 571,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Macan Turbo 639 CV",
+      "etiqueta": "Macan Turbo 639 CV · eléctrico",
+      "cv": 639,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Panamera": {
+    "etiqueta_oficial": null,
+    "tarifa": 135167,
+    "motores": [
+     {
+      "clave": "Panamera 353 CV",
+      "etiqueta": "Panamera 353 CV · gasolina",
+      "cv": 353,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Panamera 4 E-Hybrid 470 CV",
+      "etiqueta": "Panamera 4 E-Hybrid 470 CV · híbrido enchufable",
+      "cv": 470,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Panamera GTS 500 CV",
+      "etiqueta": "Panamera GTS 500 CV · gasolina",
+      "cv": 500,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Panamera 4S E-Hybrid 544 CV",
+      "etiqueta": "Panamera 4S E-Hybrid 544 CV · híbrido enchufable",
+      "cv": 544,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Panamera Turbo E-Hybrid 680 CV",
+      "etiqueta": "Panamera Turbo E-Hybrid 680 CV · híbrido enchufable",
+      "cv": 680,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Panamera Turbo S E-Hybrid 782 CV",
+      "etiqueta": "Panamera Turbo S E-Hybrid 782 CV · híbrido enchufable",
+      "cv": 782,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Taycan": {
+    "etiqueta_oficial": null,
+    "tarifa": 103924,
+    "motores": [
+     {
+      "clave": "Taycan 408 CV",
+      "etiqueta": "Taycan 408 CV · eléctrico",
+      "cv": 408,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Taycan 4 435 CV",
+      "etiqueta": "Taycan 4 435 CV · eléctrico",
+      "cv": 435,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Taycan 4S 544 CV",
+      "etiqueta": "Taycan 4S 544 CV · eléctrico",
+      "cv": 544,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Taycan GTS 598 CV",
+      "etiqueta": "Taycan GTS 598 CV · eléctrico",
+      "cv": 598,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Taycan Turbo GT 1034 CV",
+      "etiqueta": "Taycan Turbo GT 1034 CV · eléctrico",
+      "cv": 1034,
+      "combustible": "eléctrico",
       "cambios": [
        "Automático"
       ]
@@ -7931,6 +11550,480 @@
       "etiqueta": "1.5 TSI PHEV 272 CV · híbrido enchufable",
       "cv": 272,
       "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Smart": {
+  "web": "smart",
+  "oficial": null,
+  "modelos": {
+   "#1": {
+    "etiqueta_oficial": null,
+    "tarifa": 37049,
+    "motores": [
+     {
+      "clave": "Eléctrico 272 CV",
+      "etiqueta": "Eléctrico 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Brabus doble motor 428 CV",
+      "etiqueta": "Brabus doble motor 428 CV · eléctrico",
+      "cv": 428,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "#3": {
+    "etiqueta_oficial": null,
+    "tarifa": 41760,
+    "motores": [
+     {
+      "clave": "Eléctrico 272 CV",
+      "etiqueta": "Eléctrico 272 CV · eléctrico",
+      "cv": 272,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Brabus doble motor 428 CV",
+      "etiqueta": "Brabus doble motor 428 CV · eléctrico",
+      "cv": 428,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "#5": {
+    "etiqueta_oficial": null,
+    "tarifa": 53510,
+    "motores": [
+     {
+      "clave": "Eléctrico 363 CV",
+      "etiqueta": "Eléctrico 363 CV · eléctrico",
+      "cv": 363,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico AWD 588 CV",
+      "etiqueta": "Eléctrico AWD 588 CV · eléctrico",
+      "cv": 588,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Brabus 646 CV",
+      "etiqueta": "Brabus 646 CV · eléctrico",
+      "cv": 646,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Subaru": {
+  "web": "subaru",
+  "oficial": null,
+  "modelos": {
+   "BRZ": {
+    "etiqueta_oficial": null,
+    "tarifa": 42456,
+    "motores": [
+     {
+      "clave": "2.4 Bóxer 234 CV",
+      "etiqueta": "2.4 Bóxer 234 CV · gasolina",
+      "cv": 234,
+      "combustible": "gasolina",
+      "cambios": [
+       "Manual"
+      ]
+     }
+    ]
+   },
+   "Crosstrek": {
+    "etiqueta_oficial": null,
+    "tarifa": 35977,
+    "motores": [
+     {
+      "clave": "2.0i e-Boxer 153 CV",
+      "etiqueta": "2.0i e-Boxer 153 CV · microhíbrido",
+      "cv": 153,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "E-Outback": {
+    "etiqueta_oficial": null,
+    "tarifa": 57016,
+    "motores": [
+     {
+      "clave": "Eléctrico AWD 381 CV",
+      "etiqueta": "Eléctrico AWD 381 CV · eléctrico",
+      "cv": 381,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Forester": {
+    "etiqueta_oficial": null,
+    "tarifa": 43876,
+    "motores": [
+     {
+      "clave": "2.0i e-Boxer 153 CV",
+      "etiqueta": "2.0i e-Boxer 153 CV · microhíbrido",
+      "cv": 153,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Outback": {
+    "etiqueta_oficial": null,
+    "tarifa": 45877,
+    "motores": [
+     {
+      "clave": "2.5 Bóxer 169 CV",
+      "etiqueta": "2.5 Bóxer 169 CV · gasolina",
+      "cv": 169,
+      "combustible": "gasolina",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Solterra": {
+    "etiqueta_oficial": null,
+    "tarifa": 48015,
+    "motores": [
+     {
+      "clave": "Eléctrico 218 CV",
+      "etiqueta": "Eléctrico 218 CV · eléctrico",
+      "cv": 218,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico AWD 73 kWh 343 CV",
+      "etiqueta": "Eléctrico AWD 73 kWh 343 CV · eléctrico",
+      "cv": 343,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Uncharted": {
+    "etiqueta_oficial": null,
+    "tarifa": 37516,
+    "motores": [
+     {
+      "clave": "Eléctrico 58 kWh 168 CV",
+      "etiqueta": "Eléctrico 58 kWh 168 CV · eléctrico",
+      "cv": 168,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 77 kWh 227 CV",
+      "etiqueta": "Eléctrico 77 kWh 227 CV · eléctrico",
+      "cv": 227,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 77 kWh AWD 343 CV",
+      "etiqueta": "Eléctrico 77 kWh AWD 343 CV · eléctrico",
+      "cv": 343,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Suzuki": {
+  "web": "suzuki",
+  "oficial": null,
+  "modelos": {
+   "Across": {
+    "etiqueta_oficial": null,
+    "tarifa": 53280,
+    "motores": [
+     {
+      "clave": "2.5 PHEV 309 CV",
+      "etiqueta": "2.5 PHEV 309 CV · híbrido enchufable",
+      "cv": 309,
+      "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "e Vitara": {
+    "etiqueta_oficial": null,
+    "tarifa": 34648,
+    "motores": [
+     {
+      "clave": "Eléctrico 49 kWh 144 CV",
+      "etiqueta": "Eléctrico 49 kWh 144 CV · eléctrico",
+      "cv": 144,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 61 kWh 174 CV",
+      "etiqueta": "Eléctrico 61 kWh 174 CV · eléctrico",
+      "cv": 174,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Eléctrico 61 kWh AllGrip 184 CV",
+      "etiqueta": "Eléctrico 61 kWh AllGrip 184 CV · eléctrico",
+      "cv": 184,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "S-Cross": {
+    "etiqueta_oficial": null,
+    "tarifa": 31067,
+    "motores": [
+     {
+      "clave": "1.4T Mild Hybrid 110 CV",
+      "etiqueta": "1.4T Mild Hybrid 110 CV · microhíbrido",
+      "cv": 110,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Swace": {
+    "etiqueta_oficial": null,
+    "tarifa": 31675,
+    "motores": [
+     {
+      "clave": "1.8 Hybrid 140 CV",
+      "etiqueta": "1.8 Hybrid 140 CV · híbrido",
+      "cv": 140,
+      "combustible": "híbrido",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Swift": {
+    "etiqueta_oficial": null,
+    "tarifa": 20053,
+    "motores": [
+     {
+      "clave": "1.2 Mild Hybrid 81 CV",
+      "etiqueta": "1.2 Mild Hybrid 81 CV · microhíbrido",
+      "cv": 81,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Vitara": {
+    "etiqueta_oficial": null,
+    "tarifa": 26988,
+    "motores": [
+     {
+      "clave": "1.4T Mild Hybrid 110 CV",
+      "etiqueta": "1.4T Mild Hybrid 110 CV · microhíbrido",
+      "cv": 110,
+      "combustible": "microhíbrido",
+      "cambios": [
+       "Manual",
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Tesla": {
+  "web": "tesla",
+  "oficial": {
+   "sitio": "Tesla Ocasión",
+   "estado": "falta"
+  },
+  "modelos": {
+   "Model 3": {
+    "etiqueta_oficial": null,
+    "tarifa": 36990,
+    "motores": [
+     {
+      "clave": "Tracción trasera 279 CV",
+      "etiqueta": "Tracción trasera 279 CV · eléctrico",
+      "cv": 279,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Gran Autonomía tracción trasera 304 CV",
+      "etiqueta": "Gran Autonomía tracción trasera 304 CV · eléctrico",
+      "cv": 304,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Gran Autonomía tracción integral 392 CV",
+      "etiqueta": "Gran Autonomía tracción integral 392 CV · eléctrico",
+      "cv": 392,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Performance 464 CV",
+      "etiqueta": "Performance 464 CV · eléctrico",
+      "cv": 464,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Model S": {
+    "etiqueta_oficial": null,
+    "tarifa": null,
+    "motores": [
+     {
+      "clave": "Tracción integral 670 CV",
+      "etiqueta": "Tracción integral 670 CV · eléctrico",
+      "cv": 670,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Plaid 1020 CV",
+      "etiqueta": "Plaid 1020 CV · eléctrico",
+      "cv": 1020,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Model X": {
+    "etiqueta_oficial": null,
+    "tarifa": 114990,
+    "motores": [
+     {
+      "clave": "Tracción integral 670 CV",
+      "etiqueta": "Tracción integral 670 CV · eléctrico",
+      "cv": 670,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Plaid 1020 CV",
+      "etiqueta": "Plaid 1020 CV · eléctrico",
+      "cv": 1020,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "Model Y": {
+    "etiqueta_oficial": null,
+    "tarifa": 40990,
+    "motores": [
+     {
+      "clave": "Tracción trasera 256 CV",
+      "etiqueta": "Tracción trasera 256 CV · eléctrico",
+      "cv": 256,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Tracción integral 372 CV",
+      "etiqueta": "Tracción integral 372 CV · eléctrico",
+      "cv": 372,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Performance 460 CV",
+      "etiqueta": "Performance 460 CV · eléctrico",
+      "cv": 460,
+      "combustible": "eléctrico",
       "cambios": [
        "Automático"
       ]
@@ -9429,6 +13522,102 @@
       "etiqueta": "T8 Recharge 406 CV · híbrido enchufable",
       "cv": 406,
       "combustible": "híbrido enchufable",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Xpeng": {
+  "web": "xpeng",
+  "oficial": null,
+  "modelos": {
+   "G6": {
+    "etiqueta_oficial": null,
+    "tarifa": 44600,
+    "motores": [
+     {
+      "clave": "Standard Range RWD 252 CV",
+      "etiqueta": "Standard Range RWD 252 CV · eléctrico",
+      "cv": 252,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Long Range RWD 296 CV",
+      "etiqueta": "Long Range RWD 296 CV · eléctrico",
+      "cv": 296,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "Performance AWD 487 CV",
+      "etiqueta": "Performance AWD 487 CV · eléctrico",
+      "cv": 487,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "G9": {
+    "etiqueta_oficial": null,
+    "tarifa": 60599,
+    "motores": [
+     {
+      "clave": "RWD 351 CV",
+      "etiqueta": "RWD 351 CV · eléctrico",
+      "cv": 351,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "AWD 575 CV",
+      "etiqueta": "AWD 575 CV · eléctrico",
+      "cv": 575,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     }
+    ]
+   },
+   "P7+": {
+    "etiqueta_oficial": null,
+    "tarifa": 45989,
+    "motores": [
+     {
+      "clave": "RWD Standard Range 245 CV",
+      "etiqueta": "RWD Standard Range 245 CV · eléctrico",
+      "cv": 245,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "RWD Long Range 313 CV",
+      "etiqueta": "RWD Long Range 313 CV · eléctrico",
+      "cv": 313,
+      "combustible": "eléctrico",
+      "cambios": [
+       "Automático"
+      ]
+     },
+     {
+      "clave": "AWD Performance 503 CV",
+      "etiqueta": "AWD Performance 503 CV · eléctrico",
+      "cv": 503,
+      "combustible": "eléctrico",
       "cambios": [
        "Automático"
       ]

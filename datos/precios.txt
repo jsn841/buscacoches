@@ -983,3 +983,493 @@
 ## MG|Cyberster
 340|eléctrico|63298|61939
 510|eléctrico|68298|66939
+## Fiat|500
+65|microhíbrido|20111|17744
+95|eléctrico|24111|20979
+118|eléctrico|31611|28104
+## Fiat|600
+100|gasolina|23632|22418
+110|microhíbrido|26661|24017
+145|microhíbrido|32161|29242
+156|eléctrico|31661|26702
+## Fiat|Doblò
+100|diésel|30182|
+130|diésel|33082|
+## Fiat|E-Doblò
+136|eléctrico|36261|25496
+## Fiat|E-Ulysse
+136|eléctrico|50511|35181
+## Fiat|Grande Panda
+100|gasolina|17382|16381
+110|microhíbrido|20411|19479
+113|eléctrico|24411|21514
+## Fiat|Pandina
+65|microhíbrido|16861|12407
+## Fiat|Qubo L
+100|diésel|30782|21837
+130|diésel|33682|24534
+136|eléctrico|36811|
+## Fiat|Tipo
+130|diésel|19361|17382
+## Fiat|Topolino
+8|eléctrico|9251|
+## Fiat|Ulysse
+150|diésel|45721|
+180|diésel|49395|39621
+## Jeep|Avenger
+100|gasolina|25075|20997
+110|microhíbrido|27110|22660
+145|microhíbrido|33075|30253
+156|eléctrico|42210|34220
+## Jeep|Compass
+130|microhíbrido|40925|
+145|microhíbrido|42634|29188
+213|eléctrico|50055|41718
+225|híbrido enchufable|46055|36262
+240|híbrido enchufable|50710|
+375|eléctrico|56305|48569
+## Jeep|Grand Cherokee
+381|híbrido enchufable|101360|
+## Jeep|Renegade
+130|microhíbrido||
+190|híbrido enchufable||
+240|híbrido enchufable||
+## Jeep|Wrangler
+272|gasolina|80852|
+381|híbrido enchufable|86860|
+## Ford|Bronco
+335|gasolina|72867|63904
+## Ford|Capri
+190|eléctrico|48210|36476
+286|eléctrico|52310|40535
+340|eléctrico|58860|43931
+## Ford|Explorer EV
+190|eléctrico|45710|34370
+286|eléctrico|49810|38430
+340|eléctrico|56360|43188
+## Ford|Focus
+125|microhíbrido|30453|
+115|diésel|34237|
+155|microhíbrido|35358|
+280|gasolina|42939|
+## Ford|Grand Tourneo Connect
+102|diésel|34779|30356
+114|gasolina|33420|29227
+122|diésel|41399|34755
+150|híbrido enchufable|45886|40515
+## Ford|Grand Tourneo Custom
+136|diésel|56801|50969
+150|diésel|59178|53061
+170|diésel|66266|59335
+218|eléctrico|65355|61079
+232|híbrido enchufable|59585|52906
+## Ford|Kuga
+150|gasolina|37020|26122
+180|híbrido|39963|27702
+183|híbrido|42163|29166
+242|híbrido enchufable|44679|31166
+## Ford|Mustang
+446|gasolina|63925|58932
+454|gasolina|76925|71802
+## Ford|Mustang Mach-E
+268|eléctrico|53616|42090
+276|eléctrico|67394|59685
+375|eléctrico|71803|64050
+487|eléctrico|78578|71897
+## Ford|Puma
+125|microhíbrido|28150|18730
+155|microhíbrido|34612|25322
+168|eléctrico|34261|28175
+## Ford|Tourneo Connect
+102|diésel|33013|28890
+114|gasolina|31653|27761
+150|híbrido enchufable|44186|38961
+## Ford|Tourneo Courier
+125|gasolina|27267|23697
+136|eléctrico|37865|31871
+## Ford|Tourneo Custom
+136|diésel|56261|50493
+150|diésel|58638|52585
+170|diésel|65705|58841
+232|híbrido enchufable|62335|55766
+286|eléctrico|69805|65173
+## Nissan|Ariya
+218|eléctrico|48415|
+242|eléctrico|49415|
+306|eléctrico|57115|54277
+435|eléctrico|63615|
+## Nissan|Juke
+114|gasolina|26128|22831
+143|híbrido|33068|28908
+## Nissan|Leaf
+177|eléctrico|36695|32081
+217|eléctrico|41695|36812
+## Nissan|Micra
+122|eléctrico|28515|26189
+150|eléctrico|33565|31239
+## Nissan|Primastar
+110|diésel|45958|38104
+150|diésel|48011|38517
+## Nissan|Qashqai
+158|microhíbrido|32722|29903
+205|híbrido|37738|34578
+## Nissan|Townstar
+130|gasolina|31927|27283
+122|eléctrico|40898|35899
+## Nissan|X-Trail
+163|microhíbrido|40516|
+204|híbrido|42334|34175
+213|híbrido|45734|36407
+## Mazda|CX-30
+140|microhíbrido|31492|26641
+186|microhíbrido|35842|30686
+## Mazda|CX-5
+141|microhíbrido|35612|30607
+## Mazda|CX-60
+200|microhíbrido|53842|42476
+254|microhíbrido|58862|47145
+327|híbrido enchufable|57253|45633
+## Mazda|CX-6e
+258|eléctrico|45837|43466
+## Mazda|CX-80
+254|microhíbrido|62397|52184
+327|híbrido enchufable|62208|50197
+## Mazda|Mazda2
+116|híbrido|26487|19795
+## Mazda|Mazda3
+140|microhíbrido|27887|26009
+186|microhíbrido|32737|30471
+## Mazda|Mazda6e
+258|eléctrico|43362|42570
+## Mazda|MX-5
+136|gasolina|33122|31909
+## Honda|Civic
+184|híbrido|36399|33399
+## Honda|CR-V
+184|híbrido|51545|45281
+184|híbrido enchufable|59260|47244
+## Honda|HR-V
+131|híbrido|35359|30503
+## Honda|Jazz
+122|híbrido|28800|23212
+## Honda|Prelude
+184|híbrido|49600|48608
+## Honda|ZR-V
+184|híbrido|45050|37949
+## Suzuki|Across
+309|híbrido enchufable|53280|48774
+## Suzuki|e Vitara
+144|eléctrico|34648|32204
+174|eléctrico|39148|36704
+184|eléctrico|42148|39704
+## Suzuki|S-Cross
+110|microhíbrido|31067|26350
+## Suzuki|Swace
+140|híbrido|31675|
+## Suzuki|Swift
+81|microhíbrido|20053|18247
+## Suzuki|Vitara
+110|microhíbrido|26988|24495
+## Mitsubishi|ASX
+115|gasolina|25172|22375
+140|microhíbrido|32422|29196
+158|híbrido|30740|27925
+## Mitsubishi|Colt
+90|gasolina|18938|16745
+100|GLP|19738|17545
+143|híbrido|27138|24945
+## Mitsubishi|Eclipse Cross
+220|eléctrico|49090|42195
+## Mitsubishi|Grandis
+140|microhíbrido|29622|26871
+158|híbrido|32640|30000
+## Mitsubishi|Outlander
+306|híbrido enchufable|45169|36645
+## Lexus|ES
+196|híbrido|61137|59113
+218|híbrido|57636|
+224|eléctrico|61137|57115
+343|eléctrico|65737|61578
+## Lexus|LBX
+136|híbrido|34937|32477
+## Lexus|LM
+203|híbrido|130607|127997
+## Lexus|LS
+359|híbrido|138592|
+## Lexus|NX
+197|híbrido|57922|53588
+292|híbrido enchufable|61937|54794
+## Lexus|RX
+292|híbrido enchufable|83537|74238
+371|híbrido|110907|100745
+## Lexus|RZ
+224|eléctrico|51637|47634
+380|eléctrico|61537|57739
+408|eléctrico|70537|67359
+## Lexus|UX
+199|híbrido|39737|39360
+204|eléctrico|52137|
+## Land Rover|Defender
+249|microhíbrido|81570|75952
+300|híbrido enchufable|86535|80558
+380|microhíbrido|110120|98047
+537|microhíbrido|217170|211171
+## Land Rover|Discovery
+249|microhíbrido|87620|83190
+350|microhíbrido|92770|
+## Land Rover|Discovery Sport
+163|microhíbrido|58179|54188
+204|microhíbrido|61579|57316
+269|híbrido enchufable|60283|56074
+## Land Rover|Range Rover
+300|microhíbrido|156873|148285
+350|microhíbrido|171773|162291
+450|eléctrico|162439|
+460|híbrido enchufable|151439|143115
+550|híbrido enchufable|171889|162338
+## Land Rover|Range Rover Evoque
+163|microhíbrido|59379|
+204|microhíbrido|62729|
+269|híbrido enchufable|62383|
+## Land Rover|Range Rover Sport
+249|microhíbrido|100373|95175
+300|microhíbrido|112223|106314
+380|microhíbrido|113590|
+450|eléctrico|119639|
+460|híbrido enchufable|105839|100251
+635|gasolina|209040|
+## Land Rover|Range Rover Velar
+204|microhíbrido|78152|
+300|microhíbrido|96002|
+404|híbrido enchufable|83265|
+## Mini|Aceman
+184|eléctrico|31865|
+218|eléctrico|34865|
+258|eléctrico|43945|41234
+## Mini|Cooper
+156|gasolina|27340|
+122|gasolina|24840|
+218|eléctrico|32865|
+258|eléctrico|41945|39394
+## Mini|Countryman
+170|microhíbrido|34840|
+163|microhíbrido|34875|
+204|eléctrico|37465|
+313|eléctrico|46855|
+## Porsche|718
+300|gasolina||
+500|gasolina|178827|
+## Porsche|911
+394|gasolina|157586|141239
+480|gasolina|178524|
+541|microhíbrido|203431|
+711|gasolina|326418|
+## Porsche|Cayenne
+353|gasolina|116879|
+442|eléctrico|105433|
+470|híbrido enchufable|119245|
+474|gasolina|139854|
+500|gasolina|165240|
+519|híbrido enchufable|129858|
+666|eléctrico|127291|
+1156|eléctrico|166261|
+## Porsche|Cayenne Coupé
+353|gasolina|120959|
+442|eléctrico|109496|
+470|híbrido enchufable|121465|
+474|gasolina|144822|
+500|gasolina|168525|
+519|híbrido enchufable|133829|
+666|eléctrico|131453|
+1156|eléctrico|169370|
+## Porsche|Macan
+360|eléctrico|80577|
+408|eléctrico|83653|
+516|eléctrico|90780|
+571|eléctrico|105608|
+639|eléctrico|116930|
+## Porsche|Panamera
+353|gasolina|135167|134887
+470|híbrido enchufable|135456|135065
+500|gasolina|199139|197634
+544|híbrido enchufable|150964|150578
+680|híbrido enchufable|213425|211318
+782|híbrido enchufable|246995|244271
+## Porsche|Taycan
+408|eléctrico|103924|
+435|eléctrico|122176|
+544|eléctrico|123438|
+598|eléctrico|129511|
+1034|eléctrico|247195|
+## Tesla|Model 3
+279|eléctrico|36990|
+304|eléctrico|44990|
+392|eléctrico|48990|
+464|eléctrico|57490|
+## Tesla|Model S
+670|eléctrico||
+1020|eléctrico||
+## Tesla|Model X
+670|eléctrico|114990|
+1020|eléctrico|124990|
+## Tesla|Model Y
+256|eléctrico|40990|
+372|eléctrico|52990|
+460|eléctrico|62990|
+## Alfa Romeo|Giulia
+160|diésel|48996|43015
+210|diésel|53996|47351
+280|gasolina|58972|
+520|gasolina|112298|98431
+## Alfa Romeo|Junior
+145|microhíbrido|29769|26028
+156|eléctrico|37055|34597
+280|eléctrico|47959|47617
+## Alfa Romeo|Milano
+136|microhíbrido||
+156|eléctrico||
+## Alfa Romeo|Stelvio
+160|diésel|56146|49783
+210|diésel|62922|53474
+520|gasolina|123948|107756
+## Alfa Romeo|Tonale
+130|diésel|39546|33842
+174|microhíbrido|42196|35615
+270|híbrido enchufable|58019|51269
+## DS|DS 3
+145|microhíbrido|34741|
+156|eléctrico|42041|39192
+## DS|DS 7
+None|diésel||
+None|híbrido enchufable||
+## DS|Nº4
+130|diésel|39719|36156
+145|microhíbrido|38641|35972
+213|eléctrico|45441|44160
+240|híbrido enchufable|45441|
+## DS|Nº7
+145|microhíbrido|45441|39750
+230|eléctrico|48941|47520
+245|eléctrico|54641|47385
+350|eléctrico|68141|59081
+## DS|Nº8
+230|eléctrico|56860|54191
+245|eléctrico|63010|59972
+350|eléctrico|74710|67845
+## Lancia|Ypsilon
+100|gasolina|20619|
+110|microhíbrido|23619|19824
+156|eléctrico|34419|29901
+282|eléctrico|44919|37634
+## Smart|#1
+272|eléctrico|37049|22880
+428|eléctrico|53570|
+## Smart|#3
+272|eléctrico|41760|30870
+428|eléctrico|55120|
+## Smart|#5
+363|eléctrico|53510|
+588|eléctrico|60509|
+646|eléctrico|64020|
+## Subaru|BRZ
+234|gasolina||
+## Subaru|Crosstrek
+153|microhíbrido|35977|31770
+## Subaru|E-Outback
+381|eléctrico|57016|
+## Subaru|Forester
+153|microhíbrido|43876|39512
+## Subaru|Outback
+169|gasolina|45877|41023
+## Subaru|Solterra
+218|eléctrico|60266|
+343|eléctrico|48015|
+## Subaru|Uncharted
+168|eléctrico|37516|
+227|eléctrico|41766|
+343|eléctrico|46916|
+## KGM|Korando
+149|gasolina|26822|18650
+163|gasolina|32522|28487
+## KGM|Rexton
+202|diésel|46748|39900
+## KGM|Tivoli
+135|gasolina|21046|15650
+163|gasolina|25822|22121
+## KGM|Torres
+163|gasolina|33372|24360
+204|híbrido|36396|
+207|eléctrico|37419|30920
+## KGM|Torres Actyon
+163|gasolina|39372|
+204|híbrido|43396|
+## Omoda|5
+145|gasolina|27271|25385
+224|híbrido|28795|23998
+## Omoda|5 EV
+211|eléctrico|34295|31280
+## Omoda|7
+279|híbrido enchufable|42053|34046
+## Omoda|9
+537|híbrido enchufable|52053|45300
+## Jaecoo|5
+147|gasolina|26871|19990
+224|híbrido|29395|23990
+211|eléctrico|34895|31000
+## Jaecoo|7
+147|gasolina|32271|30808
+224|híbrido|33771|
+279|híbrido enchufable|38295|37900
+347|híbrido enchufable|40295|38400
+## Jaecoo|8
+428|híbrido enchufable|54053|51250
+## Leapmotor|B03X
+176|eléctrico|24764|
+197|eléctrico|28764|
+## Leapmotor|B05
+218|eléctrico|26764|19500
+## Leapmotor|B10
+218|eléctrico|30264|22201
+218|híbrido enchufable|29764|28106
+## Leapmotor|C10
+218|eléctrico|37764|36566
+215|híbrido enchufable|37764|35156
+## Leapmotor|T03
+95|eléctrico|19774|12749
+## Polestar|2
+272|eléctrico|48200|
+299|eléctrico|51350|
+421|eléctrico|59450|
+476|eléctrico|64450|
+## Polestar|3
+333|eléctrico|81900|
+544|eléctrico|91900|
+680|eléctrico|110300|
+## Polestar|4
+272|eléctrico|65900|
+544|eléctrico|72900|
+## Polestar|5
+748|eléctrico|121900|
+884|eléctrico|145300|
+## Ebro|S400
+211|híbrido|26885|19715
+## Ebro|S700
+147|gasolina|29961|25284
+224|híbrido|34361|
+279|híbrido enchufable|39984|
+## Ebro|S800
+147|gasolina|36891|
+279|híbrido enchufable|44835|
+## Ebro|S900
+425|híbrido enchufable|53384|46450
+## Xpeng|G6
+252|eléctrico|44600|37599
+296|eléctrico|48600|43583
+487|eléctrico|54600|49583
+## Xpeng|G9
+351|eléctrico|60599|56944
+575|eléctrico|75600|
+## Xpeng|P7+
+245|eléctrico|45989|40900
+313|eléctrico|49989|44900
+503|eléctrico|55989|54500
