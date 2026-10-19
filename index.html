@@ -115,17 +115,21 @@ input,select{font:inherit;font-size:1rem;color:var(--fg);background:var(--bg);bo
 .box-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
 .box-wrap svg{display:block;height:auto;min-width:100%}
 .bx rect{fill:var(--bar);stroke:var(--fg);stroke-width:1.2}
-.bx .med{stroke:var(--fg);stroke-width:3}
+.bx rect.hit{fill:transparent;stroke:none}
+.bx .dot{fill-opacity:.85}
+.bx.g1 .dot{fill:var(--ok)}
+.bx.g2 .dot{fill:var(--warn)}
+.bx .med{stroke:var(--fg);stroke-width:2.5;stroke-linecap:round}
 .bx .wh{stroke:var(--fg);stroke-width:1.2}
 .bx .dot{fill:var(--accent);stroke:var(--surface);stroke-width:1.5}
 .bx .hit{fill:transparent;cursor:pointer}
 .bx.g1 rect{fill:var(--soft)}
 .gen-chips{display:flex;gap:8px;flex-wrap:wrap}
 .gen-chips span{font-size:.82rem;border:1px solid var(--line);border-radius:999px;padding:3px 10px;display:inline-flex;align-items:center;gap:6px}
-.gen-chips i{width:10px;height:10px;border-radius:2px;display:inline-block;background:var(--bar);border:1px solid var(--fg)}
-.gen-chips i.g1{background:var(--soft)}
+.gen-chips i{width:10px;height:10px;border-radius:50%;display:inline-block;background:var(--accent)}
+.gen-chips i.g1{background:var(--ok)}
 .bx.g2 rect{fill:var(--accent);fill-opacity:.35}
-.gen-chips i.g2{background:var(--accent);opacity:.5}
+.gen-chips i.g2{background:var(--warn)}
 </style>
 
 </head>
@@ -431,15 +435,15 @@ function dibujaCajas(sel,d,id,titulo){
   g+=`<text class="tick" x="${W-R}" y="${H-4}" text-anchor="end">Kilómetros</text>`;
   grupos.forEach((G,i)=>{const x=cx(G.ti,G.gi),v=G.v,n=v.length,mn=Math.min(...v),mx=Math.max(...v),md=cuartil(v,.5);
     let m=`<g class="bx g${G.gi%3}">`;
-    if(n>=4){const q1=cuartil(v,.25),q3=cuartil(v,.75);
-      m+=`<line class="wh" x1="${x}" x2="${x}" y1="${sy(mx)}" y2="${sy(q3)}"/><line class="wh" x1="${x}" x2="${x}" y1="${sy(q1)}" y2="${sy(mn)}"/><line class="wh" x1="${x-bw/4}" x2="${x+bw/4}" y1="${sy(mx)}" y2="${sy(mx)}"/><line class="wh" x1="${x-bw/4}" x2="${x+bw/4}" y1="${sy(mn)}" y2="${sy(mn)}"/><rect x="${x-bw/2}" y="${sy(q3)}" width="${bw}" height="${Math.max(2,sy(q1)-sy(q3))}" rx="2"/><line class="med" x1="${x-bw/2}" x2="${x+bw/2}" y1="${sy(md)}" y2="${sy(md)}"/>`;
-      G.txt=`${n} coches · mediana ${eur(md)} · la mitad entre ${eur(q1)} y ${eur(q3)} · de ${eur(mn)} a ${eur(mx)}`}
-    else{v.forEach(y=>m+=`<circle class="dot" cx="${x}" cy="${sy(y)}" r="5"/>`);G.txt=`${n} ${n===1?"coche":"coches"} · ${v.map(eur).join(", ")}`}
+    const orden=[...v].sort((a,b)=>a-b),r=n>40?3:n>15?4:5,ancho=Math.max(4,bw/2-r);
+    orden.forEach((y,k)=>{const dx=n===1?0:((k*0.618)%1-.5)*2*ancho;m+=`<circle class="dot" cx="${(x+dx).toFixed(1)}" cy="${sy(y).toFixed(1)}" r="${r}"/>`});
+    if(n>=4)m+=`<line class="med" x1="${x-bw/2}" x2="${x+bw/2}" y1="${sy(md)}" y2="${sy(md)}"/>`;
+    G.txt=n>=4?`${n} coches · precio del medio ${eur(md)} · la mitad entre ${eur(cuartil(v,.25))} y ${eur(cuartil(v,.75))} · de ${eur(mn)} a ${eur(mx)}`:`${n} ${n===1?"coche":"coches"} · ${v.map(eur).join(", ")}`;
     m+=`<rect class="hit" data-i="${i}" x="${x-bw/2-6}" y="${T}" width="${bw+12}" height="${H-T-B}" tabindex="0" aria-label="${G.k/1000} a ${G.k/1000+10} mil km: ${G.txt}"/></g>`;g+=m});
   const genTxt=gens.filter(x=>x[0]).map((x,i)=>`<span><i class="g${i%3}"></i>${x[0]} (${x[1]}–${x[2]===2026?"hoy":x[2]})</span>`).join("");
   box.innerHTML=`<div class="dep-head"><h3>${titulo||"Precios por tramos de 10.000 km"}</h3></div>${genTxt?`<div class="gen-chips">${genTxt}</div>`:""}
    <div class="dep-plot box-wrap"><svg viewBox="0 0 ${W} ${H}" width="${W}" role="img" aria-label="Distribución de precios por tramos de kilómetros">${g}</svg><div class="tip" hidden></div></div>
-   <p class="src" style="margin:0">Cada caja va del 25 % al 75 % de los precios del tramo y la raya gruesa es el precio del medio; las líneas llegan al más barato y al más caro. Con menos de 4 coches se muestran los puntos sueltos.</p>`;
+   <p class="src" style="margin:0">Cada punto es un coche. La raya marca el precio del medio del tramo cuando hay 4 coches o más.</p>`;
   const tip=box.querySelector(".tip"),svg=box.querySelector("svg");
   const show=e=>{const i=e.target.dataset.i;if(i==null)return;const G=grupos[i],r=svg.getBoundingClientRect(),k=r.width/W;tip.textContent=G.txt;tip.style.left=Math.min(Math.max(cx(G.ti,G.gi)*k,120),r.width-120)+"px";tip.style.top=(T+20)*k+"px";tip.hidden=false};
   const hide=()=>{tip.hidden=true};
