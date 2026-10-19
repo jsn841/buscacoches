@@ -287,7 +287,10 @@ function archivoOcasion(marca,modelo){return "datos/ocasion/"+slug(marca)+"--"+s
 function cargaOcasion(marca,modelo){
   const k=marca+"|"+modelo;if(k in OCASION)return;OCASION[k]=null;
   if(typeof location==="undefined"||location.protocol==="file:"||typeof fetch!=="function")return;
-  fetch(archivoOcasion(marca,modelo),{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(j=>{
+  const RAW="https://raw.githubusercontent.com/jsn841/buscacoches/datos-ocasion/";
+  fetch(archivoOcasion(marca,modelo),{cache:"no-cache"}).then(r=>r.ok?r.json():null).catch(()=>null)
+   .then(j=>j||fetch(RAW+archivoOcasion(marca,modelo),{cache:"no-cache"}).then(r=>r.ok?r.json():null))
+   .then(j=>{
     if(!j||!j.fecha)return;OCASION[k]=j;
     if($("marca").value!==marca||$("modelo").value!==modelo)return;
     const mv=$("motor").value,cv=$("cambio").value;onModelo();

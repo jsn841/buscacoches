@@ -36,6 +36,11 @@ jobs:
           cache: pip
           cache-dependency-path: scraper/requirements.txt
 
+      - name: Recuperar los datos de la última noche
+        run: |
+          git fetch --depth 1 origin datos-ocasion && git checkout FETCH_HEAD -- datos/ocasion datos/slugs_webs.json || echo "Primera ejecución: sin datos previos"
+          git reset -q
+
       - name: Instalar dependencias
         run: pip install -r scraper/requirements.txt
 
@@ -52,24 +57,16 @@ jobs:
               print(f"::notice title={w}::{i['anuncios']} anuncios en {i['modelos_con_anuncios']} modelos, {i['peticiones']} peticiones, errores {i['errores_http']}, {i['resumen']}, bloqueada={i['bloqueada']}")
           PY
 
-      - name: Guardar resultados en el repositorio
+      - name: Guardar resultados en la rama datos-ocasion
         run: |
-          set -x
           git config user.name "buscacoches-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p datos/ocasion
-          git add -A datos debug 2>&1 || echo "::warning::git add falló"
-          if git diff --cached --quiet; then
-            echo "::notice::Sin cambios que guardar"
-            exit 0
+          git checkout -q -B datos-ocasion
+          git add -A datos debug 2>/dev/null || git add -A datos
+          git commit -q -m "Datos de ocasión $(date -u +%F) (${{ github.event_name }})" || { echo "::notice::Sin cambios"; exit 0; }
+          if OUT=$(git push --force origin datos-ocasion 2>&1); then
+            echo "::notice::Resultados guardados en la rama datos-ocasion"
+          else
+            echo "::error title=No se pudieron guardar los datos::$(echo "$OUT" | tail -4 | tr '\n' ' ')"
+            exit 1
           fi
-          git commit -q -m "Datos de ocasión $(date -u +%F) (${{ github.event_name }})"
-          for i in 1 2 3; do
-            if OUT=$(git pull --rebase origin main 2>&1 && git push origin HEAD:main 2>&1); then
-              echo "::notice::Resultados guardados"
-              exit 0
-            fi
-            echo "::warning title=Intento $i::$(echo "$OUT" | tail -5 | tr '\n' ' ')"
-            sleep 10
-          done
-          exit 1
