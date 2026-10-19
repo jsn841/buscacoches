@@ -125,6 +125,7 @@ class Cliente:
         self.errores = collections.Counter()
         self.bloqueos_seguidos = 0
         self.bloqueada = False
+        self.robots_http = None
 
     def permitido(self, url):
         p = urllib.parse.urlsplit(url)
@@ -133,13 +134,15 @@ class Cliente:
             rp = urllib.robotparser.RobotFileParser()
             try:
                 r = self.s.get(base + "/robots.txt", timeout=20)
+                self.robots_http = r.status_code
                 if r.status_code in (401, 403):
                     rp.parse(["User-agent: *", "Disallow: /"])
                 elif r.status_code >= 400:
                     rp.parse([])
                 else:
                     rp.parse(r.text.splitlines())
-            except requests.RequestException:
+            except requests.RequestException as e:
+                self.robots_http = type(e).__name__
                 rp.parse([])
             self.robots[base] = rp
         return self.robots[base].can_fetch(UA_TOKEN, url)
@@ -350,7 +353,7 @@ def hilo_web(web, cfg, tareas, catalogo, max_pag, limite, resultados, informe, s
             break
     informe[web] = {"tipo": cfg["tipo"], "peticiones": cli.peticiones, "modelos_con_anuncios": n_mod,
                     "anuncios": n_anun, "errores_http": dict(cli.errores), "resumen": dict(notas),
-                    "bloqueada": cli.bloqueada}
+                    "bloqueada": cli.bloqueada, "robots_http": cli.robots_http}
 
 
 # ---------------------------------------------------------------- unir y guardar

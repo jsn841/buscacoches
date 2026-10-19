@@ -55,22 +55,44 @@ jobs:
           d = json.load(open("datos/informe.json"))
           print(f"::notice title=Resumen::{d['modelos_con_datos']} de {d['modelos_pedidos']} modelos con datos en {d['minutos']} min")
           for w, i in d["webs"].items():
-              print(f"::notice title={w}::{i['anuncios']} anuncios en {i['modelos_con_anuncios']} modelos, {i['peticiones']} peticiones, errores {i['errores_http']}, {i['resumen']}, bloqueada={i['bloqueada']}")
+              print(f"::notice title={w}::{i['anuncios']} anuncios en {i['modelos_con_anuncios']} modelos, {i['peticiones']} peticiones, errores {i['errores_http']}, {i['resumen']}, bloqueada={i['bloqueada']}, robots.txt HTTP {i.get('robots_http')}")
           if os.path.exists("debug/muestras.json"):
               for m in json.load(open("debug/muestras.json")):
                   print(f"::notice title=Muestra {m['web']} {m['archivo']}::{m['anuncios_extraidos']} anuncios vía {m['via']}, {m['bytes']} bytes, {m['scripts']} scripts. Ejemplos: {' // '.join(m['ejemplos'])}")
           PY
 
+      - name: Guardar muestras de páginas para revisar la lectura
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: muestras-${{ github.run_id }}
+          path: debug/
+          retention-days: 7
+          if-no-files-found: ignore
+
       - name: Guardar resultados en la rama datos-ocasion
         run: |
           git config user.name "buscacoches-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -q -B datos-ocasion
-          git add -A datos debug 2>/dev/null || git add -A datos
+          # Solo se guardan los datos (sin las páginas de muestra) y sin forzar: cada noche se añade
+          # un commit encima del anterior.
+          R=$(mktemp -d)
+          cp -r datos/ocasion "$R/" && cp datos/informe.json "$R/"
+          cp datos/slugs_webs.json "$R/" 2>/dev/null || true
+          if git fetch -q origin datos-ocasion; then
+            git checkout -q -f -B datos-ocasion FETCH_HEAD
+          else
+            git checkout -q -f -B datos-ocasion
+          fi
+          rm -rf datos/ocasion debug
+          cp -r "$R/ocasion" datos/ && cp "$R/informe.json" datos/
+          cp "$R/slugs_webs.json" datos/ 2>/dev/null || true
+          git add -A datos
           git commit -q -m "Datos de ocasión $(date -u +%F) (${{ github.event_name }})" || { echo "::notice::Sin cambios"; exit 0; }
-          if OUT=$(git push --force origin datos-ocasion 2>&1); then
+          if OUT=$(git push origin datos-ocasion 2>&1); then
             echo "::notice::Resultados guardados en la rama datos-ocasion"
           else
-            echo "::error title=No se pudieron guardar los datos::$(echo "$OUT" | tail -4 | tr '\n' ' ')"
+            echo "$OUT"
+            echo "::error title=No se pudieron guardar los datos::$(echo "$OUT" | grep -v '^remote: *$' | tr '\n' ' ' | cut -c1-900)"
             exit 1
           fi
