@@ -1,0 +1,4326 @@
+{
+"BMW Premium Selection|BMW|M": [
+null,
+"m"
+],
+"BMW Premium Selection|BMW|Serie 1": [
+null,
+"serie-1"
+],
+"BMW Premium Selection|BMW|Serie 2": [
+null,
+"serie-2"
+],
+"BMW Premium Selection|BMW|Serie 3": [
+null,
+"serie-3"
+],
+"BMW Premium Selection|BMW|Serie 4": [
+null,
+"serie-4"
+],
+"BMW Premium Selection|BMW|Serie 5": [
+null,
+"serie-5"
+],
+"BMW Premium Selection|BMW|Serie 6": [
+null,
+"serie-6"
+],
+"BMW Premium Selection|BMW|Serie 7": [
+null,
+"serie-7"
+],
+"BMW Premium Selection|BMW|Serie 8": [
+null,
+"serie-8"
+],
+"BMW Premium Selection|BMW|X1": [
+null,
+"x1"
+],
+"BMW Premium Selection|BMW|X2": [
+null,
+"x2"
+],
+"BMW Premium Selection|BMW|X3": [
+null,
+"x3"
+],
+"BMW Premium Selection|BMW|X4": [
+null,
+"x4"
+],
+"BMW Premium Selection|BMW|X5": [
+null,
+"x5"
+],
+"BMW Premium Selection|BMW|X6": [
+null,
+"x6"
+],
+"BMW Premium Selection|BMW|X7": [
+null,
+"x7"
+],
+"BMW Premium Selection|BMW|XM": [
+null,
+"xm"
+],
+"BMW Premium Selection|BMW|Z4": [
+null,
+"z4"
+],
+"BMW Premium Selection|BMW|i3": [
+null,
+"i3"
+],
+"BMW Premium Selection|BMW|i4": [
+null,
+"i4"
+],
+"BMW Premium Selection|BMW|i5": [
+null,
+"i5"
+],
+"BMW Premium Selection|BMW|i7": [
+null,
+"i7"
+],
+"BMW Premium Selection|BMW|iX": [
+null,
+"ix"
+],
+"BMW Premium Selection|BMW|iX1": [
+null,
+"ix1"
+],
+"BMW Premium Selection|BMW|iX2": [
+null,
+"ix2"
+],
+"BMW Premium Selection|BMW|iX3": [
+null,
+"ix3"
+],
+"Renew|Dacia|Bigster": [
+"DACIA",
+"BIGSTER"
+],
+"Renew|Dacia|Dokker": [
+"DACIA",
+"DOKKER"
+],
+"Renew|Dacia|Duster": [
+"DACIA",
+"DUSTER"
+],
+"Renew|Dacia|Jogger": [
+"DACIA",
+"JOGGER"
+],
+"Renew|Dacia|Lodgy": [
+"DACIA",
+"LODGY"
+],
+"Renew|Dacia|Logan": [
+"DACIA",
+"LOGAN"
+],
+"Renew|Dacia|Logan MCV": [
+"DACIA",
+"LOGAN MCV"
+],
+"Renew|Dacia|Sandero": [
+"DACIA",
+"SANDERO"
+],
+"Renew|Dacia|Spring": [
+"DACIA",
+"SPRING"
+],
+"Renew|Renault|4 E-Tech": [
+"RENAULT",
+"R4 E-TECH ELÉCTRICO"
+],
+"Renew|Renault|5 E-Tech": [
+"RENAULT",
+"R5 E-TECH ELÉCTRICO"
+],
+"Renew|Renault|Arkana": [
+"RENAULT",
+"ARKANA"
+],
+"Renew|Renault|Austral": [
+"RENAULT",
+"AUSTRAL"
+],
+"Renew|Renault|Captur": [
+"RENAULT",
+"CAPTUR"
+],
+"Renew|Renault|Clio": [
+"RENAULT",
+"CLIO"
+],
+"Renew|Renault|Espace": [
+"RENAULT",
+"ESPACE"
+],
+"Renew|Renault|Grand Scénic": [
+"RENAULT",
+"GRAND SCÉNIC"
+],
+"Renew|Renault|Kadjar": [
+"RENAULT",
+"KADJAR"
+],
+"Renew|Renault|Kangoo Combi": [
+"RENAULT",
+"KANGOO COMBI"
+],
+"Renew|Renault|Koleos": [
+"RENAULT",
+"KOLEOS"
+],
+"Renew|Renault|Megane": [
+"RENAULT",
+"MEGANE"
+],
+"Renew|Renault|Megane Sport Tourer": [
+"RENAULT",
+"MEGANE SPORT TOURER"
+],
+"Renew|Renault|Rafale": [
+"RENAULT",
+"RAFALE"
+],
+"Renew|Renault|Scenic E-Tech": [
+"RENAULT",
+"SCENIC E-TECH ELÉCTRICO"
+],
+"Renew|Renault|Scénic": [
+"RENAULT",
+"SCÉNIC"
+],
+"Renew|Renault|Symbioz": [
+"RENAULT",
+"SYMBIOZ"
+],
+"Renew|Renault|Trafic": [
+"RENAULT",
+"TRAFIC COMBI"
+],
+"Renew|Renault|Twingo E-Tech": [
+"RENAULT",
+"TWINGO"
+],
+"Renew|Renault|Twizy": [
+"RENAULT",
+"TWIZY"
+],
+"Renew|Renault|Zoe": [
+"RENAULT",
+"ZOE"
+],
+"coches.com|Abarth|500": [
+"abarth",
+"500"
+],
+"coches.com|Abarth|600": [
+"abarth",
+"600"
+],
+"coches.com|Alfa Romeo|Giulia": [
+"alfa-romeo",
+"giulia"
+],
+"coches.com|Alfa Romeo|Junior": [
+"alfa-romeo",
+"junior"
+],
+"coches.com|Alfa Romeo|Stelvio": [
+"alfa-romeo",
+"stelvio"
+],
+"coches.com|Alfa Romeo|Tonale": [
+"alfa-romeo",
+"tonale"
+],
+"coches.com|Alpine|A110": [
+"alpine",
+"a110"
+],
+"coches.com|Alpine|A290": [
+"alpine",
+"a290"
+],
+"coches.com|Aston Martin|DB12": [
+"aston-martin",
+"db12"
+],
+"coches.com|Aston Martin|DBX": [
+"aston-martin",
+"dbx"
+],
+"coches.com|Aston Martin|Vantage": [
+"aston-martin",
+"vantage"
+],
+"coches.com|Audi|A1": [
+"audi",
+"a1"
+],
+"coches.com|Audi|A2 e-tron": [
+"audi",
+"a2-e-tron"
+],
+"coches.com|Audi|A3": [
+"audi",
+"a3"
+],
+"coches.com|Audi|A5": [
+"audi",
+"a5"
+],
+"coches.com|Audi|A6": [
+"audi",
+"a6"
+],
+"coches.com|Audi|A8": [
+"audi",
+"a8"
+],
+"coches.com|Audi|Q2": [
+"audi",
+"q2"
+],
+"coches.com|Audi|Q3": [
+"audi",
+"q3"
+],
+"coches.com|Audi|Q3 Sportback": [
+"audi",
+"q3-sportback"
+],
+"coches.com|Audi|Q4 e-tron": [
+"audi",
+"q4-e-tron"
+],
+"coches.com|Audi|Q5": [
+"audi",
+"q5"
+],
+"coches.com|Audi|Q5 Sportback": [
+"audi",
+"q5-sportback"
+],
+"coches.com|Audi|Q6 e-tron": [
+"audi",
+"q6-e-tron"
+],
+"coches.com|Audi|Q7": [
+"audi",
+"q7"
+],
+"coches.com|Audi|Q8": [
+"audi",
+"q8"
+],
+"coches.com|Audi|e-tron GT": [
+"audi",
+"e-tron-gt"
+],
+"coches.com|BMW|Serie 1": [
+"bmw",
+"serie-1"
+],
+"coches.com|BMW|Serie 2": [
+"bmw",
+"serie-2"
+],
+"coches.com|BMW|Serie 2 Active Tourer": [
+"bmw",
+"serie-2-active-tourer"
+],
+"coches.com|BMW|Serie 3": [
+"bmw",
+"serie-3"
+],
+"coches.com|BMW|Serie 4": [
+"bmw",
+"serie-4"
+],
+"coches.com|BMW|Serie 5": [
+"bmw",
+"serie-5"
+],
+"coches.com|BMW|Serie 6": [
+"bmw",
+"serie-6"
+],
+"coches.com|BMW|Serie 7": [
+"bmw",
+"serie-7"
+],
+"coches.com|BMW|Serie 8": [
+"bmw",
+"serie-8"
+],
+"coches.com|BMW|X1": [
+"bmw",
+"x1"
+],
+"coches.com|BMW|X2": [
+"bmw",
+"x2"
+],
+"coches.com|BMW|X3": [
+"bmw",
+"x3"
+],
+"coches.com|BMW|X4": [
+"bmw",
+"x4"
+],
+"coches.com|BMW|X5": [
+"bmw",
+"x5"
+],
+"coches.com|BMW|X6": [
+"bmw",
+"x6"
+],
+"coches.com|BMW|X7": [
+"bmw",
+"x7"
+],
+"coches.com|BMW|XM": [
+"bmw",
+"xm"
+],
+"coches.com|BMW|Z4": [
+"bmw",
+"z4"
+],
+"coches.com|BMW|i3": [
+"bmw",
+"i3"
+],
+"coches.com|BMW|i4": [
+"bmw",
+"i4"
+],
+"coches.com|BMW|iX": [
+"bmw",
+"ix"
+],
+"coches.com|BMW|iX3": [
+"bmw",
+"ix3"
+],
+"coches.com|BYD|Atto 2": [
+"byd",
+"atto-2"
+],
+"coches.com|BYD|Atto 3": [
+"byd",
+"atto-3"
+],
+"coches.com|BYD|Dolphin": [
+"byd",
+"dolphin"
+],
+"coches.com|BYD|Dolphin G": [
+"byd",
+"dolphin-g"
+],
+"coches.com|BYD|Dolphin Surf": [
+"byd",
+"dolphin-surf"
+],
+"coches.com|BYD|Seal": [
+"byd",
+"seal"
+],
+"coches.com|BYD|Seal 6 DM-i": [
+"byd",
+"seal-6-dm-i"
+],
+"coches.com|BYD|Seal U": [
+"byd",
+"seal-u"
+],
+"coches.com|BYD|Seal U DM-i": [
+"byd",
+"seal-u-dm-i"
+],
+"coches.com|BYD|Sealion 7": [
+"byd",
+"sealion-7"
+],
+"coches.com|BYD|Tang": [
+"byd",
+"tang"
+],
+"coches.com|Bentley|Bentayga": [
+"bentley",
+"bentayga"
+],
+"coches.com|Bentley|Continental GT": [
+"bentley",
+"continental-gt"
+],
+"coches.com|Bentley|Flying Spur": [
+"bentley",
+"flying-spur"
+],
+"coches.com|Bestune|B70": [
+"bestune",
+"b70"
+],
+"coches.com|Bestune|Joyee 07": [
+"bestune",
+"joyee-07"
+],
+"coches.com|Bestune|T77": [
+"bestune",
+"t77"
+],
+"coches.com|Bestune|T90": [
+"bestune",
+"t90"
+],
+"coches.com|Changan|Deepal S05": [
+"changan",
+"deepal-s05"
+],
+"coches.com|Changan|Deepal S07": [
+"changan",
+"deepal-s07"
+],
+"coches.com|Citroën|Berlingo": [
+"citroen",
+"berlingo"
+],
+"coches.com|Citroën|C3": [
+"citroen",
+"c3"
+],
+"coches.com|Citroën|C3 Aircross": [
+"citroen",
+"c3-aircross"
+],
+"coches.com|Citroën|C4": [
+"citroen",
+"c4"
+],
+"coches.com|Citroën|C4 X": [
+"citroen",
+"c4-x"
+],
+"coches.com|Citroën|C5 Aircross": [
+"citroen",
+"c5-aircross"
+],
+"coches.com|Citroën|C5 X": [
+"citroen",
+"c5-x"
+],
+"coches.com|Citroën|Spacetourer": [
+"citroen",
+"spacetourer"
+],
+"coches.com|Cupra|Ateca": [
+"cupra",
+"ateca"
+],
+"coches.com|Cupra|Born": [
+"cupra",
+"born"
+],
+"coches.com|Cupra|Formentor": [
+"cupra",
+"formentor"
+],
+"coches.com|Cupra|León": [
+"cupra",
+"leon"
+],
+"coches.com|Cupra|Raval": [
+"cupra",
+"raval"
+],
+"coches.com|Cupra|Tavascan": [
+"cupra",
+"tavascan"
+],
+"coches.com|Cupra|Terramar": [
+"cupra",
+"terramar"
+],
+"coches.com|DFSK|500": [
+"dfsk",
+"500"
+],
+"coches.com|DFSK|580": [
+"dfsk",
+"580"
+],
+"coches.com|DFSK|600": [
+"dfsk",
+"600"
+],
+"coches.com|DFSK|E5": [
+"dfsk",
+"e5"
+],
+"coches.com|DFSK|F5": [
+"dfsk",
+"f5"
+],
+"coches.com|DR|DR 5": [
+"dr",
+"dr-5"
+],
+"coches.com|DR|DR 6": [
+"dr",
+"dr-6"
+],
+"coches.com|DS|DS 3": [
+"ds",
+"ds-3"
+],
+"coches.com|DS|DS 7": [
+"ds",
+"ds-7"
+],
+"coches.com|DS|Nº8": [
+"ds",
+"n8"
+],
+"coches.com|Dacia|Bigster": [
+"dacia",
+"bigster"
+],
+"coches.com|Dacia|Dokker": [
+"dacia",
+"dokker"
+],
+"coches.com|Dacia|Duster": [
+"dacia",
+"duster"
+],
+"coches.com|Dacia|Jogger": [
+"dacia",
+"jogger"
+],
+"coches.com|Dacia|Lodgy": [
+"dacia",
+"lodgy"
+],
+"coches.com|Dacia|Logan": [
+"dacia",
+"logan"
+],
+"coches.com|Dacia|Sandero": [
+"dacia",
+"sandero"
+],
+"coches.com|Dacia|Spring": [
+"dacia",
+"spring"
+],
+"coches.com|Denza|Z9 GT": [
+"denza",
+"z9-gt"
+],
+"coches.com|Dongfeng|Box": [
+"dongfeng",
+"box"
+],
+"coches.com|EVO|Cuatro": [
+"evo",
+"cuatro"
+],
+"coches.com|EVO|EVO3": [
+"evo",
+"evo3"
+],
+"coches.com|EVO|EVO4": [
+"evo",
+"evo4"
+],
+"coches.com|EVO|EVO6": [
+"evo",
+"evo6"
+],
+"coches.com|Ebro|S400": [
+"ebro",
+"s400"
+],
+"coches.com|Ebro|S700": [
+"ebro",
+"s700"
+],
+"coches.com|Ebro|S800": [
+"ebro",
+"s800"
+],
+"coches.com|Ebro|S900": [
+"ebro",
+"s900"
+],
+"coches.com|Ferrari|296": [
+"ferrari",
+"296"
+],
+"coches.com|Ferrari|Purosangue": [
+"ferrari",
+"purosangue"
+],
+"coches.com|Ferrari|SF90": [
+"ferrari",
+"sf90"
+],
+"coches.com|Fiat|500": [
+"fiat",
+"500"
+],
+"coches.com|Fiat|600": [
+"fiat",
+"600"
+],
+"coches.com|Fiat|Doblò": [
+"fiat",
+"doblo"
+],
+"coches.com|Fiat|Grande Panda": [
+"fiat",
+"grande-panda"
+],
+"coches.com|Fiat|Pandina": [
+"fiat",
+"pandina"
+],
+"coches.com|Fiat|Qubo L": [
+"fiat",
+"qubo-l"
+],
+"coches.com|Fiat|Tipo": [
+"fiat",
+"tipo"
+],
+"coches.com|Fiat|Ulysse": [
+"fiat",
+"ulysse"
+],
+"coches.com|Ford|Bronco": [
+"ford",
+"bronco"
+],
+"coches.com|Ford|Capri": [
+"ford",
+"capri"
+],
+"coches.com|Ford|Explorer EV": [
+"ford",
+"explorer-ev"
+],
+"coches.com|Ford|Focus": [
+"ford",
+"focus"
+],
+"coches.com|Ford|Kuga": [
+"ford",
+"kuga"
+],
+"coches.com|Ford|Mustang": [
+"ford",
+"mustang"
+],
+"coches.com|Ford|Mustang Mach-E": [
+"ford",
+"mustang-mach-e"
+],
+"coches.com|Ford|Puma": [
+"ford",
+"puma"
+],
+"coches.com|Ford|Tourneo Connect": [
+"ford",
+"tourneo-connect"
+],
+"coches.com|Ford|Tourneo Courier": [
+"ford",
+"tourneo-courier"
+],
+"coches.com|Ford|Tourneo Custom": [
+"ford",
+"tourneo-custom"
+],
+"coches.com|GWM|Ora 5": [
+"gwm",
+"ora-5"
+],
+"coches.com|Geely|E2": [
+"geely",
+"e2"
+],
+"coches.com|Geely|Starray EM-i": [
+"geely",
+"starray-em-i"
+],
+"coches.com|Honda|CR-V": [
+"honda",
+"cr-v"
+],
+"coches.com|Honda|Civic": [
+"honda",
+"civic"
+],
+"coches.com|Honda|HR-V": [
+"honda",
+"hr-v"
+],
+"coches.com|Honda|Jazz": [
+"honda",
+"jazz"
+],
+"coches.com|Honda|Prelude": [
+"honda",
+"prelude"
+],
+"coches.com|Honda|ZR-V": [
+"honda",
+"zr-v"
+],
+"coches.com|Hyundai|Bayon": [
+"hyundai",
+"bayon"
+],
+"coches.com|Hyundai|IONIQ 5": [
+"hyundai",
+"ioniq-5"
+],
+"coches.com|Hyundai|IONIQ 6": [
+"hyundai",
+"ioniq-6"
+],
+"coches.com|Hyundai|IONIQ 9": [
+"hyundai",
+"ioniq-9"
+],
+"coches.com|Hyundai|Inster": [
+"hyundai",
+"inster"
+],
+"coches.com|Hyundai|Kona": [
+"hyundai",
+"kona"
+],
+"coches.com|Hyundai|Santa Fe": [
+"hyundai",
+"santa-fe"
+],
+"coches.com|Hyundai|Staria": [
+"hyundai",
+"staria"
+],
+"coches.com|Hyundai|Tucson": [
+"hyundai",
+"tucson"
+],
+"coches.com|Hyundai|i10": [
+"hyundai",
+"i10"
+],
+"coches.com|Hyundai|i20": [
+"hyundai",
+"i20"
+],
+"coches.com|Hyundai|i30": [
+"hyundai",
+"i30"
+],
+"coches.com|ICH-X|K2": [
+"ich-x",
+"k2"
+],
+"coches.com|ICH-X|K3": [
+"ich-x",
+"k3"
+],
+"coches.com|Ineos|Grenadier": [
+"ineos",
+"grenadier"
+],
+"coches.com|Jaecoo|5": [
+"jaecoo",
+"5"
+],
+"coches.com|Jaecoo|7": [
+"jaecoo",
+"7"
+],
+"coches.com|Jeep|Avenger": [
+"jeep",
+"avenger"
+],
+"coches.com|Jeep|Compass": [
+"jeep",
+"compass"
+],
+"coches.com|Jeep|Grand Cherokee": [
+"jeep",
+"grand-cherokee"
+],
+"coches.com|Jeep|Renegade": [
+"jeep",
+"renegade"
+],
+"coches.com|Jeep|Wrangler": [
+"jeep",
+"wrangler"
+],
+"coches.com|Kia|Ceed": [
+"kia",
+"ceed"
+],
+"coches.com|Kia|EV2": [
+"kia",
+"ev2"
+],
+"coches.com|Kia|EV3": [
+"kia",
+"ev3"
+],
+"coches.com|Kia|EV4": [
+"kia",
+"ev4"
+],
+"coches.com|Kia|EV5": [
+"kia",
+"ev5"
+],
+"coches.com|Kia|EV6": [
+"kia",
+"ev6"
+],
+"coches.com|Kia|EV9": [
+"kia",
+"ev9"
+],
+"coches.com|Kia|K4": [
+"kia",
+"k4"
+],
+"coches.com|Kia|Niro": [
+"kia",
+"niro"
+],
+"coches.com|Kia|PV5": [
+"kia",
+"pv5"
+],
+"coches.com|Kia|Picanto": [
+"kia",
+"picanto"
+],
+"coches.com|Kia|Seltos": [
+"kia",
+"seltos"
+],
+"coches.com|Kia|Sorento": [
+"kia",
+"sorento"
+],
+"coches.com|Kia|Sportage": [
+"kia",
+"sportage"
+],
+"coches.com|Kia|Stonic": [
+"kia",
+"stonic"
+],
+"coches.com|Kia|XCeed": [
+"kia",
+"xceed"
+],
+"coches.com|Lamborghini|Urus": [
+"lamborghini",
+"urus"
+],
+"coches.com|Lancia|Ypsilon": [
+"lancia",
+"ypsilon"
+],
+"coches.com|Land Rover|Defender": [
+"land-rover",
+"defender"
+],
+"coches.com|Land Rover|Discovery": [
+"land-rover",
+"discovery"
+],
+"coches.com|Land Rover|Discovery Sport": [
+"land-rover",
+"discovery-sport"
+],
+"coches.com|Land Rover|Range Rover": [
+"land-rover",
+"range-rover"
+],
+"coches.com|Land Rover|Range Rover Evoque": [
+"land-rover",
+"range-rover-evoque"
+],
+"coches.com|Land Rover|Range Rover Sport": [
+"land-rover",
+"range-rover-sport"
+],
+"coches.com|Land Rover|Range Rover Velar": [
+"land-rover",
+"range-rover-velar"
+],
+"coches.com|Leapmotor|B03X": [
+"leapmotor",
+"b03x"
+],
+"coches.com|Leapmotor|B05": [
+"leapmotor",
+"b05"
+],
+"coches.com|Leapmotor|B10": [
+"leapmotor",
+"b10"
+],
+"coches.com|Leapmotor|C10": [
+"leapmotor",
+"c10"
+],
+"coches.com|Leapmotor|T03": [
+"leapmotor",
+"t03"
+],
+"coches.com|Lepas|L8": [
+"lepas",
+"l8"
+],
+"coches.com|Lexus|ES": [
+"lexus",
+"es"
+],
+"coches.com|Lexus|LBX": [
+"lexus",
+"lbx"
+],
+"coches.com|Lexus|LM": [
+"lexus",
+"lm"
+],
+"coches.com|Lexus|LS": [
+"lexus",
+"ls"
+],
+"coches.com|Lexus|NX": [
+"lexus",
+"nx"
+],
+"coches.com|Lexus|RX": [
+"lexus",
+"rx"
+],
+"coches.com|Lexus|RZ": [
+"lexus",
+"rz"
+],
+"coches.com|Lexus|UX": [
+"lexus",
+"ux"
+],
+"coches.com|Livan|X3 Pro": [
+"livan",
+"x3-pro"
+],
+"coches.com|Livan|X6 Pro": [
+"livan",
+"x6-pro"
+],
+"coches.com|Lynk & Co|01": [
+"lynk-co",
+"01"
+],
+"coches.com|Lynk & Co|02": [
+"lynk-co",
+"02"
+],
+"coches.com|Lynk & Co|08": [
+"lynk-co",
+"08"
+],
+"coches.com|MG|Cyberster": [
+"mg",
+"cyberster"
+],
+"coches.com|MG|HS": [
+"mg",
+"hs"
+],
+"coches.com|MG|MG3": [
+"mg",
+"mg3"
+],
+"coches.com|MG|ZS": [
+"mg",
+"zs"
+],
+"coches.com|Maserati|Grecale": [
+"maserati",
+"grecale"
+],
+"coches.com|Mazda|CX-30": [
+"mazda",
+"cx-30"
+],
+"coches.com|Mazda|CX-5": [
+"mazda",
+"cx-5"
+],
+"coches.com|Mazda|CX-60": [
+"mazda",
+"cx-60"
+],
+"coches.com|Mazda|CX-6e": [
+"mazda",
+"cx-6e"
+],
+"coches.com|Mazda|CX-80": [
+"mazda",
+"cx-80"
+],
+"coches.com|Mazda|MX-5": [
+"mazda",
+"mx-5"
+],
+"coches.com|Mazda|Mazda2": [
+"mazda",
+"mazda2"
+],
+"coches.com|Mazda|Mazda3": [
+"mazda",
+"mazda3"
+],
+"coches.com|Mercedes-Benz|AMG GT": [
+"mercedes",
+"amg-gt"
+],
+"coches.com|Mercedes-Benz|AMG SL": [
+"mercedes",
+"amg-sl"
+],
+"coches.com|Mercedes-Benz|Citan": [
+"mercedes",
+"citan"
+],
+"coches.com|Mercedes-Benz|Clase A": [
+"mercedes-benz",
+"clase-a"
+],
+"coches.com|Mercedes-Benz|Clase B": [
+"mercedes-benz",
+"clase-b"
+],
+"coches.com|Mercedes-Benz|Clase C": [
+"mercedes-benz",
+"clase-c"
+],
+"coches.com|Mercedes-Benz|Clase E": [
+"mercedes-benz",
+"clase-e"
+],
+"coches.com|Mercedes-Benz|Clase G": [
+"mercedes",
+"clase-g"
+],
+"coches.com|Mercedes-Benz|Clase S": [
+"mercedes",
+"clase-s"
+],
+"coches.com|Mercedes-Benz|Clase T": [
+"mercedes",
+"clase-t"
+],
+"coches.com|Mercedes-Benz|Clase V": [
+"mercedes",
+"clase-v"
+],
+"coches.com|Mercedes-Benz|EQA": [
+"mercedes",
+"eqa"
+],
+"coches.com|Mercedes-Benz|EQB": [
+"mercedes",
+"eqb"
+],
+"coches.com|Mercedes-Benz|EQE": [
+"mercedes",
+"eqe"
+],
+"coches.com|Mercedes-Benz|EQE SUV": [
+"mercedes",
+"eqe-suv"
+],
+"coches.com|Mercedes-Benz|EQS": [
+"mercedes",
+"eqs"
+],
+"coches.com|Mercedes-Benz|GLA": [
+"mercedes-benz",
+"gla"
+],
+"coches.com|Mercedes-Benz|GLC": [
+"mercedes-benz",
+"glc"
+],
+"coches.com|Mercedes-Benz|GLC Coupé": [
+"mercedes-benz",
+"glc-coupe"
+],
+"coches.com|Mercedes-Benz|Vito": [
+"mercedes",
+"vito"
+],
+"coches.com|Mini|Aceman": [
+"mini",
+"aceman"
+],
+"coches.com|Mini|Cooper": [
+"mini",
+"cooper"
+],
+"coches.com|Mini|Countryman": [
+"mini",
+"countryman"
+],
+"coches.com|Mitsubishi|ASX": [
+"mitsubishi",
+"asx"
+],
+"coches.com|Mitsubishi|Colt": [
+"mitsubishi",
+"colt"
+],
+"coches.com|Mitsubishi|Eclipse Cross": [
+"mitsubishi",
+"eclipse-cross"
+],
+"coches.com|Mitsubishi|Grandis": [
+"mitsubishi",
+"grandis"
+],
+"coches.com|Mitsubishi|Outlander": [
+"mitsubishi",
+"outlander"
+],
+"coches.com|Nissan|Ariya": [
+"nissan",
+"ariya"
+],
+"coches.com|Nissan|Juke": [
+"nissan",
+"juke"
+],
+"coches.com|Nissan|Leaf": [
+"nissan",
+"leaf"
+],
+"coches.com|Nissan|Micra": [
+"nissan",
+"micra"
+],
+"coches.com|Nissan|Primastar": [
+"nissan",
+"primastar"
+],
+"coches.com|Nissan|Qashqai": [
+"nissan",
+"qashqai"
+],
+"coches.com|Nissan|Townstar": [
+"nissan",
+"townstar"
+],
+"coches.com|Nissan|X-Trail": [
+"nissan",
+"x-trail"
+],
+"coches.com|Omoda|5": [
+"omoda",
+"5"
+],
+"coches.com|Opel|Astra": [
+"opel",
+"astra"
+],
+"coches.com|Opel|Combo": [
+"opel",
+"combo"
+],
+"coches.com|Opel|Corsa": [
+"opel",
+"corsa"
+],
+"coches.com|Opel|Frontera": [
+"opel",
+"frontera"
+],
+"coches.com|Opel|Grandland": [
+"opel",
+"grandland"
+],
+"coches.com|Opel|Mokka": [
+"opel",
+"mokka"
+],
+"coches.com|Opel|Zafira": [
+"opel",
+"zafira"
+],
+"coches.com|Peugeot|2008": [
+"peugeot",
+"2008"
+],
+"coches.com|Peugeot|208": [
+"peugeot",
+"208"
+],
+"coches.com|Peugeot|3008 Hybrid": [
+"peugeot",
+"3008-hybrid"
+],
+"coches.com|Peugeot|3008 Plug-in Hybrid": [
+"peugeot",
+"3008-plug-in-hybrid"
+],
+"coches.com|Peugeot|308": [
+"peugeot",
+"308"
+],
+"coches.com|Peugeot|408": [
+"peugeot",
+"408"
+],
+"coches.com|Peugeot|508 Hybrid": [
+"peugeot",
+"508-hybrid"
+],
+"coches.com|Peugeot|Rifter": [
+"peugeot",
+"rifter"
+],
+"coches.com|Peugeot|Traveller": [
+"peugeot",
+"traveller"
+],
+"coches.com|Polestar|2": [
+"polestar",
+"2"
+],
+"coches.com|Polestar|4": [
+"polestar",
+"4"
+],
+"coches.com|Porsche|911": [
+"porsche",
+"911"
+],
+"coches.com|Porsche|Cayenne": [
+"porsche",
+"cayenne"
+],
+"coches.com|Porsche|Cayenne Coupé": [
+"porsche",
+"cayenne-coupe"
+],
+"coches.com|Porsche|Macan": [
+"porsche",
+"macan"
+],
+"coches.com|Porsche|Panamera": [
+"porsche",
+"panamera"
+],
+"coches.com|Porsche|Taycan": [
+"porsche",
+"taycan"
+],
+"coches.com|Renault|Arkana": [
+"renault",
+"arkana"
+],
+"coches.com|Renault|Austral": [
+"renault",
+"austral"
+],
+"coches.com|Renault|Captur": [
+"renault",
+"captur"
+],
+"coches.com|Renault|Clio": [
+"renault",
+"clio"
+],
+"coches.com|Renault|Espace": [
+"renault",
+"espace"
+],
+"coches.com|Renault|Kadjar": [
+"renault",
+"kadjar"
+],
+"coches.com|Renault|Kangoo Combi": [
+"renault",
+"kangoo-combi"
+],
+"coches.com|Renault|Koleos": [
+"renault",
+"koleos"
+],
+"coches.com|Renault|Megane": [
+"renault",
+"megane"
+],
+"coches.com|Renault|Megane Sport Tourer": [
+"renault",
+"megane-sport-tourer"
+],
+"coches.com|Renault|Rafale": [
+"renault",
+"rafale"
+],
+"coches.com|Renault|Scénic": [
+"renault",
+"scenic"
+],
+"coches.com|Renault|Symbioz": [
+"renault",
+"symbioz"
+],
+"coches.com|Renault|Trafic": [
+"renault",
+"trafic"
+],
+"coches.com|Renault|Twingo E-Tech": [
+"renault",
+"twingo-e-tech"
+],
+"coches.com|Renault|Twizy": [
+"renault",
+"twizy"
+],
+"coches.com|Renault|Zoe": [
+"renault",
+"zoe"
+],
+"coches.com|SEAT|Arona": [
+"seat",
+"arona"
+],
+"coches.com|SEAT|Ateca": [
+"seat",
+"ateca"
+],
+"coches.com|SEAT|Ibiza": [
+"seat",
+"ibiza"
+],
+"coches.com|SEAT|León": [
+"seat",
+"leon"
+],
+"coches.com|Seres|3": [
+"seres",
+"3"
+],
+"coches.com|Seres|5": [
+"seres",
+"5"
+],
+"coches.com|Skoda|Elroq": [
+"skoda",
+"elroq"
+],
+"coches.com|Skoda|Enyaq": [
+"skoda",
+"enyaq"
+],
+"coches.com|Skoda|Fabia": [
+"skoda",
+"fabia"
+],
+"coches.com|Skoda|Kamiq": [
+"skoda",
+"kamiq"
+],
+"coches.com|Skoda|Karoq": [
+"skoda",
+"karoq"
+],
+"coches.com|Skoda|Kodiaq": [
+"skoda",
+"kodiaq"
+],
+"coches.com|Skoda|Octavia": [
+"skoda",
+"octavia"
+],
+"coches.com|Skoda|Scala": [
+"skoda",
+"scala"
+],
+"coches.com|Skoda|Superb": [
+"skoda",
+"superb"
+],
+"coches.com|Smart|#1": [
+"smart",
+"1"
+],
+"coches.com|Smart|#3": [
+"smart",
+"3"
+],
+"coches.com|Smart|#5": [
+"smart",
+"5"
+],
+"coches.com|Subaru|Crosstrek": [
+"subaru",
+"crosstrek"
+],
+"coches.com|Subaru|Forester": [
+"subaru",
+"forester"
+],
+"coches.com|Subaru|Outback": [
+"subaru",
+"outback"
+],
+"coches.com|Subaru|Solterra": [
+"subaru",
+"solterra"
+],
+"coches.com|Suzuki|Across": [
+"suzuki",
+"across"
+],
+"coches.com|Suzuki|S-Cross": [
+"suzuki",
+"s-cross"
+],
+"coches.com|Suzuki|Swace": [
+"suzuki",
+"swace"
+],
+"coches.com|Suzuki|Swift": [
+"suzuki",
+"swift"
+],
+"coches.com|Suzuki|Vitara": [
+"suzuki",
+"vitara"
+],
+"coches.com|Tesla|Model 3": [
+"tesla",
+"model-3"
+],
+"coches.com|Tesla|Model S": [
+"tesla",
+"model-s"
+],
+"coches.com|Tesla|Model X": [
+"tesla",
+"model-x"
+],
+"coches.com|Tesla|Model Y": [
+"tesla",
+"model-y"
+],
+"coches.com|Toyota|Aygo X Cross": [
+"toyota",
+"aygo-x-cross"
+],
+"coches.com|Toyota|C-HR": [
+"toyota",
+"c-hr"
+],
+"coches.com|Toyota|Corolla": [
+"toyota",
+"corolla"
+],
+"coches.com|Toyota|Corolla Cross": [
+"toyota",
+"corolla-cross"
+],
+"coches.com|Toyota|Land Cruiser": [
+"toyota",
+"land-cruiser"
+],
+"coches.com|Toyota|Proace City Verso": [
+"toyota",
+"proace-city-verso"
+],
+"coches.com|Toyota|Proace Verso": [
+"toyota",
+"proace-verso"
+],
+"coches.com|Toyota|Yaris": [
+"toyota",
+"yaris"
+],
+"coches.com|Toyota|Yaris Cross": [
+"toyota",
+"yaris-cross"
+],
+"coches.com|Toyota|bZ4X": [
+"toyota",
+"bz4x"
+],
+"coches.com|Volkswagen|Caddy": [
+"volkswagen",
+"caddy"
+],
+"coches.com|Volkswagen|California": [
+"volkswagen",
+"california"
+],
+"coches.com|Volkswagen|Caravelle": [
+"volkswagen",
+"caravelle"
+],
+"coches.com|Volkswagen|Golf": [
+"volkswagen",
+"golf"
+],
+"coches.com|Volkswagen|ID. Buzz": [
+"volkswagen",
+"idbuzz"
+],
+"coches.com|Volkswagen|ID.3": [
+"volkswagen",
+"id3"
+],
+"coches.com|Volkswagen|ID.4": [
+"volkswagen",
+"id4"
+],
+"coches.com|Volkswagen|ID.5": [
+"volkswagen",
+"id5"
+],
+"coches.com|Volkswagen|ID.7": [
+"volkswagen",
+"id7"
+],
+"coches.com|Volkswagen|Multivan": [
+"volkswagen",
+"multivan"
+],
+"coches.com|Volkswagen|Passat": [
+"volkswagen",
+"passat"
+],
+"coches.com|Volkswagen|Polo": [
+"volkswagen",
+"polo"
+],
+"coches.com|Volkswagen|T-Cross": [
+"volkswagen",
+"t-cross"
+],
+"coches.com|Volkswagen|T-Roc": [
+"volkswagen",
+"t-roc"
+],
+"coches.com|Volkswagen|Taigo": [
+"volkswagen",
+"taigo"
+],
+"coches.com|Volkswagen|Tayron": [
+"volkswagen",
+"tayron"
+],
+"coches.com|Volkswagen|Tiguan": [
+"volkswagen",
+"tiguan"
+],
+"coches.com|Volkswagen|Touareg": [
+"volkswagen",
+"touareg"
+],
+"coches.com|Volkswagen|Touran": [
+"volkswagen",
+"touran"
+],
+"coches.com|Volvo|EC40": [
+"volvo",
+"ec40"
+],
+"coches.com|Volvo|ES90": [
+"volvo",
+"es90"
+],
+"coches.com|Volvo|EX30": [
+"volvo",
+"ex30"
+],
+"coches.com|Volvo|EX40": [
+"volvo",
+"ex40"
+],
+"coches.com|Volvo|EX90": [
+"volvo",
+"ex90"
+],
+"coches.com|Volvo|S60": [
+"volvo",
+"s60"
+],
+"coches.com|Volvo|S90": [
+"volvo",
+"s90"
+],
+"coches.com|Volvo|V60": [
+"volvo",
+"v60"
+],
+"coches.com|Volvo|V90": [
+"volvo",
+"v90"
+],
+"coches.com|Volvo|XC40": [
+"volvo",
+"xc40"
+],
+"coches.com|Volvo|XC60": [
+"volvo",
+"xc60"
+],
+"coches.com|Volvo|XC90": [
+"volvo",
+"xc90"
+],
+"coches.com|Xpeng|G6": [
+"xpeng",
+"g6"
+],
+"coches.com|Xpeng|G9": [
+"xpeng",
+"g9"
+],
+"coches.com|Xpeng|P7+": [
+"xpeng",
+"p7"
+],
+"coches.net|Abarth|500": [
+"abarth",
+"500"
+],
+"flexicar|Abarth|500": [
+"abarth",
+"500"
+],
+"flexicar|Alfa Romeo|Giulia": [
+"alfa-romeo",
+"giulia"
+],
+"flexicar|Alfa Romeo|Junior": [
+"alfa-romeo",
+"junior"
+],
+"flexicar|Alfa Romeo|Stelvio": [
+"alfa-romeo",
+"stelvio"
+],
+"flexicar|Alfa Romeo|Tonale": [
+"alfa-romeo",
+"tonale"
+],
+"flexicar|Alpine|A290": [
+"alpine",
+"a290"
+],
+"flexicar|Audi|A1": [
+"audi",
+"a1"
+],
+"flexicar|Audi|A3": [
+"audi",
+"a3"
+],
+"flexicar|Audi|A5": [
+"audi",
+"a5"
+],
+"flexicar|Audi|A6": [
+"audi",
+"a6"
+],
+"flexicar|Audi|A8": [
+"audi",
+"a8"
+],
+"flexicar|Audi|Q2": [
+"audi",
+"q2"
+],
+"flexicar|Audi|Q3": [
+"audi",
+"q3"
+],
+"flexicar|Audi|Q3 Sportback": [
+"audi",
+"q3-sportback"
+],
+"flexicar|Audi|Q5": [
+"audi",
+"q5"
+],
+"flexicar|Audi|Q5 Sportback": [
+"audi",
+"q5-sportback"
+],
+"flexicar|Audi|Q7": [
+"audi",
+"q7"
+],
+"flexicar|Audi|Q8": [
+"audi",
+"q8"
+],
+"flexicar|BMW|Serie 1": [
+"bmw",
+"serie-1"
+],
+"flexicar|BMW|Serie 2": [
+"bmw",
+"serie-2"
+],
+"flexicar|BMW|Serie 2 Active Tourer": [
+"bmw",
+"serie-2-active-tourer"
+],
+"flexicar|BMW|Serie 3": [
+"bmw",
+"serie-3"
+],
+"flexicar|BMW|Serie 4": [
+"bmw",
+"serie-4"
+],
+"flexicar|BMW|Serie 5": [
+"bmw",
+"serie-5"
+],
+"flexicar|BMW|Serie 6": [
+"bmw",
+"serie-6"
+],
+"flexicar|BMW|Serie 7": [
+"bmw",
+"serie-7"
+],
+"flexicar|BMW|Serie 8": [
+"bmw",
+"serie-8"
+],
+"flexicar|BMW|X1": [
+"bmw",
+"x1"
+],
+"flexicar|BMW|X2": [
+"bmw",
+"x2"
+],
+"flexicar|BMW|X3": [
+"bmw",
+"x3"
+],
+"flexicar|BMW|X4": [
+"bmw",
+"x4"
+],
+"flexicar|BMW|X5": [
+"bmw",
+"x5"
+],
+"flexicar|BMW|X6": [
+"bmw",
+"x6"
+],
+"flexicar|BMW|X7": [
+"bmw",
+"x7"
+],
+"flexicar|BMW|Z4": [
+"bmw",
+"z4"
+],
+"flexicar|BMW|i3": [
+"bmw",
+"i3"
+],
+"flexicar|BMW|i4": [
+"bmw",
+"i4"
+],
+"flexicar|BMW|iX": [
+"bmw",
+"ix"
+],
+"flexicar|BYD|Atto 2": [
+"byd",
+"atto-2"
+],
+"flexicar|BYD|Atto 3": [
+"byd",
+"atto-3"
+],
+"flexicar|BYD|Dolphin": [
+"byd",
+"dolphin"
+],
+"flexicar|BYD|Seal U": [
+"byd",
+"seal-u"
+],
+"flexicar|BYD|Sealion 7": [
+"byd",
+"sealion-7"
+],
+"flexicar|Citroën|AMI": [
+"citroen",
+"ami"
+],
+"flexicar|Citroën|Berlingo": [
+"citroen",
+"berlingo"
+],
+"flexicar|Citroën|C3": [
+"citroen",
+"c3"
+],
+"flexicar|Citroën|C3 Aircross": [
+"citroen",
+"c3-aircross"
+],
+"flexicar|Citroën|C4": [
+"citroen",
+"c4"
+],
+"flexicar|Citroën|C4 X": [
+"citroen",
+"c4-x"
+],
+"flexicar|Citroën|C5 Aircross": [
+"citroen",
+"c5-aircross"
+],
+"flexicar|Citroën|C5 X": [
+"citroen",
+"c5-x"
+],
+"flexicar|Citroën|Spacetourer": [
+"citroen",
+"spacetourer"
+],
+"flexicar|Cupra|Ateca": [
+"cupra",
+"ateca"
+],
+"flexicar|Cupra|Born": [
+"cupra",
+"born"
+],
+"flexicar|Cupra|Formentor": [
+"cupra",
+"formentor"
+],
+"flexicar|Cupra|León": [
+"cupra",
+"leon"
+],
+"flexicar|Cupra|Terramar": [
+"cupra",
+"terramar"
+],
+"flexicar|DFSK|580": [
+"dfsk",
+"580"
+],
+"flexicar|DFSK|E5": [
+"dfsk",
+"e5"
+],
+"flexicar|DS|DS 3": [
+"ds",
+"ds-3"
+],
+"flexicar|DS|DS 7": [
+"ds",
+"ds-7"
+],
+"flexicar|Dacia|Bigster": [
+"dacia",
+"bigster"
+],
+"flexicar|Dacia|Dokker": [
+"dacia",
+"dokker"
+],
+"flexicar|Dacia|Duster": [
+"dacia",
+"duster"
+],
+"flexicar|Dacia|Jogger": [
+"dacia",
+"jogger"
+],
+"flexicar|Dacia|Lodgy": [
+"dacia",
+"lodgy"
+],
+"flexicar|Dacia|Logan": [
+"dacia",
+"logan"
+],
+"flexicar|Dacia|Sandero": [
+"dacia",
+"sandero"
+],
+"flexicar|Dacia|Spring": [
+"dacia",
+"spring"
+],
+"flexicar|Ebro|S400": [
+"ebro",
+"s400"
+],
+"flexicar|Ebro|S700": [
+"ebro",
+"s700"
+],
+"flexicar|Fiat|500": [
+"fiat",
+"500"
+],
+"flexicar|Fiat|600": [
+"fiat",
+"600"
+],
+"flexicar|Fiat|Doblò": [
+"fiat",
+"doblo"
+],
+"flexicar|Fiat|Tipo": [
+"fiat",
+"tipo"
+],
+"flexicar|Ford|Bronco": [
+"ford",
+"bronco"
+],
+"flexicar|Ford|Focus": [
+"ford",
+"focus"
+],
+"flexicar|Ford|Grand Tourneo Connect": [
+"ford",
+"grand-tourneo-connect"
+],
+"flexicar|Ford|Kuga": [
+"ford",
+"kuga"
+],
+"flexicar|Ford|Mustang": [
+"ford",
+"mustang"
+],
+"flexicar|Ford|Mustang Mach-E": [
+"ford",
+"mustang-mach-e"
+],
+"flexicar|Ford|Puma": [
+"ford",
+"puma"
+],
+"flexicar|Ford|Tourneo Connect": [
+"ford",
+"tourneo-connect"
+],
+"flexicar|Ford|Tourneo Courier": [
+"ford",
+"tourneo-courier"
+],
+"flexicar|Ford|Tourneo Custom": [
+"ford",
+"tourneo-custom"
+],
+"flexicar|Honda|CR-V": [
+"honda",
+"cr-v"
+],
+"flexicar|Honda|Civic": [
+"honda",
+"civic"
+],
+"flexicar|Honda|HR-V": [
+"honda",
+"hr-v"
+],
+"flexicar|Honda|Jazz": [
+"honda",
+"jazz"
+],
+"flexicar|Hyundai|Bayon": [
+"hyundai",
+"bayon"
+],
+"flexicar|Hyundai|IONIQ 5": [
+"hyundai",
+"ioniq-5"
+],
+"flexicar|Hyundai|Kona": [
+"hyundai",
+"kona"
+],
+"flexicar|Hyundai|Santa Fe": [
+"hyundai",
+"santa-fe"
+],
+"flexicar|Hyundai|Staria": [
+"hyundai",
+"staria"
+],
+"flexicar|Hyundai|Tucson": [
+"hyundai",
+"tucson"
+],
+"flexicar|Hyundai|i10": [
+"hyundai",
+"i10"
+],
+"flexicar|Hyundai|i20": [
+"hyundai",
+"i20"
+],
+"flexicar|Hyundai|i30": [
+"hyundai",
+"i30"
+],
+"flexicar|Ineos|Grenadier": [
+"ineos",
+"grenadier"
+],
+"flexicar|Jaecoo|5": [
+"jaecoo",
+"5"
+],
+"flexicar|Jaecoo|7": [
+"jaecoo",
+"7"
+],
+"flexicar|Jeep|Avenger": [
+"jeep",
+"avenger"
+],
+"flexicar|Jeep|Compass": [
+"jeep",
+"compass"
+],
+"flexicar|Jeep|Grand Cherokee": [
+"jeep",
+"grand-cherokee"
+],
+"flexicar|Jeep|Renegade": [
+"jeep",
+"renegade"
+],
+"flexicar|Jeep|Wrangler": [
+"jeep",
+"wrangler"
+],
+"flexicar|Kia|Ceed": [
+"kia",
+"ceed"
+],
+"flexicar|Kia|EV3": [
+"kia",
+"ev3"
+],
+"flexicar|Kia|EV6": [
+"kia",
+"ev6"
+],
+"flexicar|Kia|EV9": [
+"kia",
+"ev9"
+],
+"flexicar|Kia|Niro": [
+"kia",
+"niro"
+],
+"flexicar|Kia|Picanto": [
+"kia",
+"picanto"
+],
+"flexicar|Kia|Sorento": [
+"kia",
+"sorento"
+],
+"flexicar|Kia|Sportage": [
+"kia",
+"sportage"
+],
+"flexicar|Kia|Stonic": [
+"kia",
+"stonic"
+],
+"flexicar|Kia|XCeed": [
+"kia",
+"xceed"
+],
+"flexicar|Kia|e-Niro": [
+"kia",
+"e-niro"
+],
+"flexicar|Lancia|Ypsilon": [
+"lancia",
+"ypsilon"
+],
+"flexicar|Land Rover|Defender": [
+"land-rover",
+"defender"
+],
+"flexicar|Land Rover|Discovery": [
+"land-rover",
+"discovery"
+],
+"flexicar|Land Rover|Discovery Sport": [
+"land-rover",
+"discovery-sport"
+],
+"flexicar|Land Rover|Range Rover": [
+"land-rover",
+"range-rover"
+],
+"flexicar|Land Rover|Range Rover Evoque": [
+"land-rover",
+"range-rover-evoque"
+],
+"flexicar|Land Rover|Range Rover Sport": [
+"land-rover",
+"range-rover-sport"
+],
+"flexicar|Land Rover|Range Rover Velar": [
+"land-rover",
+"range-rover-velar"
+],
+"flexicar|Lexus|ES": [
+"lexus",
+"es"
+],
+"flexicar|Lexus|LBX": [
+"lexus",
+"lbx"
+],
+"flexicar|Lexus|NX": [
+"lexus",
+"nx"
+],
+"flexicar|Lexus|RX": [
+"lexus",
+"rx"
+],
+"flexicar|Lexus|UX": [
+"lexus",
+"ux"
+],
+"flexicar|MG|HS": [
+"mg",
+"hs"
+],
+"flexicar|MG|MG3": [
+"mg",
+"mg3"
+],
+"flexicar|MG|MG4": [
+"mg",
+"mg4"
+],
+"flexicar|MG|ZS": [
+"mg",
+"zs"
+],
+"flexicar|Mazda|CX-30": [
+"mazda",
+"cx-30"
+],
+"flexicar|Mazda|CX-5": [
+"mazda",
+"cx-5"
+],
+"flexicar|Mazda|CX-60": [
+"mazda",
+"cx-60"
+],
+"flexicar|Mazda|CX-80": [
+"mazda",
+"cx-80"
+],
+"flexicar|Mazda|MX-5": [
+"mazda",
+"mx-5"
+],
+"flexicar|Mazda|Mazda2": [
+"mazda",
+"mazda2"
+],
+"flexicar|Mazda|Mazda3": [
+"mazda",
+"mazda3"
+],
+"flexicar|Mercedes-Benz|AMG GT": [
+"mercedes-benz",
+"amg-gt"
+],
+"flexicar|Mercedes-Benz|CLE": [
+"mercedes-benz",
+"cle"
+],
+"flexicar|Mercedes-Benz|Citan": [
+"mercedes-benz",
+"citan"
+],
+"flexicar|Mercedes-Benz|Clase A": [
+"mercedes-benz",
+"clase-a"
+],
+"flexicar|Mercedes-Benz|Clase B": [
+"mercedes-benz",
+"clase-b"
+],
+"flexicar|Mercedes-Benz|Clase C": [
+"mercedes-benz",
+"clase-c"
+],
+"flexicar|Mercedes-Benz|Clase E": [
+"mercedes-benz",
+"clase-e"
+],
+"flexicar|Mercedes-Benz|Clase S": [
+"mercedes-benz",
+"clase-s"
+],
+"flexicar|Mercedes-Benz|Clase T": [
+"mercedes-benz",
+"clase-t"
+],
+"flexicar|Mercedes-Benz|Clase V": [
+"mercedes-benz",
+"clase-v"
+],
+"flexicar|Mercedes-Benz|EQA": [
+"mercedes-benz",
+"eqa"
+],
+"flexicar|Mercedes-Benz|EQS": [
+"mercedes-benz",
+"eqs"
+],
+"flexicar|Mercedes-Benz|Vito": [
+"mercedes-benz",
+"vito"
+],
+"flexicar|Mini|Cooper": [
+"mini",
+"cooper"
+],
+"flexicar|Mini|Countryman": [
+"mini",
+"countryman"
+],
+"flexicar|Mitsubishi|ASX": [
+"mitsubishi",
+"asx"
+],
+"flexicar|Mitsubishi|Colt": [
+"mitsubishi",
+"colt"
+],
+"flexicar|Mitsubishi|Eclipse Cross": [
+"mitsubishi",
+"eclipse-cross"
+],
+"flexicar|Mitsubishi|Outlander": [
+"mitsubishi",
+"outlander"
+],
+"flexicar|Nissan|Ariya": [
+"nissan",
+"ariya"
+],
+"flexicar|Nissan|Juke": [
+"nissan",
+"juke"
+],
+"flexicar|Nissan|Leaf": [
+"nissan",
+"leaf"
+],
+"flexicar|Nissan|Micra": [
+"nissan",
+"micra"
+],
+"flexicar|Nissan|Primastar": [
+"nissan",
+"primastar"
+],
+"flexicar|Nissan|Qashqai": [
+"nissan",
+"qashqai"
+],
+"flexicar|Nissan|Townstar": [
+"nissan",
+"townstar"
+],
+"flexicar|Nissan|X-Trail": [
+"nissan",
+"x-trail"
+],
+"flexicar|Omoda|5": [
+"omoda",
+"5"
+],
+"flexicar|Omoda|5 EV": [
+"omoda",
+"5-ev"
+],
+"flexicar|Opel|Astra": [
+"opel",
+"astra"
+],
+"flexicar|Opel|Combo": [
+"opel",
+"combo"
+],
+"flexicar|Opel|Corsa": [
+"opel",
+"corsa"
+],
+"flexicar|Opel|Frontera": [
+"opel",
+"frontera"
+],
+"flexicar|Opel|Grandland": [
+"opel",
+"grandland"
+],
+"flexicar|Opel|Mokka": [
+"opel",
+"mokka"
+],
+"flexicar|Opel|Zafira": [
+"opel",
+"zafira"
+],
+"flexicar|Peugeot|2008": [
+"peugeot",
+"2008"
+],
+"flexicar|Peugeot|208": [
+"peugeot",
+"208"
+],
+"flexicar|Peugeot|3008 Hybrid": [
+"peugeot",
+"3008-hybrid"
+],
+"flexicar|Peugeot|308": [
+"peugeot",
+"308"
+],
+"flexicar|Peugeot|408": [
+"peugeot",
+"408"
+],
+"flexicar|Peugeot|Rifter": [
+"peugeot",
+"rifter"
+],
+"flexicar|Peugeot|Traveller": [
+"peugeot",
+"traveller"
+],
+"flexicar|Polestar|2": [
+"polestar",
+"2"
+],
+"flexicar|Porsche|718": [
+"porsche",
+"718"
+],
+"flexicar|Porsche|911": [
+"porsche",
+"911"
+],
+"flexicar|Porsche|Cayenne": [
+"porsche",
+"cayenne"
+],
+"flexicar|Porsche|Macan": [
+"porsche",
+"macan"
+],
+"flexicar|Porsche|Taycan": [
+"porsche",
+"taycan"
+],
+"flexicar|Renault|Arkana": [
+"renault",
+"arkana"
+],
+"flexicar|Renault|Austral": [
+"renault",
+"austral"
+],
+"flexicar|Renault|Captur": [
+"renault",
+"captur"
+],
+"flexicar|Renault|Clio": [
+"renault",
+"clio"
+],
+"flexicar|Renault|Espace": [
+"renault",
+"espace"
+],
+"flexicar|Renault|Grand Scénic": [
+"renault",
+"grand-scenic"
+],
+"flexicar|Renault|Kadjar": [
+"renault",
+"kadjar"
+],
+"flexicar|Renault|Koleos": [
+"renault",
+"koleos"
+],
+"flexicar|Renault|Megane": [
+"renault",
+"megane"
+],
+"flexicar|Renault|Megane E-Tech": [
+"renault",
+"megane-e-tech"
+],
+"flexicar|Renault|Rafale": [
+"renault",
+"rafale"
+],
+"flexicar|Renault|Scénic": [
+"renault",
+"scenic"
+],
+"flexicar|Renault|Symbioz": [
+"renault",
+"symbioz"
+],
+"flexicar|Renault|Trafic": [
+"renault",
+"trafic"
+],
+"flexicar|Renault|Twingo E-Tech": [
+"renault",
+"twingo"
+],
+"flexicar|Renault|Zoe": [
+"renault",
+"zoe"
+],
+"flexicar|SEAT|Arona": [
+"seat",
+"arona"
+],
+"flexicar|SEAT|Ateca": [
+"seat",
+"ateca"
+],
+"flexicar|SEAT|Ibiza": [
+"seat",
+"ibiza"
+],
+"flexicar|SEAT|León": [
+"seat",
+"leon"
+],
+"flexicar|Skoda|Enyaq": [
+"skoda",
+"enyaq"
+],
+"flexicar|Skoda|Fabia": [
+"skoda",
+"fabia"
+],
+"flexicar|Skoda|Kamiq": [
+"skoda",
+"kamiq"
+],
+"flexicar|Skoda|Karoq": [
+"skoda",
+"karoq"
+],
+"flexicar|Skoda|Kodiaq": [
+"skoda",
+"kodiaq"
+],
+"flexicar|Skoda|Octavia": [
+"skoda",
+"octavia"
+],
+"flexicar|Skoda|Scala": [
+"skoda",
+"scala"
+],
+"flexicar|Skoda|Superb": [
+"skoda",
+"superb"
+],
+"flexicar|Smart|#1": [
+"smart",
+"1"
+],
+"flexicar|Subaru|Forester": [
+"subaru",
+"forester"
+],
+"flexicar|Subaru|Outback": [
+"subaru",
+"outback"
+],
+"flexicar|Suzuki|S-Cross": [
+"suzuki",
+"s-cross"
+],
+"flexicar|Suzuki|Swace": [
+"suzuki",
+"swace"
+],
+"flexicar|Suzuki|Swift": [
+"suzuki",
+"swift"
+],
+"flexicar|Suzuki|Vitara": [
+"suzuki",
+"vitara"
+],
+"flexicar|Tesla|Model 3": [
+"tesla",
+"model-3"
+],
+"flexicar|Tesla|Model S": [
+"tesla",
+"model-s"
+],
+"flexicar|Tesla|Model X": [
+"tesla",
+"model-x"
+],
+"flexicar|Tesla|Model Y": [
+"tesla",
+"model-y"
+],
+"flexicar|Toyota|C-HR": [
+"toyota",
+"c-hr"
+],
+"flexicar|Toyota|Corolla": [
+"toyota",
+"corolla"
+],
+"flexicar|Toyota|Corolla Cross": [
+"toyota",
+"corolla-cross"
+],
+"flexicar|Toyota|Land Cruiser": [
+"toyota",
+"land-cruiser"
+],
+"flexicar|Toyota|Proace City Verso": [
+"toyota",
+"proace-city-verso"
+],
+"flexicar|Toyota|Proace Verso": [
+"toyota",
+"proace-verso"
+],
+"flexicar|Toyota|RAV4": [
+"toyota",
+"rav4"
+],
+"flexicar|Toyota|Yaris": [
+"toyota",
+"yaris"
+],
+"flexicar|Toyota|Yaris Cross": [
+"toyota",
+"yaris-cross"
+],
+"flexicar|Toyota|bZ4X": [
+"toyota",
+"bz4x"
+],
+"flexicar|Volkswagen|Caddy": [
+"volkswagen",
+"caddy"
+],
+"flexicar|Volkswagen|California": [
+"volkswagen",
+"california"
+],
+"flexicar|Volkswagen|Caravelle": [
+"volkswagen",
+"caravelle"
+],
+"flexicar|Volkswagen|Golf": [
+"volkswagen",
+"golf"
+],
+"flexicar|Volkswagen|ID. Buzz": [
+"volkswagen",
+"id-buzz"
+],
+"flexicar|Volkswagen|ID.3": [
+"volkswagen",
+"id3"
+],
+"flexicar|Volkswagen|ID.4": [
+"volkswagen",
+"id4"
+],
+"flexicar|Volkswagen|Multivan": [
+"volkswagen",
+"multivan"
+],
+"flexicar|Volkswagen|Passat": [
+"volkswagen",
+"passat"
+],
+"flexicar|Volkswagen|Polo": [
+"volkswagen",
+"polo"
+],
+"flexicar|Volkswagen|T-Cross": [
+"volkswagen",
+"t-cross"
+],
+"flexicar|Volkswagen|T-Roc": [
+"volkswagen",
+"t-roc"
+],
+"flexicar|Volkswagen|Taigo": [
+"volkswagen",
+"taigo"
+],
+"flexicar|Volkswagen|Tayron": [
+"volkswagen",
+"tayron"
+],
+"flexicar|Volkswagen|Tiguan": [
+"volkswagen",
+"tiguan"
+],
+"flexicar|Volkswagen|Touareg": [
+"volkswagen",
+"touareg"
+],
+"flexicar|Volkswagen|Touran": [
+"volkswagen",
+"touran"
+],
+"flexicar|Volvo|EX30": [
+"volvo",
+"ex30"
+],
+"flexicar|Volvo|S60": [
+"volvo",
+"s60"
+],
+"flexicar|Volvo|S90": [
+"volvo",
+"s90"
+],
+"flexicar|Volvo|V60": [
+"volvo",
+"v60"
+],
+"flexicar|Volvo|V90": [
+"volvo",
+"v90"
+],
+"flexicar|Volvo|XC40": [
+"volvo",
+"xc40"
+],
+"flexicar|Volvo|XC60": [
+"volvo",
+"xc60"
+],
+"flexicar|Volvo|XC90": [
+"volvo",
+"xc90"
+],
+"motor.es|Abarth|500": [
+"abarth",
+"500"
+],
+"motor.es|Abarth|600": [
+"abarth",
+"600"
+],
+"motor.es|Alfa Romeo|Giulia": [
+"alfa-romeo",
+"giulia"
+],
+"motor.es|Alfa Romeo|Junior": [
+"alfa-romeo",
+"junior"
+],
+"motor.es|Alfa Romeo|Stelvio": [
+"alfa-romeo",
+"stelvio"
+],
+"motor.es|Alfa Romeo|Tonale": [
+"alfa-romeo",
+"tonale"
+],
+"motor.es|Alpine|A110": [
+"alpine",
+"a110"
+],
+"motor.es|Alpine|A290": [
+"alpine",
+"a290"
+],
+"motor.es|Aston Martin|DB12": [
+"aston-martin",
+"db12"
+],
+"motor.es|Aston Martin|DBX": [
+"aston-martin",
+"dbx"
+],
+"motor.es|Aston Martin|Vantage": [
+"aston-martin",
+"vantage"
+],
+"motor.es|Audi|A1": [
+"audi",
+"a1"
+],
+"motor.es|Audi|A3": [
+"audi",
+"a3"
+],
+"motor.es|Audi|A5": [
+"audi",
+"a5"
+],
+"motor.es|Audi|A6": [
+"audi",
+"a6"
+],
+"motor.es|Audi|A8": [
+"audi",
+"a8"
+],
+"motor.es|Audi|Q2": [
+"audi",
+"q2"
+],
+"motor.es|Audi|Q3": [
+"audi",
+"q3"
+],
+"motor.es|Audi|Q3 Sportback": [
+"audi",
+"q3-sportback"
+],
+"motor.es|Audi|Q4 e-tron": [
+"audi",
+"q4-e-tron"
+],
+"motor.es|Audi|Q5": [
+"audi",
+"q5"
+],
+"motor.es|Audi|Q5 Sportback": [
+"audi",
+"q5-sportback"
+],
+"motor.es|Audi|Q6 e-tron": [
+"audi",
+"q6-e-tron"
+],
+"motor.es|Audi|Q7": [
+"audi",
+"q7"
+],
+"motor.es|Audi|Q8": [
+"audi",
+"q8"
+],
+"motor.es|BMW|Serie 1": [
+"bmw",
+"serie-1"
+],
+"motor.es|BMW|Serie 2": [
+"bmw",
+"serie-2"
+],
+"motor.es|BMW|Serie 2 Active Tourer": [
+"bmw",
+"serie-2-active-tourer"
+],
+"motor.es|BMW|Serie 3": [
+"bmw",
+"serie-3"
+],
+"motor.es|BMW|Serie 4": [
+"bmw",
+"serie-4"
+],
+"motor.es|BMW|Serie 5": [
+"bmw",
+"serie-5"
+],
+"motor.es|BMW|Serie 6": [
+"bmw",
+"serie-6"
+],
+"motor.es|BMW|Serie 7": [
+"bmw",
+"serie-7"
+],
+"motor.es|BMW|Serie 8": [
+"bmw",
+"serie-8"
+],
+"motor.es|BMW|X1": [
+"bmw",
+"x1"
+],
+"motor.es|BMW|X2": [
+"bmw",
+"x2"
+],
+"motor.es|BMW|X3": [
+"bmw",
+"x3"
+],
+"motor.es|BMW|X4": [
+"bmw",
+"x4"
+],
+"motor.es|BMW|X5": [
+"bmw",
+"x5"
+],
+"motor.es|BMW|X6": [
+"bmw",
+"x6"
+],
+"motor.es|BMW|X7": [
+"bmw",
+"x7"
+],
+"motor.es|BMW|XM": [
+"bmw",
+"xm"
+],
+"motor.es|BMW|Z4": [
+"bmw",
+"z4"
+],
+"motor.es|BMW|i3": [
+"bmw",
+"i3"
+],
+"motor.es|BMW|iX": [
+"bmw",
+"ix"
+],
+"motor.es|BMW|iX1": [
+"bmw",
+"ix1"
+],
+"motor.es|BMW|iX2": [
+"bmw",
+"ix2"
+],
+"motor.es|BMW|iX3": [
+"bmw",
+"ix3"
+],
+"motor.es|BYD|Atto 2": [
+"byd",
+"atto-2"
+],
+"motor.es|BYD|Atto 3": [
+"byd",
+"atto-3"
+],
+"motor.es|BYD|Atto 3 Evo": [
+"byd",
+"atto-3-evo"
+],
+"motor.es|BYD|Dolphin": [
+"byd",
+"dolphin"
+],
+"motor.es|BYD|Dolphin G": [
+"byd",
+"dolphin-g"
+],
+"motor.es|BYD|Dolphin Surf": [
+"byd",
+"dolphin-surf"
+],
+"motor.es|BYD|Seal": [
+"byd",
+"seal"
+],
+"motor.es|BYD|Seal 6 DM-i": [
+"byd",
+"seal-6-dm-i"
+],
+"motor.es|BYD|Seal U": [
+"byd",
+"seal-u"
+],
+"motor.es|BYD|Seal U DM-i": [
+"byd",
+"seal-u-dm-i"
+],
+"motor.es|BYD|Sealion 7": [
+"byd",
+"sealion-7"
+],
+"motor.es|Bentley|Continental GT": [
+"bentley",
+"continental-gt"
+],
+"motor.es|Bestune|B70": [
+"bestune",
+"b70"
+],
+"motor.es|Bestune|Joyee 07": [
+"bestune",
+"joyee-07"
+],
+"motor.es|Bestune|T77": [
+"bestune",
+"t77"
+],
+"motor.es|Bestune|T90": [
+"bestune",
+"t90"
+],
+"motor.es|Changan|Deepal S05": [
+"changan",
+"deepal-s05"
+],
+"motor.es|Changan|Deepal S05 PHEV": [
+"changan",
+"deepal-s05-phev"
+],
+"motor.es|Changan|Deepal S07": [
+"changan",
+"deepal-s07"
+],
+"motor.es|Citroën|AMI": [
+"citroen",
+"ami"
+],
+"motor.es|Citroën|Berlingo": [
+"citroen",
+"berlingo"
+],
+"motor.es|Citroën|C3": [
+"citroen",
+"c3"
+],
+"motor.es|Citroën|C3 Aircross": [
+"citroen",
+"c3-aircross"
+],
+"motor.es|Citroën|C4": [
+"citroen",
+"c4"
+],
+"motor.es|Citroën|C4 X": [
+"citroen",
+"c4-x"
+],
+"motor.es|Citroën|C5 Aircross": [
+"citroen",
+"c5-aircross"
+],
+"motor.es|Citroën|C5 X": [
+"citroen",
+"c5-x"
+],
+"motor.es|Citroën|Holidays": [
+"citroen",
+"holidays"
+],
+"motor.es|Citroën|Spacetourer": [
+"citroen",
+"spacetourer"
+],
+"motor.es|Citroën|ë-C3": [
+"citroen",
+"e-c3"
+],
+"motor.es|Citroën|ë-C3 Aircross": [
+"citroen",
+"e-c3-aircross"
+],
+"motor.es|Citroën|ë-C4": [
+"citroen",
+"e-c4"
+],
+"motor.es|Citroën|ë-C4 X": [
+"citroen",
+"e-c4-x"
+],
+"motor.es|Citroën|ë-C5 Aircross": [
+"citroen",
+"e-c5-aircross"
+],
+"motor.es|Cupra|Ateca": [
+"cupra",
+"ateca"
+],
+"motor.es|Cupra|Born": [
+"cupra",
+"born"
+],
+"motor.es|Cupra|Formentor": [
+"cupra",
+"formentor"
+],
+"motor.es|Cupra|León": [
+"cupra",
+"leon"
+],
+"motor.es|Cupra|Raval": [
+"cupra",
+"raval"
+],
+"motor.es|Cupra|Tavascan": [
+"cupra",
+"tavascan"
+],
+"motor.es|Cupra|Terramar": [
+"cupra",
+"terramar"
+],
+"motor.es|DFSK|500": [
+"dfsk",
+"500"
+],
+"motor.es|DFSK|580": [
+"dfsk",
+"580"
+],
+"motor.es|DFSK|E5": [
+"dfsk",
+"e5"
+],
+"motor.es|DS|DS 3": [
+"ds",
+"ds-3"
+],
+"motor.es|DS|DS 7": [
+"ds",
+"ds-7"
+],
+"motor.es|DS|Nº4": [
+"ds",
+"n4"
+],
+"motor.es|DS|Nº7": [
+"ds",
+"n7"
+],
+"motor.es|Dacia|Bigster": [
+"dacia",
+"bigster"
+],
+"motor.es|Dacia|Dokker": [
+"dacia",
+"dokker"
+],
+"motor.es|Dacia|Duster": [
+"dacia",
+"duster"
+],
+"motor.es|Dacia|Jogger": [
+"dacia",
+"jogger"
+],
+"motor.es|Dacia|Lodgy": [
+"dacia",
+"lodgy"
+],
+"motor.es|Dacia|Logan": [
+"dacia",
+"logan"
+],
+"motor.es|Dacia|Sandero": [
+"dacia",
+"sandero"
+],
+"motor.es|Dacia|Spring": [
+"dacia",
+"spring"
+],
+"motor.es|Denza|D9": [
+"denza",
+"d9"
+],
+"motor.es|Denza|Z9 GT": [
+"denza",
+"z9-gt"
+],
+"motor.es|Dongfeng|Box": [
+"dongfeng",
+"box"
+],
+"motor.es|Dongfeng|Mage": [
+"dongfeng",
+"mage"
+],
+"motor.es|Dongfeng|Vigo": [
+"dongfeng",
+"vigo"
+],
+"motor.es|EVO|Cuatro": [
+"evo",
+"cuatro"
+],
+"motor.es|Ebro|S400": [
+"ebro",
+"s400"
+],
+"motor.es|Ebro|S700": [
+"ebro",
+"s700"
+],
+"motor.es|Ebro|S800": [
+"ebro",
+"s800"
+],
+"motor.es|Ebro|S900": [
+"ebro",
+"s900"
+],
+"motor.es|Fiat|500": [
+"fiat",
+"500"
+],
+"motor.es|Fiat|600": [
+"fiat",
+"600"
+],
+"motor.es|Fiat|Doblò": [
+"fiat",
+"doblo"
+],
+"motor.es|Fiat|E-Doblò": [
+"fiat",
+"e-doblo"
+],
+"motor.es|Fiat|Grande Panda": [
+"fiat",
+"grande-panda"
+],
+"motor.es|Fiat|Pandina": [
+"fiat",
+"pandina"
+],
+"motor.es|Fiat|Qubo L": [
+"fiat",
+"qubo-l"
+],
+"motor.es|Fiat|Tipo": [
+"fiat",
+"tipo"
+],
+"motor.es|Fiat|Ulysse": [
+"fiat",
+"ulysse"
+],
+"motor.es|Ford|Bronco": [
+"ford",
+"bronco"
+],
+"motor.es|Ford|Capri": [
+"ford",
+"capri"
+],
+"motor.es|Ford|Focus": [
+"ford",
+"focus"
+],
+"motor.es|Ford|Kuga": [
+"ford",
+"kuga"
+],
+"motor.es|Ford|Mustang": [
+"ford",
+"mustang"
+],
+"motor.es|Ford|Mustang Mach-E": [
+"ford",
+"mustang-mach-e"
+],
+"motor.es|Ford|Puma": [
+"ford",
+"puma"
+],
+"motor.es|Ford|Tourneo Connect": [
+"ford",
+"tourneo-connect"
+],
+"motor.es|Ford|Tourneo Courier": [
+"ford",
+"tourneo-courier"
+],
+"motor.es|Ford|Tourneo Custom": [
+"ford",
+"tourneo-custom"
+],
+"motor.es|GWM|Ora 5": [
+"gwm",
+"ora-5"
+],
+"motor.es|Geely|E5": [
+"geely",
+"e5"
+],
+"motor.es|Geely|Starray EM-i": [
+"geely",
+"starray-em-i"
+],
+"motor.es|Honda|CR-V": [
+"honda",
+"cr-v"
+],
+"motor.es|Honda|Civic": [
+"honda",
+"civic"
+],
+"motor.es|Honda|HR-V": [
+"honda",
+"hr-v"
+],
+"motor.es|Honda|Jazz": [
+"honda",
+"jazz"
+],
+"motor.es|Honda|ZR-V": [
+"honda",
+"zr-v"
+],
+"motor.es|Hyundai|Bayon": [
+"hyundai",
+"bayon"
+],
+"motor.es|Hyundai|IONIQ 5": [
+"hyundai",
+"ioniq-5"
+],
+"motor.es|Hyundai|IONIQ 6": [
+"hyundai",
+"ioniq-6"
+],
+"motor.es|Hyundai|IONIQ 9": [
+"hyundai",
+"ioniq-9"
+],
+"motor.es|Hyundai|Inster": [
+"hyundai",
+"inster"
+],
+"motor.es|Hyundai|Kona": [
+"hyundai",
+"kona"
+],
+"motor.es|Hyundai|Santa Fe": [
+"hyundai",
+"santa-fe"
+],
+"motor.es|Hyundai|Staria": [
+"hyundai",
+"staria"
+],
+"motor.es|Hyundai|Tucson": [
+"hyundai",
+"tucson"
+],
+"motor.es|Hyundai|i10": [
+"hyundai",
+"i10"
+],
+"motor.es|Hyundai|i20": [
+"hyundai",
+"i20"
+],
+"motor.es|Hyundai|i30": [
+"hyundai",
+"i30"
+],
+"motor.es|Jaecoo|5": [
+"jaecoo",
+"5"
+],
+"motor.es|Jaecoo|7": [
+"jaecoo",
+"7"
+],
+"motor.es|Jeep|Avenger": [
+"jeep",
+"avenger"
+],
+"motor.es|Jeep|Compass": [
+"jeep",
+"compass"
+],
+"motor.es|Jeep|Grand Cherokee": [
+"jeep",
+"grand-cherokee"
+],
+"motor.es|Jeep|Renegade": [
+"jeep",
+"renegade"
+],
+"motor.es|Jeep|Wrangler": [
+"jeep",
+"wrangler"
+],
+"motor.es|KGM|Korando": [
+"kgm",
+"korando"
+],
+"motor.es|KGM|Rexton": [
+"kgm",
+"rexton"
+],
+"motor.es|KGM|Tivoli": [
+"kgm",
+"tivoli"
+],
+"motor.es|KGM|Torres": [
+"kgm",
+"torres"
+],
+"motor.es|KGM|Torres Actyon": [
+"kgm",
+"torres-actyon"
+],
+"motor.es|Kia|Ceed": [
+"kia",
+"ceed"
+],
+"motor.es|Kia|EV2": [
+"kia",
+"ev2"
+],
+"motor.es|Kia|EV3": [
+"kia",
+"ev3"
+],
+"motor.es|Kia|EV4": [
+"kia",
+"ev4"
+],
+"motor.es|Kia|EV5": [
+"kia",
+"ev5"
+],
+"motor.es|Kia|EV6": [
+"kia",
+"ev6"
+],
+"motor.es|Kia|EV9": [
+"kia",
+"ev9"
+],
+"motor.es|Kia|K4": [
+"kia",
+"k4"
+],
+"motor.es|Kia|Niro": [
+"kia",
+"niro"
+],
+"motor.es|Kia|PV5": [
+"kia",
+"pv5"
+],
+"motor.es|Kia|Picanto": [
+"kia",
+"picanto"
+],
+"motor.es|Kia|Seltos": [
+"kia",
+"seltos"
+],
+"motor.es|Kia|Sorento": [
+"kia",
+"sorento"
+],
+"motor.es|Kia|Sportage": [
+"kia",
+"sportage"
+],
+"motor.es|Kia|Stonic": [
+"kia",
+"stonic"
+],
+"motor.es|Kia|XCeed": [
+"kia",
+"xceed"
+],
+"motor.es|Kia|e-Niro": [
+"kia",
+"e-niro"
+],
+"motor.es|Lamborghini|Urus": [
+"lamborghini",
+"urus"
+],
+"motor.es|Lancia|Ypsilon": [
+"lancia",
+"ypsilon"
+],
+"motor.es|Land Rover|Defender": [
+"land-rover",
+"defender"
+],
+"motor.es|Land Rover|Discovery": [
+"land-rover",
+"discovery"
+],
+"motor.es|Land Rover|Discovery Sport": [
+"land-rover",
+"discovery-sport"
+],
+"motor.es|Land Rover|Range Rover": [
+"land-rover",
+"range-rover"
+],
+"motor.es|Land Rover|Range Rover Evoque": [
+"land-rover",
+"range-rover-evoque"
+],
+"motor.es|Land Rover|Range Rover Sport": [
+"land-rover",
+"range-rover-sport"
+],
+"motor.es|Land Rover|Range Rover Velar": [
+"land-rover",
+"range-rover-velar"
+],
+"motor.es|Leapmotor|B03X": [
+"leapmotor",
+"b03x"
+],
+"motor.es|Leapmotor|B05": [
+"leapmotor",
+"b05"
+],
+"motor.es|Leapmotor|B10": [
+"leapmotor",
+"b10"
+],
+"motor.es|Leapmotor|C10": [
+"leapmotor",
+"c10"
+],
+"motor.es|Leapmotor|T03": [
+"leapmotor",
+"t03"
+],
+"motor.es|Lepas|L8": [
+"lepas",
+"l8"
+],
+"motor.es|Lexus|ES": [
+"lexus",
+"es"
+],
+"motor.es|Lexus|LBX": [
+"lexus",
+"lbx"
+],
+"motor.es|Lexus|LS": [
+"lexus",
+"ls"
+],
+"motor.es|Lexus|NX": [
+"lexus",
+"nx"
+],
+"motor.es|Lexus|RX": [
+"lexus",
+"rx"
+],
+"motor.es|Lexus|UX": [
+"lexus",
+"ux"
+],
+"motor.es|Livan|X3 Pro": [
+"livan",
+"x3-pro"
+],
+"motor.es|Livan|X6 Pro": [
+"livan",
+"x6-pro"
+],
+"motor.es|Lynk & Co|01": [
+"lynk-co",
+"01"
+],
+"motor.es|Lynk & Co|08": [
+"lynk-co",
+"08"
+],
+"motor.es|MG|HS": [
+"mg",
+"hs"
+],
+"motor.es|MG|MG3": [
+"mg",
+"mg3"
+],
+"motor.es|MG|MG4": [
+"mg",
+"mg4"
+],
+"motor.es|MG|MG4 Urban": [
+"mg",
+"mg4-urban"
+],
+"motor.es|MG|MGS5 EV": [
+"mg",
+"mgs5-ev"
+],
+"motor.es|MG|MGS6 EV": [
+"mg",
+"mgs6-ev"
+],
+"motor.es|MG|ZS": [
+"mg",
+"zs"
+],
+"motor.es|Maserati|Grecale": [
+"maserati",
+"grecale"
+],
+"motor.es|Mazda|CX-30": [
+"mazda",
+"cx-30"
+],
+"motor.es|Mazda|CX-5": [
+"mazda",
+"cx-5"
+],
+"motor.es|Mazda|CX-60": [
+"mazda",
+"cx-60"
+],
+"motor.es|Mazda|CX-80": [
+"mazda",
+"cx-80"
+],
+"motor.es|Mazda|MX-5": [
+"mazda",
+"mx5"
+],
+"motor.es|Mazda|Mazda2": [
+"mazda",
+"mazda2"
+],
+"motor.es|Mazda|Mazda3": [
+"mazda",
+"mazda3"
+],
+"motor.es|Mazda|Mazda6e": [
+"mazda",
+"mazda6e"
+],
+"motor.es|Mercedes-Benz|AMG GT": [
+"mercedes",
+"amg-gt"
+],
+"motor.es|Mercedes-Benz|AMG SL": [
+"mercedes",
+"amg-sl"
+],
+"motor.es|Mercedes-Benz|CLE": [
+"mercedes",
+"cle"
+],
+"motor.es|Mercedes-Benz|Citan": [
+"mercedes",
+"citan"
+],
+"motor.es|Mercedes-Benz|Clase A": [
+"mercedes",
+"clase-a"
+],
+"motor.es|Mercedes-Benz|Clase B": [
+"mercedes",
+"clase-b"
+],
+"motor.es|Mercedes-Benz|Clase C": [
+"mercedes",
+"clase-c"
+],
+"motor.es|Mercedes-Benz|Clase E": [
+"mercedes",
+"clase-e"
+],
+"motor.es|Mercedes-Benz|Clase G": [
+"mercedes",
+"clase-g"
+],
+"motor.es|Mercedes-Benz|Clase S": [
+"mercedes",
+"clase-s"
+],
+"motor.es|Mercedes-Benz|Clase T": [
+"mercedes",
+"clase-t"
+],
+"motor.es|Mercedes-Benz|Clase V": [
+"mercedes",
+"clase-v"
+],
+"motor.es|Mercedes-Benz|EQA": [
+"mercedes",
+"eqa"
+],
+"motor.es|Mercedes-Benz|EQB": [
+"mercedes",
+"eqb"
+],
+"motor.es|Mercedes-Benz|EQE": [
+"mercedes",
+"eqe"
+],
+"motor.es|Mercedes-Benz|EQE SUV": [
+"mercedes",
+"eqe-suv"
+],
+"motor.es|Mercedes-Benz|EQS": [
+"mercedes",
+"eqs"
+],
+"motor.es|Mercedes-Benz|EQS SUV": [
+"mercedes",
+"eqs-suv"
+],
+"motor.es|Mercedes-Benz|EQV": [
+"mercedes",
+"eqv"
+],
+"motor.es|Mercedes-Benz|GLC": [
+"mercedes",
+"glc"
+],
+"motor.es|Mercedes-Benz|Vito": [
+"mercedes",
+"vito"
+],
+"motor.es|Mini|Aceman": [
+"mini",
+"aceman"
+],
+"motor.es|Mini|Cooper": [
+"mini",
+"cooper"
+],
+"motor.es|Mini|Countryman": [
+"mini",
+"countryman"
+],
+"motor.es|Mitsubishi|ASX": [
+"mitsubishi",
+"asx"
+],
+"motor.es|Mitsubishi|Colt": [
+"mitsubishi",
+"colt"
+],
+"motor.es|Mitsubishi|Eclipse Cross": [
+"mitsubishi",
+"eclipse-cross"
+],
+"motor.es|Mitsubishi|Grandis": [
+"mitsubishi",
+"grandis"
+],
+"motor.es|Mitsubishi|Outlander": [
+"mitsubishi",
+"outlander"
+],
+"motor.es|Nissan|Ariya": [
+"nissan",
+"ariya"
+],
+"motor.es|Nissan|Juke": [
+"nissan",
+"juke"
+],
+"motor.es|Nissan|Leaf": [
+"nissan",
+"leaf"
+],
+"motor.es|Nissan|Micra": [
+"nissan",
+"micra"
+],
+"motor.es|Nissan|Primastar": [
+"nissan",
+"primastar"
+],
+"motor.es|Nissan|Qashqai": [
+"nissan",
+"qashqai"
+],
+"motor.es|Nissan|Townstar": [
+"nissan",
+"townstar"
+],
+"motor.es|Nissan|X-Trail": [
+"nissan",
+"x-trail"
+],
+"motor.es|Omoda|5": [
+"omoda",
+"5"
+],
+"motor.es|Omoda|5 EV": [
+"omoda",
+"5-ev"
+],
+"motor.es|Opel|Astra": [
+"opel",
+"astra"
+],
+"motor.es|Opel|Astra Electric": [
+"opel",
+"astra-electric"
+],
+"motor.es|Opel|Combo": [
+"opel",
+"combo"
+],
+"motor.es|Opel|Combo Electric": [
+"opel",
+"combo-electric"
+],
+"motor.es|Opel|Corsa": [
+"opel",
+"corsa"
+],
+"motor.es|Opel|Corsa Electric": [
+"opel",
+"corsa-electric"
+],
+"motor.es|Opel|Frontera": [
+"opel",
+"frontera"
+],
+"motor.es|Opel|Frontera Electric": [
+"opel",
+"frontera-electric"
+],
+"motor.es|Opel|Mokka": [
+"opel",
+"mokka"
+],
+"motor.es|Opel|Mokka-e": [
+"opel",
+"mokka-e"
+],
+"motor.es|Opel|Zafira": [
+"opel",
+"zafira"
+],
+"motor.es|Peugeot|2008": [
+"peugeot",
+"2008"
+],
+"motor.es|Peugeot|208": [
+"peugeot",
+"208"
+],
+"motor.es|Peugeot|3008 Hybrid": [
+"peugeot",
+"3008-hybrid"
+],
+"motor.es|Peugeot|308": [
+"peugeot",
+"308"
+],
+"motor.es|Peugeot|408": [
+"peugeot",
+"408"
+],
+"motor.es|Peugeot|5008 Hybrid": [
+"peugeot",
+"5008-hybrid"
+],
+"motor.es|Peugeot|5008 Plug-in Hybrid": [
+"peugeot",
+"5008-plug-in-hybrid"
+],
+"motor.es|Peugeot|Rifter": [
+"peugeot",
+"rifter"
+],
+"motor.es|Peugeot|Traveller": [
+"peugeot",
+"traveller"
+],
+"motor.es|Peugeot|e-2008": [
+"peugeot",
+"e-2008"
+],
+"motor.es|Peugeot|e-208": [
+"peugeot",
+"e-208"
+],
+"motor.es|Peugeot|e-3008": [
+"peugeot",
+"e-3008"
+],
+"motor.es|Peugeot|e-308": [
+"peugeot",
+"e-308"
+],
+"motor.es|Peugeot|e-408": [
+"peugeot",
+"e-408"
+],
+"motor.es|Peugeot|e-5008": [
+"peugeot",
+"e-5008"
+],
+"motor.es|Peugeot|e-Rifter": [
+"peugeot",
+"e-rifter"
+],
+"motor.es|Polestar|2": [
+"polestar",
+"2"
+],
+"motor.es|Porsche|718": [
+"porsche",
+"718"
+],
+"motor.es|Porsche|911": [
+"porsche",
+"911"
+],
+"motor.es|Porsche|Cayenne": [
+"porsche",
+"cayenne"
+],
+"motor.es|Porsche|Cayenne Coupé": [
+"porsche",
+"cayenne-coupe"
+],
+"motor.es|Porsche|Macan": [
+"porsche",
+"macan"
+],
+"motor.es|Porsche|Panamera": [
+"porsche",
+"panamera"
+],
+"motor.es|Porsche|Taycan": [
+"porsche",
+"taycan"
+],
+"motor.es|Renault|4 E-Tech": [
+"renault",
+"4"
+],
+"motor.es|Renault|5 E-Tech": [
+"renault",
+"5"
+],
+"motor.es|Renault|Arkana": [
+"renault",
+"arkana"
+],
+"motor.es|Renault|Austral": [
+"renault",
+"austral"
+],
+"motor.es|Renault|Captur": [
+"renault",
+"captur"
+],
+"motor.es|Renault|Clio": [
+"renault",
+"clio"
+],
+"motor.es|Renault|Espace": [
+"renault",
+"espace"
+],
+"motor.es|Renault|Grand Scénic": [
+"renault",
+"grand-scenic"
+],
+"motor.es|Renault|Kadjar": [
+"renault",
+"kadjar"
+],
+"motor.es|Renault|Kangoo Combi": [
+"renault",
+"kangoo-combi"
+],
+"motor.es|Renault|Koleos": [
+"renault",
+"koleos"
+],
+"motor.es|Renault|Megane": [
+"renault",
+"megane"
+],
+"motor.es|Renault|Rafale": [
+"renault",
+"rafale"
+],
+"motor.es|Renault|Scénic": [
+"renault",
+"scenic"
+],
+"motor.es|Renault|Symbioz": [
+"renault",
+"symbioz"
+],
+"motor.es|Renault|Trafic": [
+"renault",
+"trafic"
+],
+"motor.es|Renault|Twingo E-Tech": [
+"renault",
+"twingo-e-tech"
+],
+"motor.es|Renault|Twizy": [
+"renault",
+"twizy"
+],
+"motor.es|Renault|Zoe": [
+"renault",
+"zoe"
+],
+"motor.es|SEAT|Arona": [
+"seat",
+"arona"
+],
+"motor.es|SEAT|Ateca": [
+"seat",
+"ateca"
+],
+"motor.es|SEAT|Ibiza": [
+"seat",
+"ibiza"
+],
+"motor.es|SEAT|León": [
+"seat",
+"leon"
+],
+"motor.es|Skoda|Elroq": [
+"skoda",
+"elroq"
+],
+"motor.es|Skoda|Enyaq": [
+"skoda",
+"enyaq"
+],
+"motor.es|Skoda|Fabia": [
+"skoda",
+"fabia"
+],
+"motor.es|Skoda|Kamiq": [
+"skoda",
+"kamiq"
+],
+"motor.es|Skoda|Karoq": [
+"skoda",
+"karoq"
+],
+"motor.es|Skoda|Kodiaq": [
+"skoda",
+"kodiaq"
+],
+"motor.es|Skoda|Octavia": [
+"skoda",
+"octavia"
+],
+"motor.es|Skoda|Scala": [
+"skoda",
+"scala"
+],
+"motor.es|Skoda|Superb": [
+"skoda",
+"superb"
+],
+"motor.es|Smart|#3": [
+"smart",
+"3"
+],
+"motor.es|Smart|#5": [
+"smart",
+"5"
+],
+"motor.es|Subaru|Crosstrek": [
+"subaru",
+"crosstrek"
+],
+"motor.es|Subaru|Forester": [
+"subaru",
+"forester"
+],
+"motor.es|Subaru|Outback": [
+"subaru",
+"outback"
+],
+"motor.es|Subaru|Solterra": [
+"subaru",
+"solterra"
+],
+"motor.es|Suzuki|Across": [
+"suzuki",
+"across"
+],
+"motor.es|Suzuki|S-Cross": [
+"suzuki",
+"s-cross"
+],
+"motor.es|Suzuki|Swace": [
+"suzuki",
+"swace"
+],
+"motor.es|Suzuki|Swift": [
+"suzuki",
+"swift"
+],
+"motor.es|Suzuki|Vitara": [
+"suzuki",
+"vitara"
+],
+"motor.es|Tesla|Model 3": [
+"tesla",
+"model-3"
+],
+"motor.es|Tesla|Model S": [
+"tesla",
+"model-s"
+],
+"motor.es|Tesla|Model Y": [
+"tesla",
+"model-y"
+],
+"motor.es|Toyota|Aygo X Cross": [
+"toyota",
+"aygo-x-cross"
+],
+"motor.es|Toyota|C-HR": [
+"toyota",
+"c-hr"
+],
+"motor.es|Toyota|Corolla": [
+"toyota",
+"corolla"
+],
+"motor.es|Toyota|Corolla Cross": [
+"toyota",
+"corolla-cross"
+],
+"motor.es|Toyota|GR Yaris": [
+"toyota",
+"gr-yaris"
+],
+"motor.es|Toyota|Land Cruiser": [
+"toyota",
+"land-cruiser"
+],
+"motor.es|Toyota|Mirai": [
+"toyota",
+"mirai"
+],
+"motor.es|Toyota|Proace City Verso": [
+"toyota",
+"proace-city-verso"
+],
+"motor.es|Toyota|Proace Verso": [
+"toyota",
+"proace-verso"
+],
+"motor.es|Toyota|Yaris": [
+"toyota",
+"yaris"
+],
+"motor.es|Toyota|Yaris Cross": [
+"toyota",
+"yaris-cross"
+],
+"motor.es|Toyota|bZ4X": [
+"toyota",
+"bz4x"
+],
+"motor.es|Volkswagen|Caddy": [
+"volkswagen",
+"caddy"
+],
+"motor.es|Volkswagen|California": [
+"volkswagen",
+"california"
+],
+"motor.es|Volkswagen|Caravelle": [
+"volkswagen",
+"caravelle"
+],
+"motor.es|Volkswagen|Golf": [
+"volkswagen",
+"golf"
+],
+"motor.es|Volkswagen|ID. Buzz": [
+"volkswagen",
+"id-buzz"
+],
+"motor.es|Volkswagen|ID.3": [
+"volkswagen",
+"id3"
+],
+"motor.es|Volkswagen|ID.4": [
+"volkswagen",
+"id4"
+],
+"motor.es|Volkswagen|ID.5": [
+"volkswagen",
+"id5"
+],
+"motor.es|Volkswagen|ID.7": [
+"volkswagen",
+"id7"
+],
+"motor.es|Volkswagen|Multivan": [
+"volkswagen",
+"multivan"
+],
+"motor.es|Volkswagen|Passat": [
+"volkswagen",
+"passat"
+],
+"motor.es|Volkswagen|Polo": [
+"volkswagen",
+"polo"
+],
+"motor.es|Volkswagen|T-Cross": [
+"volkswagen",
+"t-cross"
+],
+"motor.es|Volkswagen|T-Roc": [
+"volkswagen",
+"t-roc"
+],
+"motor.es|Volkswagen|Taigo": [
+"volkswagen",
+"taigo"
+],
+"motor.es|Volkswagen|Tayron": [
+"volkswagen",
+"tayron"
+],
+"motor.es|Volkswagen|Tiguan": [
+"volkswagen",
+"tiguan"
+],
+"motor.es|Volkswagen|Touareg": [
+"volkswagen",
+"touareg"
+],
+"motor.es|Volkswagen|Touran": [
+"volkswagen",
+"touran"
+],
+"motor.es|Volvo|EC40": [
+"volvo",
+"ec40"
+],
+"motor.es|Volvo|ES90": [
+"volvo",
+"es90"
+],
+"motor.es|Volvo|EX30": [
+"volvo",
+"ex30"
+],
+"motor.es|Volvo|EX40": [
+"volvo",
+"ex40"
+],
+"motor.es|Volvo|EX90": [
+"volvo",
+"ex90"
+],
+"motor.es|Volvo|S60": [
+"volvo",
+"s60"
+],
+"motor.es|Volvo|XC40": [
+"volvo",
+"xc40"
+],
+"motor.es|Voyah|Free": [
+"voyah",
+"free"
+],
+"motor.es|Xpeng|G6": [
+"xpeng",
+"g6"
+],
+"motor.es|Xpeng|G9": [
+"xpeng",
+"g9"
+],
+"motor.es|Xpeng|P7+": [
+"xpeng",
+"p7"
+]
+}
