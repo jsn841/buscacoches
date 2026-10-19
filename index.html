@@ -390,14 +390,16 @@ function fill(sel,opts,keep){
   if(prev&&opts.some(o=>o[0]===prev)) sel.value=prev;
   sel.disabled=opts.length<=1;
 }
-const OCASION={};
+const OCASION={};let TODO_OC=null;
 function archivoOcasion(marca,modelo){return "datos/ocasion/"+slug(marca)+"--"+slug(modelo)+".json"}
 function cargaOcasion(marca,modelo){
   const k=marca+"|"+modelo;if(k in OCASION)return;OCASION[k]=null;
   if(typeof location==="undefined"||location.protocol==="file:"||typeof fetch!=="function")return;
   const RAW="https://raw.githubusercontent.com/jsn841/buscacoches/datos-ocasion/";
   fetch(archivoOcasion(marca,modelo),{cache:"no-cache"}).then(r=>r.ok?r.json():null).catch(()=>null)
-   .then(j=>j||fetch(RAW+archivoOcasion(marca,modelo),{cache:"no-cache"}).then(r=>r.ok?r.json():null))
+   .then(j=>j||fetch(RAW+archivoOcasion(marca,modelo),{cache:"no-cache"}).then(r=>r.ok?r.json():null).catch(()=>null))
+   .then(j=>j||(TODO_OC=TODO_OC||fetch("datos/ocasion-todo.json").then(r=>r.ok?r.json():{}).catch(()=>({})))
+     .then(t=>t[slug(marca)+"--"+slug(modelo)]||null))
    .then(j=>{
     if(!j||!j.fecha)return;OCASION[k]=j;
     if($("marca").value!==marca||$("modelo").value!==modelo)return;
@@ -612,7 +614,7 @@ function render(){
   }
 
   let tipo="gasolina";
-  if(d){const ls=motor!==TODOS&&d.motores[motor]?[d.motores[motor][0]]:Object.values(d.motores).map(v=>v[0]);const cnt={};ls.forEach(l=>{const t=l.split(" · ").pop();cnt[t]=(cnt[t]||0)+1});tipo=Object.entries(cnt).sort((a,b)=>b[1]-a[1])[0][0]}
+  if(d){const ls=motor!==TODOS&&d.motores[motor]?[d.motores[motor][0]]:Object.values(d.motores).map(v=>v[0]);const cnt={};ls.forEach(l=>{const t=l.split(" · ").pop();cnt[t]=(cnt[t]||0)+1});const top=Object.entries(cnt).sort((a,b)=>b[1]-a[1])[0];if(top)tipo=top[0]}
   dibujaDep(cochesSel(d,motor,cambio),PT,tipo);
   seguro(d,motor,M,PT);
 
