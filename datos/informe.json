@@ -1,7 +1,7 @@
 {
- "fecha": "2026-10-19",
+ "fecha": "2026-10-20",
  "modo": "completo",
- "minutos": 81.7,
+ "minutos": 83.7,
  "modelos_pedidos": 505,
  "modelos_con_datos": 437,
  "webs": {
@@ -60,24 +60,24 @@
   },
   "flexicar": {
    "tipo": "portal",
-   "peticiones": 905,
-   "modelos_con_anuncios": 266,
-   "anuncios": 4834,
+   "peticiones": 902,
+   "modelos_con_anuncios": 264,
+   "anuncios": 4828,
    "errores_http": {
     "404": 338
    },
    "resumen": {
-    "ok": 266,
-    "sin": 239
+    "ok": 264,
+    "sin": 241
    },
    "bloqueada": false,
    "robots_http": 200
   },
   "motor.es": {
    "tipo": "portal",
-   "peticiones": 1751,
+   "peticiones": 1748,
    "modelos_con_anuncios": 385,
-   "anuncios": 21226,
+   "anuncios": 21197,
    "errores_http": {
     "404": 84
    },
@@ -90,15 +90,15 @@
   },
   "coches.com": {
    "tipo": "portal",
-   "peticiones": 2196,
-   "modelos_con_anuncios": 375,
-   "anuncios": 30380,
+   "peticiones": 2193,
+   "modelos_con_anuncios": 377,
+   "anuncios": 30356,
    "errores_http": {
     "404": 39
    },
    "resumen": {
-    "ok": 375,
-    "sin": 130
+    "ok": 377,
+    "sin": 128
    },
    "bloqueada": false,
    "robots_http": 200
