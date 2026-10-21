@@ -1,9 +1,9 @@
 {
- "fecha": "2026-10-20",
+ "fecha": "2026-10-21",
  "modo": "completo",
- "minutos": 83.7,
+ "minutos": 82.4,
  "modelos_pedidos": 505,
- "modelos_con_datos": 437,
+ "modelos_con_datos": 434,
  "webs": {
   "Spoticar": {
    "tipo": "oficial",
@@ -19,9 +19,23 @@
    "bloqueada": false,
    "robots_http": 403
   },
+  "BMW Premium Selection": {
+   "tipo": "oficial",
+   "peticiones": 0,
+   "modelos_con_anuncios": 0,
+   "anuncios": 0,
+   "errores_http": {
+    "robots": 36
+   },
+   "resumen": {
+    "sin": 27
+   },
+   "bloqueada": false,
+   "robots_http": 403
+  },
   "Renew": {
    "tipo": "oficial",
-   "peticiones": 61,
+   "peticiones": 62,
    "modelos_con_anuncios": 30,
    "anuncios": 48,
    "errores_http": {},
@@ -32,24 +46,11 @@
    "bloqueada": false,
    "robots_http": 200
   },
-  "BMW Premium Selection": {
-   "tipo": "oficial",
-   "peticiones": 160,
-   "modelos_con_anuncios": 26,
-   "anuncios": 1563,
-   "errores_http": {},
-   "resumen": {
-    "ok": 26,
-    "sin": 1
-   },
-   "bloqueada": false,
-   "robots_http": 200
-  },
   "coches.net": {
    "tipo": "portal",
    "peticiones": 757,
    "modelos_con_anuncios": 1,
-   "anuncios": 151,
+   "anuncios": 153,
    "errores_http": {},
    "resumen": {
     "ok": 1,
@@ -62,7 +63,7 @@
    "tipo": "portal",
    "peticiones": 902,
    "modelos_con_anuncios": 264,
-   "anuncios": 4828,
+   "anuncios": 4820,
    "errores_http": {
     "404": 338
    },
@@ -75,24 +76,24 @@
   },
   "motor.es": {
    "tipo": "portal",
-   "peticiones": 1748,
-   "modelos_con_anuncios": 385,
-   "anuncios": 21197,
+   "peticiones": 1743,
+   "modelos_con_anuncios": 384,
+   "anuncios": 21136,
    "errores_http": {
     "404": 84
    },
    "resumen": {
-    "ok": 385,
-    "sin": 120
+    "ok": 384,
+    "sin": 121
    },
    "bloqueada": false,
    "robots_http": 200
   },
   "coches.com": {
    "tipo": "portal",
-   "peticiones": 2193,
+   "peticiones": 2192,
    "modelos_con_anuncios": 377,
-   "anuncios": 30356,
+   "anuncios": 30320,
    "errores_http": {
     "404": 39
    },
