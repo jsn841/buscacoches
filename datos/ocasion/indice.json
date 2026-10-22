@@ -1,30 +1,30 @@
 {
-"actualizado": "2026-10-21",
+"actualizado": "2026-10-22",
 "modelos": {
 "Abarth|500": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 195
+"portal": 175
 },
 "Dacia|Bigster": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 30
+"portal": 8
 },
 "BMW|i3": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 19
+"fecha": "2026-10-22",
+"oficial": 6,
+"portal": 8
 },
 "Dacia|Dokker": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 86
+"portal": 25
 },
 "Alfa Romeo|Giulia": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 34
+"portal": 18
 },
 "Abarth|600": {
 "fecha": "2026-10-21",
@@ -32,294 +32,294 @@
 "portal": 10
 },
 "Dacia|Duster": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 261
+"portal": 73
 },
 "Alfa Romeo|Junior": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 53
+"portal": 14
 },
 "Dacia|Jogger": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 155
+"portal": 44
 },
 "BMW|i4": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 10
+"fecha": "2026-10-22",
+"oficial": 43,
+"portal": 2
 },
 "Dacia|Lodgy": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 70
+"portal": 24
 },
 "Alfa Romeo|Stelvio": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 200
+"portal": 40
 },
 "Dacia|Logan": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 34
+"portal": 9
 },
 "BMW|i5": {
-"fecha": "2026-10-20",
-"oficial": 26,
+"fecha": "2026-10-22",
+"oficial": 25,
 "portal": 0
 },
 "Alfa Romeo|Tonale": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 182
+"portal": 47
 },
 "Dacia|Logan MCV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
 "portal": 0
 },
 "BMW|i7": {
-"fecha": "2026-10-20",
-"oficial": 6,
+"fecha": "2026-10-22",
+"oficial": 5,
 "portal": 0
 },
 "Alpine|A290": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 3
+"portal": 2
 },
 "Dacia|Sandero": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 287
+"portal": 111
 },
 "BMW|iX": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 6
+"fecha": "2026-10-22",
+"oficial": 25,
+"portal": 3
 },
 "Dacia|Spring": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 53
+"portal": 23
 },
 "Renault|4 E-Tech": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 10
+"portal": 9
 },
 "Renault|5 E-Tech": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
 "portal": 15
 },
 "Alpine|A110": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 11
+"portal": 5
 },
 "Renault|Arkana": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 288
+"portal": 116
 },
 "Aston Martin|DB12": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 3
+"portal": 1
 },
 "Renault|Austral": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 260
+"portal": 92
 },
 "Aston Martin|DBX": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 4
+"portal": 2
 },
 "Audi|A1": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 402
+"portal": 212
 },
 "BMW|iX1": {
-"fecha": "2026-10-21",
-"oficial": 0,
+"fecha": "2026-10-22",
+"oficial": 106,
 "portal": 1
 },
 "Renault|Captur": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 350
+"portal": 175
 },
 "Renault|Clio": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 404
+"portal": 235
 },
 "Aston Martin|Vantage": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 4
+"portal": 2
 },
 "Audi|A3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 364
+"portal": 166
 },
 "Renault|Espace": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 111
+"portal": 29
 },
 "Audi|A5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 220
+"portal": 53
 },
 "Renault|Grand Scénic": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 39
+"portal": 35
 },
 "BMW|iX2": {
-"fecha": "2026-10-21",
-"oficial": 0,
+"fecha": "2026-10-22",
+"oficial": 64,
 "portal": 1
 },
 "Audi|A6": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 146
+"portal": 33
 },
 "Renault|Kadjar": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 250
+"portal": 74
 },
 "Renault|Kangoo Combi": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 3,
-"portal": 38
+"portal": 24
 },
 "BMW|iX3": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 8
+"fecha": "2026-10-22",
+"oficial": 13,
+"portal": 2
 },
 "Audi|A8": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 14
+"portal": 7
 },
 "Renault|Koleos": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 52
+"portal": 16
 },
 "Renault|Megane": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 3,
-"portal": 286
+"portal": 126
 },
 "Audi|Q2": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 265
+"portal": 85
 },
 "Renault|Megane Sport Tourer": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
 "portal": 0
 },
 "Audi|Q3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 246
+"portal": 135
 },
 "BMW|M": {
-"fecha": "2026-10-20",
+"fecha": "2026-10-22",
 "oficial": 76,
 "portal": 0
 },
 "Renault|Rafale": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 53
+"portal": 20
 },
 "Audi|Q3 Sportback": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 47
+"portal": 44
 },
 "Renault|Scénic": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 93
+"portal": 34
 },
 "Renault|Scenic E-Tech": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 0
+"portal": 2
 },
 "Renault|Symbioz": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 107
+"portal": 41
 },
 "Audi|Q5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 211
+"portal": 62
 },
 "Renault|Trafic": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 258
+"portal": 66
 },
 "Audi|Q5 Sportback": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 19
+"portal": 16
 },
 "BMW|Serie 1": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 317
+"fecha": "2026-10-22",
+"oficial": 120,
+"portal": 148
 },
 "Renault|Twingo E-Tech": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 2,
-"portal": 29
+"portal": 22
 },
 "Renault|Twizy": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 5
+"portal": 3
 },
 "Renault|Zoe": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 1,
-"portal": 43
+"portal": 18
 },
 "Audi|Q7": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 101
+"portal": 32
 },
 "Audi|Q8": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 71
+"portal": 24
 },
 "BMW|Serie 2": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 246
+"fecha": "2026-10-22",
+"oficial": 120,
+"portal": 82
 },
 "Audi|A2 e-tron": {
 "fecha": "2026-10-21",
@@ -327,49 +327,49 @@
 "portal": 1
 },
 "BMW|Serie 3": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 290
+"fecha": "2026-10-22",
+"oficial": 120,
+"portal": 126
 },
 "Audi|Q4 e-tron": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 28
+"portal": 7
 },
 "BMW|Serie 4": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 205
+"fecha": "2026-10-22",
+"oficial": 120,
+"portal": 50
 },
 "BMW|Serie 2 Active Tourer": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 14
+"portal": 13
 },
 "BMW|Serie 5": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 167
+"fecha": "2026-10-22",
+"oficial": 59,
+"portal": 51
 },
 "BMW|Serie 6": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 28
+"fecha": "2026-10-22",
+"oficial": 4,
+"portal": 12
 },
 "Audi|Q6 e-tron": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 5
+"portal": 2
 },
 "BMW|Serie 7": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 32
+"fecha": "2026-10-22",
+"oficial": 11,
+"portal": 15
 },
 "BMW|Serie 8": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 14
+"fecha": "2026-10-22",
+"oficial": 3,
+"portal": 4
 },
 "Audi|e-tron GT": {
 "fecha": "2026-10-21",
@@ -377,29 +377,29 @@
 "portal": 1
 },
 "BMW|X1": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 274
+"fecha": "2026-10-22",
+"oficial": 118,
+"portal": 102
 },
 "BMW|X2": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 240
+"fecha": "2026-10-22",
+"oficial": 120,
+"portal": 63
 },
 "BMW|X3": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 263
+"fecha": "2026-10-22",
+"oficial": 119,
+"portal": 76
 },
 "Bentley|Continental GT": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 13
+"portal": 3
 },
 "BMW|X4": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 174
+"fecha": "2026-10-22",
+"oficial": 91,
+"portal": 44
 },
 "Bestune|T77": {
 "fecha": "2026-10-21",
@@ -407,9 +407,9 @@
 "portal": 7
 },
 "BMW|X5": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 137
+"fecha": "2026-10-22",
+"oficial": 69,
+"portal": 33
 },
 "Bestune|B70": {
 "fecha": "2026-10-21",
@@ -417,9 +417,9 @@
 "portal": 6
 },
 "BMW|X6": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 73
+"fecha": "2026-10-22",
+"oficial": 64,
+"portal": 23
 },
 "Bestune|T90": {
 "fecha": "2026-10-21",
@@ -427,9 +427,9 @@
 "portal": 4
 },
 "BMW|X7": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 12
+"fecha": "2026-10-22",
+"oficial": 37,
+"portal": 2
 },
 "Bestune|Joyee 07": {
 "fecha": "2026-10-21",
@@ -437,79 +437,79 @@
 "portal": 12
 },
 "BMW|Z4": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 21
+"fecha": "2026-10-22",
+"oficial": 3,
+"portal": 7
 },
 "BYD|Atto 2": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 35
+"portal": 13
 },
 "BYD|Atto 3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 13
+},
+"BYD|Dolphin": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 18
+},
+"BYD|Seal U": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 20
 },
-"BYD|Dolphin": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 22
-},
-"BYD|Seal U": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 177
-},
 "BYD|Sealion 7": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 43
+"portal": 24
 },
 "Citroën|AMI": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 2
+"portal": 1
 },
 "Citroën|Berlingo": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 364
+"portal": 213
 },
 "Citroën|C3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 400
+"portal": 229
 },
 "Citroën|C3 Aircross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 360
+"portal": 181
 },
 "Citroën|C4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 354
+"portal": 215
 },
 "BMW|XM": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 16
+"fecha": "2026-10-22",
+"oficial": 19,
+"portal": 5
 },
 "Citroën|C4 X": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 116
+"portal": 29
 },
 "Citroën|C5 Aircross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 344
+"portal": 127
 },
 "Citroën|C5 X": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 103
+"portal": 45
 },
 "Bentley|Bentayga": {
 "fecha": "2026-10-21",
@@ -522,214 +522,214 @@
 "portal": 4
 },
 "Citroën|Spacetourer": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 157
+"portal": 23
 },
 "Cupra|Ateca": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 45
+"portal": 15
 },
 "Cupra|Born": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 30
+"portal": 12
 },
 "Cupra|Formentor": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 293
+"portal": 111
 },
 "Cupra|León": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 247
-},
-"Cupra|Terramar": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 116
-},
-"BYD|Atto 3 Evo": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 31
-},
-"DFSK|580": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 8
-},
-"BYD|Dolphin G": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 40
 },
-"DFSK|E5": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 42
-},
-"BYD|Dolphin Surf": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 33
-},
-"BYD|Seal": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 43
-},
-"BYD|Seal 6 DM-i": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 41
-},
-"DS|DS 3": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 18
-},
-"DS|DS 7": {
-"fecha": "2026-10-21",
+"Cupra|Terramar": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 20
 },
-"BYD|Seal U DM-i": {
-"fecha": "2026-10-21",
+"BYD|Atto 3 Evo": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 94
+"portal": 19
+},
+"DFSK|580": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 3
+},
+"BYD|Dolphin G": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 28
+},
+"DFSK|E5": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 5
+},
+"BYD|Dolphin Surf": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 20
+},
+"BYD|Seal": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 29
+},
+"BYD|Seal 6 DM-i": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 22
+},
+"DS|DS 3": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 13
+},
+"DS|DS 7": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 13
+},
+"BYD|Seal U DM-i": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 61
 },
 "Ebro|S400": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 142
+"portal": 19
 },
 "Ebro|S700": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 235
+"portal": 72
 },
 "Changan|Deepal S05 PHEV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 10
 },
 "Changan|Deepal S05": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 69
+"portal": 14
 },
 "Changan|Deepal S07": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 30
+"portal": 9
 },
 "Fiat|500": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 418
+"portal": 192
 },
 "Fiat|600": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 225
+"portal": 61
 },
 "Fiat|Doblò": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 267
+"portal": 75
 },
 "Fiat|Tipo": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 180
+"portal": 56
 },
 "Ford|Bronco": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 21
+"portal": 9
 },
 "Ford|Focus": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 381
+"portal": 205
 },
 "Ford|Grand Tourneo Connect": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 3
 },
 "Ford|Kuga": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 373
+"portal": 217
 },
 "Ford|Mustang": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 44
+"portal": 16
 },
 "Ford|Mustang Mach-E": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 51
+"portal": 18
 },
 "Ford|Puma": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 335
+"portal": 159
 },
 "Ford|Tourneo Connect": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 63
+"portal": 18
 },
 "Ford|Tourneo Courier": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 131
+"portal": 29
 },
 "Ford|Tourneo Custom": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 57
+"portal": 14
 },
 "Honda|Civic": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 153
+"portal": 47
 },
 "Citroën|ë-C3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 5
+"portal": 2
 },
 "Honda|CR-V": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 158
+"portal": 65
 },
 "Citroën|ë-C3 Aircross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 4
+"portal": 1
 },
 "Honda|HR-V": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 116
+"portal": 43
 },
 "Citroën|ë-C4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 21
+"portal": 16
 },
 "Honda|Jazz": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 102
+"portal": 46
 },
 "Citroën|ë-C4 X": {
 "fecha": "2026-10-21",
@@ -742,9 +742,9 @@
 "portal": 1
 },
 "Hyundai|Bayon": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 399
+"portal": 238
 },
 "Citroën|Holidays": {
 "fecha": "2026-10-21",
@@ -752,114 +752,114 @@
 "portal": 1
 },
 "Hyundai|i10": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 409
+"portal": 235
 },
 "Hyundai|i20": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 414
+"portal": 218
 },
 "Hyundai|i30": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 399
+"portal": 235
 },
 "Hyundai|IONIQ 5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 64
+"portal": 41
 },
 "Hyundai|Kona": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 400
+"portal": 238
 },
 "Hyundai|Santa Fe": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 140
+"portal": 58
 },
 "Cupra|Raval": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 4
+"portal": 1
 },
 "Hyundai|Staria": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 24
+},
+"Cupra|Tavascan": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 1
+},
+"Hyundai|Tucson": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 238
+},
+"Ineos|Grenadier": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 1
+},
+"Jaecoo|5": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 33
 },
-"Cupra|Tavascan": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 8
-},
-"Hyundai|Tucson": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 413
-},
-"Ineos|Grenadier": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 6
-},
-"Jaecoo|5": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 91
-},
 "Jaecoo|7": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 73
+"portal": 62
 },
 "Jeep|Avenger": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 302
+"portal": 92
 },
 "Jeep|Compass": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 325
+"portal": 118
 },
 "Jeep|Grand Cherokee": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 51
+"portal": 20
 },
 "Jeep|Renegade": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 296
+"portal": 99
 },
 "Jeep|Wrangler": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 102
+"portal": 31
 },
 "Kia|Ceed": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 398
+"portal": 220
 },
 "Kia|e-Niro": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 28
 },
 "Kia|EV3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 143
+"portal": 64
 },
 "Kia|EV6": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 99
+"portal": 59
 },
 "Denza|D9": {
 "fecha": "2026-10-21",
@@ -867,24 +867,24 @@
 "portal": 2
 },
 "Kia|EV9": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 20
+"portal": 8
 },
 "Denza|Z9 GT": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 23
+"portal": 21
 },
 "DFSK|500": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 23
+"portal": 1
 },
 "Kia|Niro": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 341
+"portal": 212
 },
 "BYD|Tang": {
 "fecha": "2026-10-19",
@@ -892,69 +892,69 @@
 "portal": 1
 },
 "Kia|Picanto": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 353
+"portal": 193
 },
 "Kia|Sorento": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 225
+"portal": 48
 },
 "Dongfeng|Box": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 7
+"portal": 6
 },
 "Dongfeng|Vigo": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 3
 },
 "Kia|Sportage": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 420
+"portal": 226
 },
 "Dongfeng|Mage": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 9
 },
 "Kia|Stonic": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 377
+"portal": 211
 },
 "Kia|XCeed": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 328
+"portal": 176
 },
 "Lancia|Ypsilon": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 73
+"portal": 26
 },
 "Land Rover|Defender": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 120
+"portal": 23
 },
 "Land Rover|Discovery": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 68
+"portal": 28
 },
 "DS|Nº4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 3
+"portal": 1
 },
 "Land Rover|Discovery Sport": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 88
+"portal": 14
 },
 "DS|Nº7": {
 "fecha": "2026-10-21",
@@ -962,119 +962,119 @@
 "portal": 2
 },
 "Land Rover|Range Rover": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 57
+"portal": 15
 },
 "Land Rover|Range Rover Evoque": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 216
+"portal": 75
 },
 "Land Rover|Range Rover Sport": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 140
+"portal": 41
 },
 "Land Rover|Range Rover Velar": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 92
+"portal": 30
 },
 "Ebro|S800": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 157
+"portal": 18
 },
 "Ebro|S900": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 56
+"portal": 7
 },
 "Lexus|ES": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 24
-},
-"Lexus|LBX": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 104
-},
-"EVO|Cuatro": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 2
-},
-"Lexus|NX": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 213
-},
-"Lexus|RX": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 57
-},
-"Lexus|UX": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 204
-},
-"Mazda|CX-30": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 355
-},
-"Mazda|CX-5": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 286
-},
-"Fiat|E-Doblò": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 3
 },
-"Mazda|CX-60": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 147
-},
-"Fiat|Grande Panda": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 91
-},
-"Mazda|CX-80": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 45
-},
-"Fiat|Pandina": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 11
-},
-"Mazda|Mazda2": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 127
-},
-"Fiat|Qubo L": {
-"fecha": "2026-10-21",
+"Lexus|LBX": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 9
 },
-"Mazda|Mazda3": {
-"fecha": "2026-10-21",
+"EVO|Cuatro": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 242
+"portal": 1
+},
+"Lexus|NX": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 28
+},
+"Lexus|RX": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 10
+},
+"Lexus|UX": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 24
+},
+"Mazda|CX-30": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 197
+},
+"Mazda|CX-5": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 110
+},
+"Fiat|E-Doblò": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 2
+},
+"Mazda|CX-60": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 88
+},
+"Fiat|Grande Panda": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 7
+},
+"Mazda|CX-80": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 28
+},
+"Fiat|Pandina": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 7
+},
+"Mazda|Mazda2": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 69
+},
+"Fiat|Qubo L": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 1
+},
+"Mazda|Mazda3": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 67
 },
 "Mazda|MX-5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 37
+"portal": 23
 },
 "Fiat|Ulysse": {
 "fecha": "2026-10-21",
@@ -1082,249 +1082,249 @@
 "portal": 29
 },
 "Mercedes-Benz|AMG GT": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 15
+"portal": 5
 },
 "Ford|Capri": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 31
-},
-"Mercedes-Benz|CLE": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 104
-},
-"Mercedes-Benz|Citan": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 283
-},
-"Mercedes-Benz|Clase A": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 237
-},
-"Mercedes-Benz|Clase B": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 212
-},
-"Mercedes-Benz|Clase C": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 234
-},
-"Mercedes-Benz|Clase E": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 181
-},
-"Mercedes-Benz|Clase S": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 101
-},
-"Mercedes-Benz|Clase T": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 89
-},
-"Mercedes-Benz|Clase V": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 267
-},
-"Mercedes-Benz|EQA": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 155
-},
-"Mercedes-Benz|EQS": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 43
-},
-"Mercedes-Benz|GLA": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 15
-},
-"Geely|Starray EM-i": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 30
-},
-"Geely|E5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 8
 },
-"GWM|Ora 5": {
-"fecha": "2026-10-21",
+"Mercedes-Benz|CLE": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 46
+"portal": 95
+},
+"Mercedes-Benz|Citan": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 78
+},
+"Mercedes-Benz|Clase A": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 232
+},
+"Mercedes-Benz|Clase B": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 183
+},
+"Mercedes-Benz|Clase C": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 235
+},
+"Mercedes-Benz|Clase E": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 154
+},
+"Mercedes-Benz|Clase S": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 51
+},
+"Mercedes-Benz|Clase T": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 28
+},
+"Mercedes-Benz|Clase V": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 99
+},
+"Mercedes-Benz|EQA": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 105
+},
+"Mercedes-Benz|EQS": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 30
+},
+"Mercedes-Benz|GLA": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 12
+},
+"Geely|Starray EM-i": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 8
+},
+"Geely|E5": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 7
+},
+"GWM|Ora 5": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 16
 },
 "Mercedes-Benz|Vito": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 339
+"portal": 97
 },
 "MG|HS": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 314
+"portal": 102
 },
 "MG|MG3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 131
+"portal": 85
 },
 "MG|MG4": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 21
-},
-"Honda|ZR-V": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 37
-},
-"MG|ZS": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 356
-},
-"Mini|Cooper": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 150
-},
-"Mini|Countryman": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 86
-},
-"Mitsubishi|ASX": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 227
-},
-"Mitsubishi|Colt": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 75
-},
-"Mitsubishi|Eclipse Cross": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 270
-},
-"Mitsubishi|Outlander": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 108
-},
-"Nissan|Ariya": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 20
 },
-"Nissan|Juke": {
-"fecha": "2026-10-21",
+"Honda|ZR-V": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 385
+"portal": 10
 },
-"Nissan|Leaf": {
-"fecha": "2026-10-21",
+"MG|ZS": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 57
+"portal": 186
 },
-"Nissan|Micra": {
-"fecha": "2026-10-21",
+"Mini|Cooper": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 226
+"portal": 111
 },
-"Nissan|Primastar": {
-"fecha": "2026-10-21",
+"Mini|Countryman": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 67
 },
-"Nissan|Qashqai": {
-"fecha": "2026-10-21",
+"Mitsubishi|ASX": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 412
+"portal": 51
+},
+"Mitsubishi|Colt": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 28
+},
+"Mitsubishi|Eclipse Cross": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 29
+},
+"Mitsubishi|Outlander": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 29
+},
+"Nissan|Ariya": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 8
+},
+"Nissan|Juke": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 208
+},
+"Nissan|Leaf": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 20
+},
+"Nissan|Micra": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 76
+},
+"Nissan|Primastar": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 29
+},
+"Nissan|Qashqai": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 219
 },
 "Nissan|Townstar": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 96
+"portal": 29
 },
 "Nissan|X-Trail": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 272
+"portal": 82
 },
 "Omoda|5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 271
+"portal": 121
 },
 "Omoda|5 EV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 10
 },
 "Opel|Astra": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 316
+"portal": 113
 },
 "Hyundai|Inster": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 60
+"portal": 42
 },
 "Opel|Combo": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 273
+"portal": 64
 },
 "Opel|Corsa": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 387
+"portal": 235
 },
 "Hyundai|IONIQ 6": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 16
+"portal": 11
 },
 "Hyundai|IONIQ 9": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 10
+"portal": 7
 },
 "Opel|Frontera": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 167
+"portal": 24
 },
 "Opel|Grandland": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 203
+"portal": 12
 },
 "Opel|Mokka": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 291
+"portal": 101
 },
 "Opel|Zafira": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 114
+"portal": 21
 },
 "DFSK|600": {
 "fecha": "2026-10-21",
@@ -1332,14 +1332,14 @@
 "portal": 6
 },
 "Peugeot|208": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 414
+"portal": 234
 },
 "Peugeot|308": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 369
+"portal": 221
 },
 "DFSK|F5": {
 "fecha": "2026-10-21",
@@ -1347,19 +1347,19 @@
 "portal": 15
 },
 "Peugeot|408": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 151
+"portal": 44
 },
 "Peugeot|2008": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 413
+"portal": 227
 },
 "Peugeot|3008 Hybrid": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 65
+"portal": 33
 },
 "DR|DR 5": {
 "fecha": "2026-10-21",
@@ -1377,49 +1377,49 @@
 "portal": 11
 },
 "Peugeot|Rifter": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 322
+"portal": 121
 },
 "Peugeot|Traveller": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 117
+"portal": 23
 },
 "Polestar|2": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 3
+"portal": 2
 },
 "Porsche|718": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 5
+"portal": 4
 },
 "Porsche|911": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 56
+"portal": 25
 },
 "Porsche|Cayenne": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 76
+"portal": 25
 },
 "Porsche|Macan": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 92
+"portal": 34
 },
 "Porsche|Taycan": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 14
+"portal": 8
 },
 "KGM|Korando": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 10
+"portal": 6
 },
 "EVO|EVO3": {
 "fecha": "2026-10-21",
@@ -1437,9 +1437,9 @@
 "portal": 2
 },
 "KGM|Tivoli": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 6
+"portal": 3
 },
 "EVO|EVO6": {
 "fecha": "2026-10-21",
@@ -1447,12 +1447,12 @@
 "portal": 4
 },
 "KGM|Torres": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 12
+"portal": 4
 },
 "KGM|Torres Actyon": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 1
 },
@@ -1472,114 +1472,114 @@
 "portal": 6
 },
 "Renault|Megane E-Tech": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 10
 },
 "Kia|EV2": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 78
+"portal": 26
 },
 "Kia|EV4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 74
+"portal": 46
 },
 "Kia|EV5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 19
+"portal": 13
 },
 "Kia|K4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 48
+"portal": 26
 },
 "SEAT|Arona": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 352
+"portal": 178
 },
 "SEAT|Ateca": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 308
+"portal": 116
 },
 "SEAT|Ibiza": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 409
+"portal": 221
 },
 "SEAT|León": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 414
+"portal": 231
 },
 "Skoda|Enyaq": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 5
+"portal": 2
 },
 "Skoda|Fabia": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 348
+"portal": 153
 },
 "Kia|PV5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 33
+"portal": 10
 },
 "Skoda|Kamiq": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 350
+"portal": 162
 },
 "Kia|Seltos": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 48
+"portal": 17
 },
 "Skoda|Karoq": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 260
+"portal": 92
 },
 "Skoda|Kodiaq": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 190
+"portal": 43
 },
 "Skoda|Octavia": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 239
+"portal": 53
 },
 "Skoda|Scala": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 200
+"portal": 46
 },
 "Skoda|Superb": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 64
+"portal": 26
 },
 "Smart|#1": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 4
+"portal": 1
 },
 "Subaru|Forester": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 36
+"portal": 13
 },
 "Subaru|Outback": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 55
+"portal": 20
 },
 "Ford|Explorer EV": {
 "fecha": "2026-10-21",
@@ -1587,9 +1587,9 @@
 "portal": 18
 },
 "Suzuki|S-Cross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 125
+"portal": 19
 },
 "Suzuki|Swace": {
 "fecha": "2026-10-21",
@@ -1597,154 +1597,154 @@
 "portal": 53
 },
 "Suzuki|Swift": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 134
+"portal": 41
 },
 "Suzuki|Vitara": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 199
+"portal": 56
 },
 "Lamborghini|Urus": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 9
+"portal": 3
 },
 "Tesla|Model 3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 88
+"portal": 29
 },
 "Tesla|Model S": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 16
-},
-"Tesla|Model X": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 14
-},
-"Tesla|Model Y": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 34
-},
-"Toyota|bZ4X": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 32
-},
-"Toyota|C-HR": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 389
-},
-"Toyota|Corolla": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 281
-},
-"Toyota|Corolla Cross": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 33
-},
-"Toyota|Land Cruiser": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 131
-},
-"Leapmotor|B03X": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 4
 },
-"Toyota|Proace City Verso": {
-"fecha": "2026-10-21",
+"Tesla|Model X": {
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 72
+"portal": 5
+},
+"Tesla|Model Y": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 16
+},
+"Toyota|bZ4X": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 1
+},
+"Toyota|C-HR": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 135
+},
+"Toyota|Corolla": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 79
+},
+"Toyota|Corolla Cross": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 10
+},
+"Toyota|Land Cruiser": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 25
+},
+"Leapmotor|B03X": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 2
+},
+"Toyota|Proace City Verso": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 18
 },
 "Leapmotor|B05": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 8
+"portal": 6
 },
 "Toyota|Proace Verso": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 116
+"portal": 28
 },
 "Leapmotor|B10": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 40
+"portal": 17
 },
 "Toyota|RAV4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 12
 },
 "Toyota|Yaris": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 325
+"portal": 128
 },
 "Leapmotor|C10": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 47
+"portal": 22
 },
 "Toyota|Yaris Cross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 302
+"portal": 82
 },
 "Leapmotor|T03": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 27
+"portal": 10
 },
 "Volkswagen|Caddy": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 259
+"portal": 85
 },
 "Lepas|L8": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 39
+"portal": 10
 },
 "Volkswagen|California": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 54
+"portal": 10
 },
 "Volkswagen|Caravelle": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 166
+"portal": 74
 },
 "Volkswagen|Golf": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 417
+"portal": 187
 },
 "Lexus|LS": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 7
+"portal": 2
 },
 "Volkswagen|ID. Buzz": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 20
+"portal": 5
 },
 "Volkswagen|ID.3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 26
+"portal": 6
 },
 "Livan|X3 Pro": {
 "fecha": "2026-10-21",
@@ -1757,24 +1757,24 @@
 "portal": 86
 },
 "Volkswagen|ID.4": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 10
+},
+"Lynk & Co|01": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 62
+},
+"Volkswagen|Multivan": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 26
 },
-"Lynk & Co|01": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 250
-},
-"Volkswagen|Multivan": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 95
-},
 "Volkswagen|Passat": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 226
+"portal": 63
 },
 "Geely|E2": {
 "fecha": "2026-10-21",
@@ -1782,97 +1782,97 @@
 "portal": 1
 },
 "Lynk & Co|08": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 29
+"portal": 1
 },
 "Volkswagen|Polo": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 338
+"portal": 153
 },
 "Maserati|Grecale": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 6
+"portal": 3
 },
 "Volkswagen|T-Cross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 376
+"portal": 204
 },
 "Volkswagen|T-Roc": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 372
+"portal": 179
 },
 "Volkswagen|Taigo": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 273
+"portal": 82
 },
 "Volkswagen|Tayron": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 5
+},
+"Volkswagen|Tiguan": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 171
+},
+"Volkswagen|Touareg": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 18
 },
-"Volkswagen|Tiguan": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 333
-},
-"Volkswagen|Touareg": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 67
-},
 "Volkswagen|Touran": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 157
+"portal": 43
 },
 "Volvo|EX30": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 131
+"portal": 96
 },
 "Volvo|S60": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 55
+"portal": 25
 },
 "Volvo|S90": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 10
+"portal": 3
 },
 "Volvo|V60": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 84
+"portal": 12
 },
 "Volvo|V90": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 11
+"portal": 2
 },
 "Volvo|XC40": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 373
+"portal": 230
 },
 "Volvo|XC60": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 197
+"portal": 12
 },
 "Volvo|XC90": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 134
+"portal": 12
 },
 "Mazda|Mazda6e": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 12
 },
@@ -1882,14 +1882,14 @@
 "portal": 8
 },
 "Mercedes-Benz|AMG SL": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 24
+"portal": 2
 },
 "Mercedes-Benz|Clase G": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 36
+"portal": 7
 },
 "ICH-X|K2": {
 "fecha": "2026-10-21",
@@ -1902,59 +1902,59 @@
 "portal": 3
 },
 "Mercedes-Benz|EQB": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 112
+"portal": 78
 },
 "Mercedes-Benz|EQE": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 89
+"portal": 48
 },
 "Mercedes-Benz|EQE SUV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 18
+"portal": 12
 },
 "Mercedes-Benz|EQS SUV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 1
 },
 "Mercedes-Benz|EQV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 5
+},
+"Mercedes-Benz|GLC": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 1
+},
+"MG|MG4 Urban": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 6
 },
-"Mercedes-Benz|GLC": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 3
-},
-"MG|MG4 Urban": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 7
-},
 "MG|MGS5 EV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 8
 },
 "MG|MGS6 EV": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 7
 },
 "Mini|Aceman": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 6
+"portal": 2
 },
 "Mitsubishi|Grandis": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 27
+"portal": 8
 },
 "Opel|Astra Electric": {
 "fecha": "2026-10-21",
@@ -1967,9 +1967,9 @@
 "portal": 2
 },
 "Opel|Corsa Electric": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 5
+"portal": 3
 },
 "Opel|Frontera Electric": {
 "fecha": "2026-10-21",
@@ -1977,7 +1977,7 @@
 "portal": 4
 },
 "Opel|Mokka-e": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 3
 },
@@ -1987,39 +1987,39 @@
 "portal": 4
 },
 "Peugeot|5008 Hybrid": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 7
 },
 "Peugeot|5008 Plug-in Hybrid": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 1
 },
 "Peugeot|e-208": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 11
+"portal": 6
 },
 "Peugeot|e-2008": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 4
 },
 "Peugeot|e-308": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 8
+"portal": 5
 },
 "Peugeot|e-3008": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 2
+"portal": 1
 },
 "Peugeot|e-408": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 4
+"portal": 2
 },
 "Peugeot|e-5008": {
 "fecha": "2026-10-21",
@@ -2032,19 +2032,19 @@
 "portal": 23
 },
 "Peugeot|e-Rifter": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 3
 },
 "Porsche|Cayenne Coupé": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 3
+"portal": 2
 },
 "Porsche|Panamera": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 36
+"portal": 14
 },
 "Lynk & Co|02": {
 "fecha": "2026-10-21",
@@ -2057,14 +2057,14 @@
 "portal": 7
 },
 "Skoda|Elroq": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 31
+"portal": 6
 },
 "Smart|#3": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 5
+"portal": 1
 },
 "Smart|#5": {
 "fecha": "2026-10-21",
@@ -2077,19 +2077,19 @@
 "portal": 1
 },
 "Subaru|Crosstrek": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 27
-},
-"Subaru|Solterra": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 10
-},
-"Suzuki|Across": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 5
+},
+"Subaru|Solterra": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 3
+},
+"Suzuki|Across": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 3
 },
 "MG|Cyberster": {
 "fecha": "2026-10-21",
@@ -2097,69 +2097,69 @@
 "portal": 12
 },
 "Toyota|Aygo X Cross": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 139
+"portal": 23
 },
 "Toyota|GR Yaris": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 1
 },
 "Toyota|Mirai": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 1
 },
 "Volkswagen|ID.5": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 3
+},
+"Volkswagen|ID.7": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 1
+},
+"Volvo|EC40": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 5
+},
+"Volvo|ES90": {
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 6
 },
-"Volkswagen|ID.7": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 2
-},
-"Volvo|EC40": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 9
-},
-"Volvo|ES90": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 11
-},
 "Volvo|EX40": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 7
+"portal": 4
 },
 "Volvo|EX90": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 20
+"portal": 16
 },
 "Voyah|Free": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 2
 },
 "Xpeng|G6": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
-"portal": 27
+"portal": 16
 },
 "Xpeng|G9": {
-"fecha": "2026-10-21",
-"oficial": 0,
-"portal": 10
-},
-"Xpeng|P7+": {
-"fecha": "2026-10-21",
+"fecha": "2026-10-22",
 "oficial": 0,
 "portal": 8
+},
+"Xpeng|P7+": {
+"fecha": "2026-10-22",
+"oficial": 0,
+"portal": 5
 },
 "Peugeot|3008 Plug-in Hybrid": {
 "fecha": "2026-10-21",

@@ -2107,6 +2107,10 @@ null,
 "hyundai",
 "ioniq-5"
 ],
+"flexicar|Hyundai|Inster": [
+"hyundai",
+"inster"
+],
 "flexicar|Hyundai|Kona": [
 "hyundai",
 "kona"
@@ -2350,6 +2354,14 @@ null,
 "flexicar|Mercedes-Benz|EQA": [
 "mercedes-benz",
 "eqa"
+],
+"flexicar|Mercedes-Benz|EQB": [
+"mercedes-benz",
+"eqb"
+],
+"flexicar|Mercedes-Benz|EQE": [
+"mercedes-benz",
+"eqe"
 ],
 "flexicar|Mercedes-Benz|EQS": [
 "mercedes-benz",
@@ -4039,6 +4051,10 @@ null,
 "renault",
 "rafale"
 ],
+"motor.es|Renault|Scenic E-Tech": [
+"renault",
+"scenic"
+],
 "motor.es|Renault|Scénic": [
 "renault",
 "scenic"
@@ -4053,7 +4069,7 @@ null,
 ],
 "motor.es|Renault|Twingo E-Tech": [
 "renault",
-"twingo-e-tech"
+"twingo"
 ],
 "motor.es|Renault|Twizy": [
 "renault",

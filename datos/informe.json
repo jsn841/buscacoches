@@ -1,9 +1,9 @@
 {
- "fecha": "2026-10-21",
+ "fecha": "2026-10-22",
  "modo": "completo",
- "minutos": 82.4,
+ "minutos": 51.5,
  "modelos_pedidos": 505,
- "modelos_con_datos": 434,
+ "modelos_con_datos": 385,
  "webs": {
   "Spoticar": {
    "tipo": "oficial",
@@ -19,20 +19,6 @@
    "bloqueada": false,
    "robots_http": 403
   },
-  "BMW Premium Selection": {
-   "tipo": "oficial",
-   "peticiones": 0,
-   "modelos_con_anuncios": 0,
-   "anuncios": 0,
-   "errores_http": {
-    "robots": 36
-   },
-   "resumen": {
-    "sin": 27
-   },
-   "bloqueada": false,
-   "robots_http": 403
-  },
   "Renew": {
    "tipo": "oficial",
    "peticiones": 62,
@@ -42,6 +28,33 @@
    "resumen": {
     "ok": 30,
     "sin": 1
+   },
+   "bloqueada": false,
+   "robots_http": 200
+  },
+  "BMW Premium Selection": {
+   "tipo": "oficial",
+   "peticiones": 162,
+   "modelos_con_anuncios": 26,
+   "anuncios": 1567,
+   "errores_http": {},
+   "resumen": {
+    "ok": 26,
+    "sin": 1
+   },
+   "bloqueada": false,
+   "robots_http": 200
+  },
+  "coches.com": {
+   "tipo": "portal",
+   "peticiones": 752,
+   "modelos_con_anuncios": 0,
+   "anuncios": 0,
+   "errores_http": {
+    "404": 752
+   },
+   "resumen": {
+    "sin": 505
    },
    "bloqueada": false,
    "robots_http": 200
@@ -61,45 +74,30 @@
   },
   "flexicar": {
    "tipo": "portal",
-   "peticiones": 902,
-   "modelos_con_anuncios": 264,
-   "anuncios": 4820,
+   "peticiones": 903,
+   "modelos_con_anuncios": 267,
+   "anuncios": 4834,
    "errores_http": {
-    "404": 338
+    "404": 332
    },
    "resumen": {
-    "ok": 264,
-    "sin": 241
+    "ok": 267,
+    "sin": 238
    },
    "bloqueada": false,
    "robots_http": 200
   },
   "motor.es": {
    "tipo": "portal",
-   "peticiones": 1743,
-   "modelos_con_anuncios": 384,
-   "anuncios": 21136,
+   "peticiones": 1642,
+   "modelos_con_anuncios": 363,
+   "anuncios": 18680,
    "errores_http": {
-    "404": 84
+    "404": 95
    },
    "resumen": {
-    "ok": 384,
-    "sin": 121
-   },
-   "bloqueada": false,
-   "robots_http": 200
-  },
-  "coches.com": {
-   "tipo": "portal",
-   "peticiones": 2192,
-   "modelos_con_anuncios": 377,
-   "anuncios": 30320,
-   "errores_http": {
-    "404": 39
-   },
-   "resumen": {
-    "ok": 377,
-    "sin": 128
+    "ok": 363,
+    "sin": 142
    },
    "bloqueada": false,
    "robots_http": 200
