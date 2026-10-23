@@ -1,10 +1,24 @@
 {
- "fecha": "2026-10-22",
+ "fecha": "2026-10-23",
  "modo": "completo",
- "minutos": 51.5,
+ "minutos": 93.5,
  "modelos_pedidos": 505,
- "modelos_con_datos": 385,
+ "modelos_con_datos": 424,
  "webs": {
+  "BMW Premium Selection": {
+   "tipo": "oficial",
+   "peticiones": 0,
+   "modelos_con_anuncios": 0,
+   "anuncios": 0,
+   "errores_http": {
+    "robots": 36
+   },
+   "resumen": {
+    "sin": 27
+   },
+   "bloqueada": false,
+   "robots_http": 403
+  },
   "Spoticar": {
    "tipo": "oficial",
    "peticiones": 0,
@@ -21,40 +35,13 @@
   },
   "Renew": {
    "tipo": "oficial",
-   "peticiones": 62,
+   "peticiones": 61,
    "modelos_con_anuncios": 30,
    "anuncios": 48,
    "errores_http": {},
    "resumen": {
     "ok": 30,
     "sin": 1
-   },
-   "bloqueada": false,
-   "robots_http": 200
-  },
-  "BMW Premium Selection": {
-   "tipo": "oficial",
-   "peticiones": 162,
-   "modelos_con_anuncios": 26,
-   "anuncios": 1567,
-   "errores_http": {},
-   "resumen": {
-    "ok": 26,
-    "sin": 1
-   },
-   "bloqueada": false,
-   "robots_http": 200
-  },
-  "coches.com": {
-   "tipo": "portal",
-   "peticiones": 752,
-   "modelos_con_anuncios": 0,
-   "anuncios": 0,
-   "errores_http": {
-    "404": 752
-   },
-   "resumen": {
-    "sin": 505
    },
    "bloqueada": false,
    "robots_http": 200
@@ -76,7 +63,7 @@
    "tipo": "portal",
    "peticiones": 903,
    "modelos_con_anuncios": 267,
-   "anuncios": 4834,
+   "anuncios": 4836,
    "errores_http": {
     "404": 332
    },
@@ -89,15 +76,30 @@
   },
   "motor.es": {
    "tipo": "portal",
-   "peticiones": 1642,
-   "modelos_con_anuncios": 363,
-   "anuncios": 18680,
+   "peticiones": 1627,
+   "modelos_con_anuncios": 364,
+   "anuncios": 18739,
    "errores_http": {
-    "404": 95
+    "404": 92
    },
    "resumen": {
-    "ok": 363,
-    "sin": 142
+    "ok": 364,
+    "sin": 141
+   },
+   "bloqueada": false,
+   "robots_http": 200
+  },
+  "coches.com": {
+   "tipo": "portal",
+   "peticiones": 2192,
+   "modelos_con_anuncios": 375,
+   "anuncios": 30354,
+   "errores_http": {
+    "404": 39
+   },
+   "resumen": {
+    "ok": 375,
+    "sin": 130
    },
    "bloqueada": false,
    "robots_http": 200

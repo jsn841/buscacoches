@@ -3683,6 +3683,10 @@ null,
 "mazda",
 "cx-60"
 ],
+"motor.es|Mazda|CX-6e": [
+"mazda",
+"cx-6e"
+],
 "motor.es|Mazda|CX-80": [
 "mazda",
 "cx-80"
@@ -3914,6 +3918,10 @@ null,
 "motor.es|Peugeot|3008 Hybrid": [
 "peugeot",
 "3008-hybrid"
+],
+"motor.es|Peugeot|3008 Plug-in Hybrid": [
+"peugeot",
+"3008-plug-in-hybrid"
 ],
 "motor.es|Peugeot|308": [
 "peugeot",
