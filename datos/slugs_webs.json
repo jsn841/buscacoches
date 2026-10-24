@@ -595,6 +595,10 @@ null,
 "ds",
 "ds-7"
 ],
+"coches.com|DS|Nº4": [
+"ds",
+"n4"
+],
 "coches.com|DS|Nº8": [
 "ds",
 "n8"
@@ -1470,6 +1474,10 @@ null,
 "coches.com|Skoda|Enyaq": [
 "skoda",
 "enyaq"
+],
+"coches.com|Skoda|Enyaq Coupé": [
+"skoda",
+"enyaq-coupe"
 ],
 "coches.com|Skoda|Fabia": [
 "skoda",
@@ -2871,6 +2879,10 @@ null,
 "audi",
 "a6"
 ],
+"motor.es|Audi|A6 e-tron": [
+"audi",
+"a6-e-tron"
+],
 "motor.es|Audi|A8": [
 "audi",
 "a8"
@@ -2886,6 +2898,10 @@ null,
 "motor.es|Audi|Q3 Sportback": [
 "audi",
 "q3-sportback"
+],
+"motor.es|Audi|Q4 Sportback e-tron": [
+"audi",
+"q4-sportback-e-tron"
 ],
 "motor.es|Audi|Q4 e-tron": [
 "audi",
@@ -4087,6 +4103,10 @@ null,
 "renault",
 "zoe"
 ],
+"motor.es|Rolls-Royce|Ghost": [
+"rolls-royce",
+"ghost"
+],
 "motor.es|SEAT|Arona": [
 "seat",
 "arona"
@@ -4190,6 +4210,10 @@ null,
 "motor.es|Tesla|Model S": [
 "tesla",
 "model-s"
+],
+"motor.es|Tesla|Model X": [
+"tesla",
+"model-x"
 ],
 "motor.es|Tesla|Model Y": [
 "tesla",

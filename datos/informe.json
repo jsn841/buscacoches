@@ -1,24 +1,10 @@
 {
- "fecha": "2026-10-23",
+ "fecha": "2026-10-24",
  "modo": "completo",
- "minutos": 93.5,
+ "minutos": 85.6,
  "modelos_pedidos": 505,
- "modelos_con_datos": 424,
+ "modelos_con_datos": 432,
  "webs": {
-  "BMW Premium Selection": {
-   "tipo": "oficial",
-   "peticiones": 0,
-   "modelos_con_anuncios": 0,
-   "anuncios": 0,
-   "errores_http": {
-    "robots": 36
-   },
-   "resumen": {
-    "sin": 27
-   },
-   "bloqueada": false,
-   "robots_http": 403
-  },
   "Spoticar": {
    "tipo": "oficial",
    "peticiones": 0,
@@ -46,11 +32,24 @@
    "bloqueada": false,
    "robots_http": 200
   },
+  "BMW Premium Selection": {
+   "tipo": "oficial",
+   "peticiones": 163,
+   "modelos_con_anuncios": 26,
+   "anuncios": 1574,
+   "errores_http": {},
+   "resumen": {
+    "ok": 26,
+    "sin": 1
+   },
+   "bloqueada": false,
+   "robots_http": 200
+  },
   "coches.net": {
    "tipo": "portal",
    "peticiones": 757,
    "modelos_con_anuncios": 1,
-   "anuncios": 153,
+   "anuncios": 154,
    "errores_http": {},
    "resumen": {
     "ok": 1,
@@ -63,7 +62,7 @@
    "tipo": "portal",
    "peticiones": 903,
    "modelos_con_anuncios": 267,
-   "anuncios": 4836,
+   "anuncios": 4844,
    "errores_http": {
     "404": 332
    },
@@ -76,30 +75,31 @@
   },
   "motor.es": {
    "tipo": "portal",
-   "peticiones": 1627,
-   "modelos_con_anuncios": 364,
-   "anuncios": 18739,
+   "peticiones": 1677,
+   "modelos_con_anuncios": 368,
+   "anuncios": 19494,
    "errores_http": {
-    "404": 92
+    "404": 89
    },
    "resumen": {
-    "ok": 364,
-    "sin": 141
+    "ok": 368,
+    "sin": 137
    },
    "bloqueada": false,
    "robots_http": 200
   },
   "coches.com": {
    "tipo": "portal",
-   "peticiones": 2192,
-   "modelos_con_anuncios": 375,
-   "anuncios": 30354,
+   "peticiones": 2206,
+   "modelos_con_anuncios": 376,
+   "anuncios": 30479,
    "errores_http": {
-    "404": 39
+    "404": 39,
+    "ChunkedEncodingError": 1
    },
    "resumen": {
-    "ok": 375,
-    "sin": 130
+    "ok": 376,
+    "sin": 129
    },
    "bloqueada": false,
    "robots_http": 200
