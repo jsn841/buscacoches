@@ -1,7 +1,7 @@
 {
- "fecha": "2026-10-25",
+ "fecha": "2026-10-26",
  "modo": "completo",
- "minutos": 83.5,
+ "minutos": 82.0,
  "modelos_pedidos": 505,
  "modelos_con_datos": 432,
  "webs": {
@@ -34,9 +34,9 @@
   },
   "BMW Premium Selection": {
    "tipo": "oficial",
-   "peticiones": 162,
+   "peticiones": 161,
    "modelos_con_anuncios": 26,
-   "anuncios": 1566,
+   "anuncios": 1562,
    "errores_http": {},
    "resumen": {
     "ok": 26,
@@ -62,7 +62,7 @@
    "tipo": "portal",
    "peticiones": 903,
    "modelos_con_anuncios": 267,
-   "anuncios": 4846,
+   "anuncios": 4844,
    "errores_http": {
     "404": 332
    },
@@ -75,30 +75,30 @@
   },
   "motor.es": {
    "tipo": "portal",
-   "peticiones": 1675,
-   "modelos_con_anuncios": 368,
-   "anuncios": 19423,
+   "peticiones": 1672,
+   "modelos_con_anuncios": 369,
+   "anuncios": 19394,
    "errores_http": {
-    "404": 90
+    "404": 89
    },
    "resumen": {
-    "ok": 368,
-    "sin": 137
+    "ok": 369,
+    "sin": 136
    },
    "bloqueada": false,
    "robots_http": 200
   },
   "coches.com": {
    "tipo": "portal",
-   "peticiones": 2194,
-   "modelos_con_anuncios": 376,
-   "anuncios": 30364,
+   "peticiones": 2210,
+   "modelos_con_anuncios": 375,
+   "anuncios": 30611,
    "errores_http": {
-    "404": 39
+    "404": 37
    },
    "resumen": {
-    "ok": 376,
-    "sin": 129
+    "ok": 375,
+    "sin": 130
    },
    "bloqueada": false,
    "robots_http": 200

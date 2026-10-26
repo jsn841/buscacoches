@@ -1148,7 +1148,7 @@ null,
 "clase-c"
 ],
 "coches.com|Mercedes-Benz|Clase E": [
-"mercedes-benz",
+"mercedes",
 "clase-e"
 ],
 "coches.com|Mercedes-Benz|Clase G": [
@@ -1442,6 +1442,14 @@ null,
 "coches.com|Renault|Zoe": [
 "renault",
 "zoe"
+],
+"coches.com|Rolls-Royce|Ghost": [
+"rolls-royce",
+"ghost"
+],
+"coches.com|Rolls-Royce|Phantom": [
+"rolls-royce",
+"phantom"
 ],
 "coches.com|SEAT|Arona": [
 "seat",
@@ -2926,6 +2934,10 @@ null,
 "motor.es|Audi|Q8": [
 "audi",
 "q8"
+],
+"motor.es|Audi|e-tron GT": [
+"audi",
+"e-tron-gt"
 ],
 "motor.es|BMW|Serie 1": [
 "bmw",
