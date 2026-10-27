@@ -599,6 +599,10 @@ null,
 "ds",
 "n4"
 ],
+"coches.com|DS|Nº7": [
+"ds",
+"n-7"
+],
 "coches.com|DS|Nº8": [
 "ds",
 "n8"
@@ -1910,6 +1914,10 @@ null,
 "flexicar|BMW|iX": [
 "bmw",
 "ix"
+],
+"flexicar|BMW|iX1": [
+"bmw",
+"ix1"
 ],
 "flexicar|BYD|Atto 2": [
 "byd",
@@ -4006,6 +4014,10 @@ null,
 "motor.es|Polestar|2": [
 "polestar",
 "2"
+],
+"motor.es|Polestar|4": [
+"polestar",
+"4"
 ],
 "motor.es|Porsche|718": [
 "porsche",
