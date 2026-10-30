@@ -1495,6 +1495,10 @@ null,
 "skoda",
 "enyaq-coupe"
 ],
+"coches.com|Skoda|Epiq": [
+"skoda",
+"epiq"
+],
 "coches.com|Skoda|Fabia": [
 "skoda",
 "fabia"
@@ -3410,6 +3414,10 @@ null,
 "motor.es|Honda|Jazz": [
 "honda",
 "jazz"
+],
+"motor.es|Honda|Prelude": [
+"honda",
+"prelude"
 ],
 "motor.es|Honda|ZR-V": [
 "honda",
