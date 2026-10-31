@@ -1723,6 +1723,10 @@ null,
 "volvo",
 "ex40"
 ],
+"coches.com|Volvo|EX60": [
+"volvo",
+"ex60"
+],
 "coches.com|Volvo|EX90": [
 "volvo",
 "ex90"
@@ -2078,6 +2082,10 @@ null,
 "flexicar|Ford|Bronco": [
 "ford",
 "bronco"
+],
+"flexicar|Ford|Explorer EV": [
+"ford",
+"explorer-ev"
 ],
 "flexicar|Ford|Focus": [
 "ford",
